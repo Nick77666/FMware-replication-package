@@ -1,0 +1,902 @@
+[
+    {
+        "Title":"ChatGPT Plugin List as of 3\/25\/23",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/i.redd.it\/mpke0ebmxvpa1.jpg",
+        "Creation Time":1679750002.0,
+        "Reply Count":380,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"ChatGPT now supports plugins!!",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/i.redd.it\/i2q9jdg2gkpa1.jpg",
+        "Creation Time":1679592917.0,
+        "Reply Count":882,
+        "Upvote Ratio":0.96
+    },
+    {
+        "Title":"Ultimate Guide: 86 ChatGPT Plugins (and the prompts to use with them)",
+        "Question":"Since Plugins are the it thing at the moment, I made a list and description of 86 plugins you should know. If you want more details this is the article referenced: [Ultimate Guide: 86 ChatGPT Plugins (and the prompts to use with them)](https:\/\/www.chatgptguide.ai\/2023\/05\/20\/ultimate-guide-86-chatgpt-plugins-and-the-prompts-to-use-with-them\/)\n\n**IMPORTANT NOTE EDIT 7:28am GMT time 21 May:** Apologies all, in my rush to get this out, I copied and pasted a few descriptions incorrectly in the above webpage link. These have now been corrected (thank you to those who pointed them out). For those who downloaded the free ebook, I will be resending you an updated version shortly.\n\n&#x200B;\n\n|Name|Description|\n|:-|:-|\n|ABC Music Notation|Convert ABC music notation to WAV, MIDI, and PostScript files|\n|ABCmouse|Provide fun and educational learning activities for children 2-8|\n|AITickerChat|Retrieve USA stock insights from SEC filings|\n|Algorithma|Shape your virtual life in a life simulator|\n|Ambition|Search millions of jobs near you|\n|AskYourPDF|Talk to any PDF you want!|\n|BizToc|Business and finance news|\n|BlockAtlas|Search the US census. Find data sets, ask questions, and visualize|\n|Bohita|Create apparel with any image you can describe!|\n|Bramework|Find keywords and SEO information and analysis|\n|BuyWisely|Compare prices & discover the latest offers in Australia|\n|C3 Glide|Get live aviation data for pilots|\n|Change|Discover nonprofits to support your community and beyond|\n|ChatwithPDF|Ask questions to any PDF|\n|Chess|Play Chess in ChatGPT|\n|Cloudflare Radar|Do housing market research for your next house or investment|\n|Comic Finder|Find the best comics for you|\n|Coupert|Find the best coupons on all online stores|\n|Craftly Clues|Guess the word game|\n|CreatiCode|Display scratch programs as images & write 2D\/3D programs using Creaticode extension|\n|Crypto Prices|Access the latest crypto prices and news|\n|Dev Community|Recommend articles of users from DEV community|\n|EdX|Find courses of all levels from leading universities|\n|Expedia|Bring your next trip to life|\n|FiscalNote|Enables access to select market-leading, real-time data sets for legal and political info|\n|GetyourGuide|Find tours and other travel activities|\n|Giftwrap|Ask about gift ideas, get them wrapped and delivered|\n|Glowing|Schedule and send daily SMS|\n|Golden|Get current factual data on companies from Golden knowledge graph|\n|Hauling Buddies|Locate dependable animal transporters|\n|Instacart|Ask about recipes and then get them delivered|\n|KalendarAI|Sales agent generates revenue with potential customers|\n|KAYAK|Search flights, stays and rental cars in your budget|\n|KeyMate|Search the web using a custom search engine|\n|Keyplays Live Soccer|Latest live standings, plays, and results|\n|Klara Shopping|Search and compare prices from online stores|\n|Kraftful|Your product development coach|\n|Lexi Shopper|Get product recommendations from your local Amazon store|\n|Likewise|Get TV, movies, and podcast recommendations|\n|Link Reader|Reads the content of all links!|\n|Manorlead|Get a list of listings for rent|\n|Metaphor|Access the internet's highest quality content|\n|MixerBox OnePlayer|Endless music, podcasts, and videos|\n|Ndricks Sports|Get info about pro teams (NHL, NBA, MLB)|\n|Noteable|Create notebooks in Python, SQL|\n|One Word Domain|Describe your business and get the perfect one-word domain for it|\n|Open Trivia|Get trivia from various categories|\n|OpenTable|Search and get bookings at restaurants anywhere, anytime|\n|Options Pro|Personal options trader for all types of markets|\n|OwlJourney|Provides lodging and activity suggestions|\n|Playlist AI|Create Spotify playlists for any prompt|\n|Polarr|Search user-generated filters to make your photos and videos perfect|\n|Polygon|All of your market data about stocks, crypto, and more|\n|Portfolio Pilot|Your AI investing guide: portfolio assessment and answers to all questions|\n|Prompt Perfect|Type 'perfect' to craft the perfect prompt every time|\n|Public|Get real-time and historic market data like asset prices & news|\n|Redfin|Have questions about the housing market? Find the answers|\n|Rentable Apartments|Get all the cheap and best apartments|\n|Savvy Trader AI|Real-time stock, crypto, and investment data|\n|ScholarAI|Unlock the power of scientific knowledge with fast, reliable, and peer-reviewed data|\n|Shimmer|Track meals and gain insights for a healthier lifestyle|\n|Shop|Search millions of products from the greatest brands|\n|Show Me|Create and edit diagrams in chat|\n|Speak|Learn how to speak anything in any language|\n|Speechki|Convert text to audio use|\n|Tablelog|Find restaurant reservations in Japan|\n|Tasty Recipes|Discover recipe ideas, meal plans, and cooking tips|\n|There's an AI for that|Find the right AI tools for any use case|\n|Trip.com|Simplify your flight and hotel bookings|\n|Turo|Search for the perfect Turo vehicle for your trip|\n|Tutory|Access affordable on-demand tutoring|\n|Upskillr|Build a curriculum for any topic|\n|Video Insights|Interact with online video platforms like YouTube|\n|Vivian Health|First step to finding your next healthcare job|\n|VoxScript|Enables searching of YouTube transcripts and Google|\n|Wahi|Ask and learn about latest property listings in Ontario|\n|Weather Report|Current weather data of all cities|\n|WebPilot|Browse & QA webpages|\n|Wishbucket|Unified product search across all Korean platforms and brands|\n|Wolfram|Compute answers using technology, relied on by millions of students & professionals|\n|Word Sneak|Sneak 3 words into the convo and you have to guess it|\n|World News|Summarize news headlines|\n|Yabble|Your ultimate AI research assistant. Create surveys, audiences & collect data|\n|Yay! Forms|Create AI-powered forms, surveys, and quizzes|\n|[Zapier](https:\/\/www.chatgptguide.ai\/2023\/05\/21\/how-to-use-the-zapier-chatgpt-plugin\/)|Interact with 5000+ apps like Google Sheets, Salesforce, and more|\n|[Zillow](https:\/\/www.chatgptguide.ai\/2023\/05\/21\/how-to-use-the-zillow-chatgpt-plugin\/)|Your real estate assistant is here|\n\n&#x200B;\n\nLink to the original article with prompt ideas: [https:\/\/www.chatgptguide.ai\/2023\/05\/20\/ultimate-guide-86-chatgpt-plugins-and-the-prompts-to-use-with-them\/](https:\/\/www.chatgptguide.ai\/2023\/05\/20\/ultimate-guide-86-chatgpt-plugins-and-the-prompts-to-use-with-them\/)",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/13n3hcn\/ultimate_guide_86_chatgpt_plugins_and_the_prompts\/",
+        "Creation Time":1684610060.0,
+        "Reply Count":256,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"Our ChatGPT plugin is now open",
+        "Question":"",
+        "subreddit":"Unity3D",
+        "Link":"https:\/\/v.redd.it\/o0gs9r1eippa1",
+        "Creation Time":1679672440.0,
+        "Reply Count":122,
+        "Upvote Ratio":0.94
+    },
+    {
+        "Title":"ChatGPT plugins",
+        "Question":"",
+        "subreddit":"singularity",
+        "Link":"https:\/\/openai.com\/blog\/chatgpt-plugins",
+        "Creation Time":1679591867.0,
+        "Reply Count":149,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"I made a ChatGPT plugin that can generate pictures of you",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/v.redd.it\/cvfs2tl4sfwa1",
+        "Creation Time":1682605501.0,
+        "Reply Count":130,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"I have 15 years of experience and developing a ChatGPT plugin is blowing my mind",
+        "Question":"Building a plugin for ChatGPT is like magic.\n\nYou give it a an OpenAPI schema with natural language description for the endpoints, and formats for requests and responses. Each time a user asks something, ChatPGT decides whether to use your plugin based on context, if it decides it's time to use the plugin it goes to the API, understands what endpoint it should use, what parameters it should fill in, sends a request, receives the data, processes it and informs the user of only what they need to know.  \ud83e\udd2f\n\nNot only that, for my plugin (creating shortened or custom edits of YouTube videos), it understands that it needs to first get the video transcript from one endpoint, understands what's going on in the video at each second, then makes another request to create the new shortened edit.\n\nIt also looks at the error code if there is one, and tries to resend the request differently in an attempt to fix the mistake!\n\nI have never imagined anything like this in my entire career. The potential and implications are boundless. It's both exciting and scary at the same time. Either way we're lucky to live through this.",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/13h0tpi\/i_have_15_years_of_experience_and_developing_a\/",
+        "Creation Time":1684033564.0,
+        "Reply Count":393,
+        "Upvote Ratio":0.97
+    },
+    {
+        "Title":"[N] ChatGPT plugins",
+        "Question":"[https:\/\/openai.com\/blog\/chatgpt-plugins](https:\/\/openai.com\/blog\/chatgpt-plugins)\n\n>We\u2019ve implemented initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run  computations, or use third-party services.",
+        "subreddit":"MachineLearning",
+        "Link":"https:\/\/www.reddit.com\/r\/MachineLearning\/comments\/11zsdwv\/n_chatgpt_plugins\/",
+        "Creation Time":1679594951.0,
+        "Reply Count":144,
+        "Upvote Ratio":0.97
+    },
+    {
+        "Title":"Every day people talk about ChatGPT with plugins and web access, and every day my ChatGPT looks like this:",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/i.redd.it\/wfuetf3ahwza1.jpg",
+        "Creation Time":1684097088.0,
+        "Reply Count":489,
+        "Upvote Ratio":0.96
+    },
+    {
+        "Title":"[Official] ChatGPT now supports plugins!!!",
+        "Question":"",
+        "subreddit":"OpenAI",
+        "Link":"https:\/\/i.redd.it\/h5l2k5hbgkpa1.jpg",
+        "Creation Time":1679593001.0,
+        "Reply Count":292,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"NEW: ChatGPT plugin store can be searched now!",
+        "Question":"",
+        "subreddit":"OpenAI",
+        "Link":"https:\/\/i.redd.it\/dwdiqqsov93b1.png",
+        "Creation Time":1685566873.0,
+        "Reply Count":108,
+        "Upvote Ratio":0.97
+    },
+    {
+        "Title":"I made There's An AI For That: a ChatGPT plugin that finds AI tools for any use case",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/v.redd.it\/qxkh1uc0hr0b1",
+        "Creation Time":1684494082.0,
+        "Reply Count":101,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"Someone just made a ChatGPT plugin that lets it take control of your computer",
+        "Question":"",
+        "subreddit":"singularity",
+        "Link":"https:\/\/www.videogamer.com\/news\/chatgpt-plugin-takes-over-your-pc\/",
+        "Creation Time":1684416409.0,
+        "Reply Count":183,
+        "Upvote Ratio":0.94
+    },
+    {
+        "Title":"I made a ChatGPT plugin that illustrates articles",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/v.redd.it\/af5amrwu6e4b1",
+        "Creation Time":1686054961.0,
+        "Reply Count":50,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"Is anyone scared of GPT plugins?",
+        "Question":"I know there's been much debate about how ChatGPT and other LLMs will not replace knowledge economy jobs, but looking at the advancements in just the past 2 weeks alone is mind-blowing and scary. Specifically talking about GPT4 and Plugins. \n\nKnowledge workers' biggest strength is knowing arcane skills. Programming, marketing, design, sales, business etc. are skills that people spend years learning. But now with LLM plugins, you don't need to learn these skills as long as you can communicate with the LLM and have analytical skills to ask it meaningful questions.\n\nFor instance, you don't need to learn SQL, you can just ask a (hypothetical) plugin in plain English to fetch insights for you. Even different facets of product management can be automated. Writing PRDs, generating interview scripts for customer research, running the research, summarizing and synthesing the insights, feeding these insights to product frameworks to generate product strategy. Not saying that all of this is possible today, but given the trajectory these technologies are on, it should be possible in years, if not months.\n\nHonestly, this scares me. Yes, there are examples from the past about how technological innovations furthered human creativity and skills, but I'd love to get a glimpse of what the future looks like when potentially every human in the world can do any task without learning it but instead by knowing how to talk to an LLM and having bare minimum analytical skills.\n\nEDIT: Didn't realize this post would blow up! As few others have pointed out, my goal was not to create fear mongering with AI taking our jobs, and apologies if it came across that way. \n\nI am loving the discussions and examples that people have shared from various facets of their lives trying to use ChatGPT to uplevel their skills. Thank you for sharing! \n\nAt the same time, for those of you that are dismissing LLMs as a stochastic parrot or the impact it will have to global economy, here's a reference that might make you think otherwise. [ChatGPT is about to revolutionize the economy. We need to decide what that looks like.](https:\/\/www.technologyreview.com\/2023\/03\/25\/1070275\/chatgpt-revolutionize-economy-decide-what-looks-like\/)",
+        "subreddit":"ProductManagement",
+        "Link":"https:\/\/www.reddit.com\/r\/ProductManagement\/comments\/121owk7\/is_anyone_scared_of_gpt_plugins\/",
+        "Creation Time":1679757065.0,
+        "Reply Count":136,
+        "Upvote Ratio":0.81
+    },
+    {
+        "Title":"You can now connect ChatGPT to your business - query and interact with your Google Analytics, Facebook Ads and Google Ads data with the \"Avian\" plugin, available now on the ChatGPT plugin store",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/v.redd.it\/h7v5c8lf5h7b1",
+        "Creation Time":1687398292.0,
+        "Reply Count":73,
+        "Upvote Ratio":0.92
+    },
+    {
+        "Title":"Plugins are now supported on GPT!",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/v.redd.it\/a1jxyt4n1jpa1",
+        "Creation Time":1679594012.0,
+        "Reply Count":143,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"How useful do you find ChatGPT Plugins?",
+        "Question":"And how they are implemented.",
+        "subreddit":"ChatGPTPro",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/15ipo11\/how_useful_do_you_find_chatgpt_plugins\/",
+        "Creation Time":1691222626.0,
+        "Reply Count":107,
+        "Upvote Ratio":0.94
+    },
+    {
+        "Title":"I made a ChatGPT plugin directory: \ud83c\udfc4 plugin surf. what do you think? (free)",
+        "Question":"hi! for a while now I was bothered by how \\*badly made\\* the ChatGPT plugin store is.   \nThis motivated me to start a side project: get all plugins in one place with proper descriptions, available metadata and add community elements on top (sort of product hunt vibe). Goal: upvote the best plugins, make it easier to discover useful ones, and have fun.\n\nThe directory is (and will be) completely free to use. It's still an early version but I plan to improve it and eventually make it the best resource for chatgpt plugins! I'd love to get your feedback. lmk what you think!  \n\n\nhere's the link: \ud83c\udfc4 [plugin.surf](https:\/\/plugin.surf)",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/14k6u1j\/i_made_a_chatgpt_plugin_directory_plugin_surf\/",
+        "Creation Time":1687851359.0,
+        "Reply Count":58,
+        "Upvote Ratio":0.96
+    },
+    {
+        "Title":"I made a chatGPT plugin that decorates an empty room in different styles from a single photo",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/v.redd.it\/z58qv25zzr1b1",
+        "Creation Time":1684932573.0,
+        "Reply Count":90,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"Chatgpt Plugins Week 1. GPT-4 Week 2. Another absolutely insane week in AI. One of the biggest advancements in human history",
+        "Question":"On February 9th there was a paper released talking about how incredible it would be if AI could use tools. 42 days later we had Chatgpt plugins. The speed with which we are advancing is truly unbelievable, incredibly exciting and also somewhat terrifying.\n\nHere's some of the things that happened in the past week\n\n(I'm not associated with any person, company or tool. This was entirely by me, no AI involved)\n\nI write about the implications of all the crazy new advancements happening in AI for people who don't have the time to do their own research. If you'd like to stay in the know you can [sub here](https:\/\/nofil.beehiiv.com\/subscribe) :)\n\n&#x200B;\n\n* Some pretty famous people (Musk, Wozniak + others) have signed a letter (?) to pause the work done on AI systems more powerful than gpt4. Very curious to hear what people think about this. On one hand I can understand the sentiment, but hypothetically even if this did happen, will this actually accomplish anything? I somehow doubt it tbh \\[[Link](https:\/\/futureoflife.org\/open-letter\/pause-giant-ai-experiments\/)\\]\n* Here is a concept of Google Brain from back in 2006 (!). You talk with Google and it lets you search for things and even pay for them. Can you imagine if Google worked on something like this back then? Absolutely crazy to see \\[[Link](https:\/\/twitter.com\/ananayarora\/status\/1640640932654751744)\\]\n* OpenAI has invested into \u2018NEO\u2019, a humanoid robot by 1X. They believe it will have a big impact on the future of work. ChatGPT + robots might be coming sooner than expected \\[[Link](https:\/\/twitter.com\/SmokeAwayyy\/status\/1640560051625803777)\\]. They want to create human-level dexterous robots \\[[Link](https:\/\/twitter.com\/DataChaz\/status\/1639930481897533440)\\]\n* There\u2019s a \u2018code interpreter\u2019 for ChatGPT and its so good, legit could do entire uni assignments in less than an hour. I would\u2019ve loved this in uni. It can even scan dB\u2019s and analyse the data, create visualisations. Basically play with data using english. Also handles uploads and downloads \\[[Link](https:\/\/twitter.com\/DataChaz\/status\/1639055889863720960)\\]\n* AI is coming to Webflow. Build components instantly using AI. Particularly excited for this since I build websites for people using Webflow. If you need a website built I might be able to help \ud83d\udc40\u00a0\\[[Link](https:\/\/twitter.com\/tayler_odea\/status\/1640465417817960449)\\]\n* ChatGPT Plugin will let you find a restaurant, recommend a recipe and build an ingredient list and let you purchase them using Instacart \\[[Link](https:\/\/twitter.com\/gdb\/status\/1638949234681712643)\\]\n* Expedia showcased their plugin and honestly already better than any wbesite to book flights. It finds flights, resorts and things to do. I even built a little demo for this before plugins were released \ud83d\ude2d\u00a0\\[[Link](https:\/\/twitter.com\/ExpediaGroup\/status\/1638963397361545216)\\]. The plugin just uses straight up english. We\u2019re getting to a point where if you can write, you can create \\[[Link](https:\/\/twitter.com\/emollick\/status\/1639391514085457921)\\]\n* The Retrieval plugin gives ChatGPT memory. Tell it anything and it\u2019ll remember. So if you wear a mic all day, transcribe the audio and give it to ChatGPT, it\u2019ll remember pretty much anything and everything you say. Remember anything instantly. Crazy use cases for something like this \\[[Link](https:\/\/twitter.com\/isafulf\/status\/1640071967889035264)\\]\n* ChadCode plugin lets you do search across your files and create issues into github instantly. The potential for something like this is crazy. Changes coding forever imo \\[[Link](https:\/\/twitter.com\/mathemagic1an\/status\/1639779842769014784)\\]\n* The first GPT-4 built iOS game and its actually on the app store. Mate had no experience with Swift, all code generated by AI. Soon the app store will be flooded with AI built games, only a matter of time \\[[Link](https:\/\/twitter.com\/Shpigford\/status\/1640308252729651202)\\]\n* Real time detection of feelings with AI. Honestly not sure what the use cases are but I can imagine people are going to do crazy things with stuff like this \\[[Link](https:\/\/twitter.com\/heyBarsee\/status\/1640257391760474112)\\]\n* Voice chat with LLama on you Macbook Pro. I wrote about this in my newsletter, we won\u2019t be typing for much longer imo, we\u2019ll just talk to the AI like Jarvis \\[[Link](https:\/\/twitter.com\/ggerganov\/status\/1640022482307502085)\\]\n* Nerfs for cities, looks cool \\[[Link](https:\/\/twitter.com\/_akhaliq\/status\/1640188743649832961)\\]\n* People in the Midjourney subreddit have been making images of an earthquake that never happened and honestly the images look so real its crazy \\[[Link](https:\/\/twitter.com\/venturetwins\/status\/1640038880325009408)\\]\n* This is an interesting comment by Mark Cuban. He suggests maybe people with liberal arts majors or other degrees could be prompt engineers to train models for specific use cases and task. Could make a lot of money if this turns out to be a use case. Keen to hear peoples thoughts on this one \\[[Link](https:\/\/twitter.com\/mcuban\/status\/1640162556860940289)\\]\n* Emad Mostaque, Ceo of Stability AI estimates building a GPT-4 competitor would be roughly 200-300 million if the right people are there \\[[Link](https:\/\/twitter.com\/EMostaque\/status\/1640052170572832768)\\]. He also says it would take at least 12 months to build an open source GPT-4 and it would take crazy focus and work \\[[Link](https:\/\/twitter.com\/EMostaque\/status\/1640002619040227328)\\]\n* \u2022 A 3D artist talks about how their job has changed since Midjourney came out. He can now create a character in 2-3 days compared to weeks before. They hate it but even admit it does a better job than them. It's honestly sad to read because I imagine how fun it is for them to create art. This is going to affect a lot of people in a lot of creative fields \\[[Link](https:\/\/www.reddit.com\/r\/blender\/comments\/121lhfq\/i_lost_everything_that_made_me_love_my_job\/)\\]\n* This lad built an entire iOS app including payments in a few hours. Relatively simple app but sooo many use cases to even get proof of concepts out in a single day. Crazy times ahead \\[[Link](https:\/\/twitter.com\/pwang_szn\/status\/1639930203526041601)\\]\n* Someone is learning how to make 3D animations using AI. This will get streamlined and make some folks a lot of money I imagine \\[[Link](https:\/\/twitter.com\/icreatelife\/status\/1639698659808886786)\\]\n* These guys are building an ear piece that will give you topics and questions to talk about when talking to someone. Imagine taking this into a job interview or date \ud83d\udc80\u00a0\\[[Link](https:\/\/twitter.com\/mollycantillon\/status\/1639870671336644614)\\]\n* What if you could describe the website you want and AI just makes it. This demo looks so cool dude website building is gona be so easy its crazy \\[[Link](https:\/\/twitter.com\/thekitze\/status\/1639724609112096768)\\]\n* Wear glasses that will tell you what to say by listening in to your conversations. When this tech gets better you won\u2019t even be able to tell if someone is being AI assisted or not \\[[Link](https:\/\/twitter.com\/bryanhpchiang\/status\/1639830383616487426)\\]\n* The Pope is dripped tf out. I\u2019ve been laughing at this image for days coz I actually thought it was real the first time I saw it \ud83e\udd23 \\[[Link](https:\/\/twitter.com\/growing_daniel\/status\/1639810541547061250)\\]\n* Levi\u2019s wants to increase their diversity by showcasing more diverse models, except they want to use AI to create the images instead of actually hiring diverse models. I think we\u2019re gona see much more of this tbh and it\u2019s gona get a lot worse, especially for models because AI image generators are getting crazy good \\[[Link](https:\/\/twitter.com\/Phil_Lewis_\/status\/1639718293605892096)\\]. Someone even created an entire AI modelling agency \\[[Link](https:\/\/www.deepagency.com\/)\\]\n* ChatGPT built a tailwind landing page and it looks really neat \\[[Link](https:\/\/twitter.com\/gabe_ragland\/status\/1639658044106895360)\\]\n* This investor talks about how he spoke to a founder who literally took all his advice and fed it to gpt-4. They even made ai generated answers using eleven labs. Hilarious shit tbh \\[[Link](https:\/\/twitter.com\/blader\/status\/1639847199180988417)\\]\n* Someone hooked up GPT-4 to Blender and it looks crazy \\[[Link](https:\/\/twitter.com\/rowancheung\/status\/1639702313186230272)\\]\n* This guy recorded a verse and made Kanye rap it \\[[Link](https:\/\/twitter.com\/rpnickson\/status\/1639813074176679938)\\]\n* gpt4 saved this dogs life. Doctors couldn\u2019t find what was wrong with the dog and gpt4 suggested possible issues and turned out to be right. Crazy stuff \\[[Link](https:\/\/twitter.com\/peakcooper\/status\/1639716822680236032)\\]\n* A research paper suggests you can improve gpt4 performance by 30% by simply having it consider \u201cwhy were you wrong\u201d. It then keeps generating new prompts for itself taking this reflection into account. The pace of learning is really something else \\[[Link](https:\/\/twitter.com\/blader\/status\/1639728920261201921)\\]\n* You can literally asking gpt4 for a plugin idea, have it code it, then have it put it up on replit. It\u2019s going to be so unbelievably easy to create a new type of single use app soon, especially if you have a niche use case. And you could do this with practically zero coding knowledge. The technological barrier to solving problems using code is disappearing before our eyes  \\[[Link](https:\/\/twitter.com\/eerac\/status\/1639332649536716824)\\]\n* A soon to be open source AI form builder. Pretty neat \\[[Link](https:\/\/twitter.com\/JhumanJ\/status\/1639233285556514817)\\]\n* Create entire videos of talking AI people. When this gets better we wont be able to distinguish between real and AI \\[[Link](https:\/\/twitter.com\/christianortner\/status\/1639360983192723474)\\]\n* Someone made a cityscape with AI then asked Chatgpt to write the code to port it into VR. From words to worlds \\[[Link](https:\/\/twitter.com\/ClaireSilver12\/status\/1621960309220032514)\\]\n* Someone got gpt4 to write an entire book. It\u2019s not amazing but its still a whole book. I imagine this will become much easier with plugins and so much better with gpt5 & gpt6 \\[[Link](https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/120oq1x\/i_asked_gpt4_to_write_a_book_the_result_echoes_of\/)\\]\n* Make me an app - Literally ask for an app and have it built. Unbelievable software by Replit. When AI gets better this will be building whole, functioning apps with a single prompt. World changing stuff \\[[Link](https:\/\/twitter.com\/amasad\/status\/1639355638097776640)\\]\n* Langchain is building open source AI plugins, they\u2019re doing great work in the open source space. Can\u2019t wait to see where this goes \\[[Link](https:\/\/twitter.com\/hwchase17\/status\/1639351690251100160)\\]. Another example of how powerful and easy it is to build on Langchain \\[[Link](https:\/\/twitter.com\/pwang_szn\/status\/1638707301073956864)\\]\n* Tesla removed sensors and are just using cameras + AI \\[[Link](https:\/\/twitter.com\/Scobleizer\/status\/1639161161982816258)\\]\n* Edit 3d scenes with text in real time \\[[Link](https:\/\/twitter.com\/javilopen\/status\/1638848842631192579)\\]\n* GPT4 is so good at understanding different human emotions and emotional states it can even effectively manage a fight between a couple. We\u2019ve already seen many people talk about how much its helped them for therapy. Whether its good, ethical or whatever the fact is this has the potential to help many people without being crazy expensive. Someone will eventually create a proper company out of this and make a gazillion bucks \\[[Link](https:\/\/twitter.com\/danshipper\/status\/1638932491594797057)\\]\n* You can use plugins to process video clips, so many websites instantly becoming obsolete \\[[Link](https:\/\/twitter.com\/gdb\/status\/1638971232443076609)\\] \\[[Link](https:\/\/twitter.com\/DataChaz\/status\/1639002271701692417)\\]\n* The way you actually write plugins is describing an api in plain english. Chatgpt figures out the rest \\[[Link](https:\/\/twitter.com\/mitchellh\/status\/1638967450510458882)\\]. Don\u2019t believe me? Read the docs yourself \\[[Link](https:\/\/twitter.com\/frantzfries\/status\/1639019934779953153)\\]\n* This lad created an iOS shortcut that replaces Siri with Chatgpt \\[[Link](https:\/\/mobile.twitter.com\/mckaywrigley\/status\/1640414764852711425)\\]\n* Zapier supports 5000+ apps. Chatgpt + Zapier = infinite use cases \\[[Link](https:\/\/twitter.com\/bentossell\/status\/1638968791487901712)\\]\n* I\u2019m sure we\u2019ve all already seen the paper saying how gpt4 shows sparks of AGI but I\u2019ll link it anyway. \u201cwe believe that it could reasonably be viewed as an early (yet still incomplete) version of an artificial general intelligence (AGI) system.\u201d \\[[Link](https:\/\/twitter.com\/emollick\/status\/1638805126524592134)\\]\n* This lad created an AI agent that, given a task, creates sub tasks for itself and comes up with solutions for them. It\u2019s actually crazy to see this in action, I highly recommend watching this clip \\[[Link](https:\/\/twitter.com\/yoheinakajima\/status\/1640934508047503362)\\]. Here\u2019s the link to the \u201cpaper\u201d and his summary of how it works \\[[Link](https:\/\/twitter.com\/yoheinakajima\/status\/1640934493489070080)\\]\n* Someone created a tool that listens to your job interview and tells you what to say. Rip remote interviews \\[[Link](https:\/\/mobile.twitter.com\/localghost\/status\/1640448469285634048)\\]\n* Perplexity just released their app, a Chatgpt alternative on your phone. Instant answers + cited sources \\[[Link](https:\/\/mobile.twitter.com\/perplexity_ai\/status\/1640745555872579584)\\]",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/125oue8\/chatgpt_plugins_week_1_gpt4_week_2_another\/",
+        "Creation Time":1680098175.0,
+        "Reply Count":768,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"Create Your Own Custom Plugins for ChatGPT \ud83c\udf89 Browse the Web, Execute Code, Use APIs \ud83d\udee0\ufe0f",
+        "Question":"I'm stoked to share with you all an exciting new addition to the world of conversational AI: custom plugins for ChatGPT! \ud83c\udf89\ud83e\udd16  \n\n&#x200B;\n\nAs many of you know, the ChatGPT plugin alpha has been out for a while, allowing users to augment their ChatGPT experience with some pre-built plugins. However, we've noticed that you lovely creative geniuses in the community have been yearning for the ability to create your own plugins to supercharge ChatGPT. So, without further ado, we're thrilled to announce the release of code for custom ChatGPT plugins! \ud83d\udee0\ufe0f\ud83d\ude80  \n\n&#x200B;\n\nWith this new feature, you can now build your own plugins to enhance ChatGPT's capabilities to suit your specific needs. Want to integrate some domain-specific knowledge, or maybe add a fun twist to the chat experience? Go ahead, the sky's the limit! \ud83c\udf0c  \n\n&#x200B;\n\nHere are some cool ideas for custom plugins to get you started:  \n\n\\-  \u2705 Programming code execution \n\n\\-  \u2705 Web browsing and navigation \n\n\\-  \u2705 let chat talk to and direct other chat agents\n\n&#x200B;\n\nTo help you get started, we've created some example plugins and documentation on how to create your own: [access through the free gumroad here](https:\/\/cxn.to\/@serpai\/chatgpt-plugins)   \ud83c\udf81 \n\n&#x200B;\n\nWe can't wait to see what amazing plugins you all come up with! Feel free to share your creations here or on GitHub, and don't hesitate to ask questions. Check out this and our other open source projects on our [GitHub](https:\/\/github.com\/serp-ai)\n\n&#x200B;\n\n\\*Post manually created and then ran through chat4",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/12580m9\/create_your_own_custom_plugins_for_chatgpt_browse\/",
+        "Creation Time":1680050634.0,
+        "Reply Count":218,
+        "Upvote Ratio":0.96
+    },
+    {
+        "Title":"This is a game-changer! ChatGPT Plugins are now available to everyone\ud83d\udd25\ud83e\uddbe",
+        "Question":"1. Zapier: Interacting with apps like Google Sheets and Docs can be beneficial for data management and analysis.\n\n2. Noteable: Creating notebooks in Python, SQL, and Markdown allows for exploring and visualizing data.\n\n3. Wolfram: Accessing computation, math, curated knowledge, and real-time data can be valuable for financial calculations and research.\n\n4. FiscalNote: Accessing real-time data sets for legal and political purposes can be relevant for understanding regulatory and policy changes that impact finance.\n\n5. Portfoliopilot: This all-in-one investing guide can assist with portfolio management and investment analysis.\n\n6. Redfin and Zillow: These plugins can help with housing market research, which may be relevant for financial professionals involved in real estate investments or analysis.\n\nChatGPT-Plus users can use these features by clicking on their ChatGPT profile, pressing \"Settings,\" and then going to the \"Beta features\" tab.\n\nList of 30 plug ins and it's use cases:\n\n1) Slack: Querying Slack\n\n2) Tasty: Discover new recipes and meal plans that work for you.\n\n3) Expedia: Bring your trip plans to life in one place\n\n4) Klarna Shopping: Search and compare prices from 1000s of online shops.\n\n5) Vogue: Search through vogue articles\n\n6) TODO plugin: Manage a TO-DO list in ChatGPT\n\n7) Lowes: Find the right tools for all of your home building needs.\n\n8) Speechki: Just simply ask ChatGPT to turn your text into audio\n\n9) FigGPT: Design using Figma in ChatGPT\n\n10) Argil Ai: Generate images in ChatGPT\n\n11) KAYAK: Plan & book your next trip in ChatGPT\n\n12) LangChain Docs: Up to date info for the LangChain Python library.\n\n13) Weather report: Get up to date weather data on every city within seconds\n\n14) Crypto Prices: Get the price on any crypto\n\n15) NBA: Up-to-date NBA standings & Stats\n\n16) Qdrant: Plugin to search through Qdrants documentation\n\n17) Open Table: Search and get booking at restaurants anywhere, anytime.\n\n18) Zilliz Plugin: Search through your documentation and talk to it.\n\n19) Wolfram: Access computation, math, curated knowledge and real time data\n\n20) Pricerunner: Get the perfect shopping suggestions\n\n21) DesignerGPT: Generate a website within ChatGPT\n\n22) Milo Family AI: Turn any 20 minites with your kids into magic\n\n23) Chess: Play chess in ChatGPT\n\n24) Instacart: Order groceries from your near by store\n\n25) Send Email: Send the perfect emails through ChatGPT\n\n26) Redfin: Do housing market research for your next house or investment.\n\n27) DAN: Change ChatGPT\u2019s personality\n\n28) United Nations: Search through select UN documents\n\n29) Kraftful: Quickly get product-market fit, scale your user base and grow revenue",
+        "subreddit":"AIAssisted",
+        "Link":"https:\/\/i.redd.it\/5ozx0ba9051b1.jpg",
+        "Creation Time":1684636172.0,
+        "Reply Count":90,
+        "Upvote Ratio":0.93
+    },
+    {
+        "Title":"In just three weeks, ScholarAI's ChatGPT plugin has garnered 6 million requests, positioning itself as a potential game-changer in academic research.",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/shashim.substack.com\/p\/scholarai-celebrates-6-million-requests?sd=pf",
+        "Creation Time":1685707486.0,
+        "Reply Count":91,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"I built a free ChatGPT Plugin that retrieves your competitors' PPC ads [GIF]",
+        "Question":"Demo - [https:\/\/i.imgur.com\/LoGSKGA.gif](https:\/\/i.imgur.com\/LoGSKGA.gif)\n\nI've been working on a ChatGPT plugin to simplify ad copy optimization without needing to copy\/paste competitor ads from pricey PPC tools.\n\nThe data is sourced from a mix of iSpionage and SEMRush APIs. I am using credits from my personal subscriptions to keep this tool free of charge but I may add some rate limits for users with 10+ requests\/per day.\n\nAt this point, ChatGPT currently has a limit of 15 installs per plugin and I have 4 spots left. If you have been approved to use plugins and would like to give it a try, please DM me and I will send you the installation link. I won't be asking you to buy my ebook \ud83d\ude0a but I would love to get some feedback based on your experience. Thank you!!  \n\n\n**UPDATE -** Also working on an [automated online reputation management](https:\/\/repbot.ai) tool with [ai review response](https:\/\/repbot.ai\/free-tools\/ai-review-response) and a feature which flags and potentially [removes negative 1-star reviews from Google My Business](https:\/\/repbot.ai\/free-tools\/remove-negative-google-reviews).",
+        "subreddit":"PPC",
+        "Link":"https:\/\/www.reddit.com\/r\/PPC\/comments\/12ixiwi\/i_built_a_free_chatgpt_plugin_that_retrieves_your\/",
+        "Creation Time":1681246868.0,
+        "Reply Count":158,
+        "Upvote Ratio":0.97
+    },
+    {
+        "Title":"ChatGPT+ users now have access to plugins and web search",
+        "Question":"However, the settings seems to be not updated yet. You have to opt-in for those features.",
+        "subreddit":"OpenAI",
+        "Link":"https:\/\/www.reddit.com\/gallery\/13fsaoi",
+        "Creation Time":1683914285.0,
+        "Reply Count":253,
+        "Upvote Ratio":0.97
+    },
+    {
+        "Title":"ChatGPT plugin for Halifax Bylaws",
+        "Question":"I made a ChatGPT plugin called \"Halifax Bylaws\" that allows anyone to search through and ask questions about the current bylaws in Halifax. I made it so that the public can access and interpret local laws in plain language, from a single source. If you're a ChatGPT+ subscriber, you can search for and install it now. \n\nI would appreciate any suggestions for making it better. I'm wondering if including meeting minutes would be useful.\n\n https:\/\/lnkd.in\/e5aDatA3",
+        "subreddit":"halifax",
+        "Link":"https:\/\/www.reddit.com\/r\/halifax\/comments\/14uvxwz\/chatgpt_plugin_for_halifax_bylaws\/",
+        "Creation Time":1688901064.0,
+        "Reply Count":37,
+        "Upvote Ratio":0.81
+    },
+    {
+        "Title":"ChatGPT has access to Algorand data now: Algorand\u2019s first ChatGPT plugin is live!",
+        "Question":"",
+        "subreddit":"CryptoCurrency",
+        "Link":"https:\/\/medium.com\/@emg110\/chatgpt-has-access-to-algorand-data-now-algorands-first-chatgpt-plugin-is-live-88a3337a76c5",
+        "Creation Time":1696971479.0,
+        "Reply Count":62,
+        "Upvote Ratio":0.77
+    },
+    {
+        "Title":"Chat GPT Plugins Access",
+        "Question":"Has anyone figured out how to get access to Chat GPT plugins? I'm subscribed to GPT Plus, but have not gotten access for months. Any way to speed up getting access? I heard there was a beta program that gave access to people for reporting errors, maybe I'm wrong? Thanks",
+        "subreddit":"ChatGPTPro",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/131blt3\/chat_gpt_plugins_access\/",
+        "Creation Time":1682639524.0,
+        "Reply Count":51,
+        "Upvote Ratio":0.92
+    },
+    {
+        "Title":"ChatGPT plugins (request plugins only)",
+        "Question":"This is an odd \"announcement\". According to the blog post this article is referencing (https:\/\/blogs.bing.com\/search\/may\\_2023\/Bing-at-Microsoft-Build-2023), it just means that Browsing mode will be using Bing from today on to run searches. However, Browsing mode has used Bing for running searches since day 1. Maybe it's a deeper integration than just the Bing Search API?\r  \n\r  \nFrom the ChatGPT plugins announcement back in March:\r  \n\r  \n\"Browsing retrieves content from the web using the Bing search API. As a result, we inherit substantial work from Microsoft on (1) source reliability and truthfulness of information and (2) \u201csafe-mode\u201d to prevent the retrieval of problematic content. The plugin operates within an isolated service, so ChatGPT\u2019s browsing activities are separated from the rest of our infrastructure.\"\r  \n\r  \nhttps:\/\/openai.com\/blog\/chatgpt-plugins",
+        "subreddit":"SubSimGPT2Interactive",
+        "Link":"https:\/\/www.reddit.com\/r\/SubSimGPT2Interactive\/comments\/13xc30j\/chatgpt_plugins_request_plugins_only\/",
+        "Creation Time":1685608498.0,
+        "Reply Count":37,
+        "Upvote Ratio":0.33
+    },
+    {
+        "Title":"ChatGPT+ users now have access to plugins and web search",
+        "Question":"However, the settings seems to be not updated yet. You have to opt-in for those features.",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/gallery\/13fsaao",
+        "Creation Time":1683914258.0,
+        "Reply Count":245,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"\u201cMy Salesforce Consultant\u201d. A ChatGPT plugin.",
+        "Question":"I\u2019ve developed a plugin for ChatGPT that can create, read, update and delete objects, fields, layouts and other metadata, write and deploy Apex triggers and classes, debug and improve existing Apex, query for and summarise records from any object, execute anonymous Apex, plus a few other things.\n\nIt\u2019s pretty cool being able to talk to a Salesforce org and have ChatGPT work it\u2019s magic on it.\n\nI made it a few weeks ago, but then parked it because the authentication methods currently supported by ChatGPT plugins tie the plugin to one SF org.\n\nIt\u2019d be possible to create a unique version of the plugin for each SF org, running on its own Heroku instance, but I haven\u2019t explored whether there would be interest in that. Feels pretty clunky and hard to manage.\n\nIf anyone has ChatGPT plus and is interested in trying it out, I could give a few people access to a dev org and you can fill it with profanity and revoke my access or something. \ud83d\ude05",
+        "subreddit":"salesforce",
+        "Link":"https:\/\/www.reddit.com\/r\/salesforce\/comments\/157fv8r\/my_salesforce_consultant_a_chatgpt_plugin\/",
+        "Creation Time":1690121535.0,
+        "Reply Count":51,
+        "Upvote Ratio":0.76
+    },
+    {
+        "Title":"ChatGPT Plugin Waitlist Update",
+        "Question":"Screenshot of \u201cChatGPT Plugin Waitlist Update\u201d email from OpenAI\n\nGoodbye, ChatGPT Plugins! Also, \u201cearly next year we\u2019ll launch the GPT Store.\u201d",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/i.redd.it\/knt1va1yms7c1.jpeg",
+        "Creation Time":1703227877.0,
+        "Reply Count":14,
+        "Upvote Ratio":0.72
+    },
+    {
+        "Title":"Hacker found secret ChatGPT plugins",
+        "Question":"",
+        "subreddit":"singularity",
+        "Link":"https:\/\/twitter.com\/ai_insight1\/status\/1639322148975128577?s=20",
+        "Creation Time":1679679933.0,
+        "Reply Count":53,
+        "Upvote Ratio":0.93
+    },
+    {
+        "Title":"NEW: ChatGPT plugin store can be searched now!",
+        "Question":"",
+        "subreddit":"ChatGPTPro",
+        "Link":"https:\/\/i.redd.it\/0ygc3hh6v93b1.png",
+        "Creation Time":1685566705.0,
+        "Reply Count":40,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"Reverse Engineering ChatGPT Plugins",
+        "Question":"",
+        "subreddit":"GPT3",
+        "Link":"https:\/\/www.reddit.com\/gallery\/13ggcv5",
+        "Creation Time":1683981149.0,
+        "Reply Count":29,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"My ChatGPT excel plugin went viral because of this subreddit",
+        "Question":"Hey [r\/excel](https:\/\/www.reddit.com\/r\/excel\/), THANK YOU so much for your support! 3 weeks ago, I shared my Excel plugin that lets you use ChatGPT in a formula. A few thousand of you tried it. It spread to LinkedIn, people made TikTok videos about it, someone even said they heard about it at a dinner party \ud83e\udd2f You can install it free here: [numerous.ai\/get](https:\/\/numerous.ai\/get)\n\nWith the super valuable feedback all of you gave me, here are some of the new features I added:\n\n**=NUM.INFER**\n\nhttps:\/\/i.redd.it\/3unkp1wpfwua1.gif\n\nWhen you'd rather show the AI what to do instead of telling it. In this example, I have a list of payment descriptions. I want to get the dollar amount from each. Instead of telling the AI what to do, I just do the first 4 myself, then it \"infers\" the rest.\n\n**Easy templates**\n\nhttps:\/\/i.redd.it\/8dewl0frfwua1.gif\n\nIn the plugin's sidebar, I added easy to use templates, like Translate, Extract, Reformat, Rewrite. Here's an example of the Classify tool, where I classify a list of merchants.\n\nLet me know what you think!",
+        "subreddit":"excel",
+        "Link":"https:\/\/www.reddit.com\/r\/excel\/comments\/12s8nk6\/my_chatgpt_excel_plugin_went_viral_because_of\/",
+        "Creation Time":1681935351.0,
+        "Reply Count":74,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"Chat GPT+ Plugins",
+        "Question":"Hey, \n\nim trying GPT+ and wanted to ask if you use Plugins to optimise prompts or anything SD related and how. thanks for any advice, keep prompting!",
+        "subreddit":"StableDiffusion",
+        "Link":"https:\/\/www.reddit.com\/r\/StableDiffusion\/comments\/191yec7\/chat_gpt_plugins\/",
+        "Creation Time":1704753651.0,
+        "Reply Count":1,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"ChatGPT Plugins not Working",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/gallery\/175wy0i",
+        "Creation Time":1697080576.0,
+        "Reply Count":19,
+        "Upvote Ratio":0.93
+    },
+    {
+        "Title":"Just Got Access to ChatGPT Plugins",
+        "Question":"So I just checked ChatGPT cause I saw a post about the browsing feature and I have access to multiple plugins and a plugin store!\n\nI'm not sure if they've rolled this out to everyone or if I'm one of the lucky ones but if anyone wants me to test something out and post results lmk.",
+        "subreddit":"singularity",
+        "Link":"https:\/\/www.reddit.com\/gallery\/125ej77",
+        "Creation Time":1680068857.0,
+        "Reply Count":50,
+        "Upvote Ratio":0.94
+    },
+    {
+        "Title":"Built OpenPlugin: an open-source tool for using ChatGPT plugins via API, currently supports more than 160 plugins. You can develop ChatGPT plugins with it too!",
+        "Question":"",
+        "subreddit":"ChatGPTPro",
+        "Link":"https:\/\/v.redd.it\/c8zsiwlejuab1",
+        "Creation Time":1688868032.0,
+        "Reply Count":16,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"I'm able to generate girls in chatGPT now using ImgCreator Plugin!",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/imgcreator.zmo.ai\/?ref=reddit",
+        "Creation Time":1684241189.0,
+        "Reply Count":164,
+        "Upvote Ratio":0.83
+    },
+    {
+        "Title":"Building ChatGPT plugins",
+        "Question":"",
+        "subreddit":"Supabase",
+        "Link":"https:\/\/supabase.com\/docs\/guides\/ai\/examples\/building-chatgpt-plugins",
+        "Creation Time":1706281076.0,
+        "Reply Count":0,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"I made a ChatGPT plugin directory: \ud83c\udfc4 plugin surf. what do you think?",
+        "Question":"hi! for a while now I was bothered by how \\*badly made\\* the ChatGPT plugin store is.  \nThis motivated me to start a side project: get all plugins in one place with proper descriptions, available metadata and add community elements on top (sort of product hunt vibe). Goal: upvote the best plugins, make it easier to discover useful ones, and have fun.\n\nfeatures:\n\n1. upvoting\n2. comments\n3. categories\n4. newsletter\n5. plugin API documentation\n6. info about the creator\n\nThe directory is (and will be) completely free to use. It's still an early version but I plan to improve it and eventually make it the best resource for chatgpt plugins! I'd love to get your feedback. lmk what you think!\n\nhere's the link: \ud83c\udfc4 [plugin.surf](https:\/\/plugin.surf\/)",
+        "subreddit":"ChatGPTPro",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/14k7kw1\/i_made_a_chatgpt_plugin_directory_plugin_surf\/",
+        "Creation Time":1687853917.0,
+        "Reply Count":24,
+        "Upvote Ratio":0.95
+    },
+    {
+        "Title":"What ChatGPT plugins should I opt for?",
+        "Question":"I\u2019m trying my hand at ChatGPT plugins but can\u2019t find the ones that would be particularly useful for my work. I need tools for my marketing-related tasks. \n\nCan you guys please recommend some ChatGPT plugins? ",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/16das7i\/what_chatgpt_plugins_should_i_opt_for\/",
+        "Creation Time":1694180048.0,
+        "Reply Count":27,
+        "Upvote Ratio":0.93
+    },
+    {
+        "Title":"ChatGPT plugins are live (but hidden)",
+        "Question":"So looks like you can access the ChatGPT plugins, but it's NOT obvious at all.\n\n&#x200B;\n\nYou have to enable the option in the \"BETA\" features and then type in the URL for the new version of chat gpt.\n\nLooks like you need gpt-4 for this to work. But the URL is whatever your chatgpt url is, just add -plugins.\n\n&#x200B;\n\nHere's a video walkthrough:\n\n[https:\/\/www.youtube.com\/watch?v=h68INR-YI30](https:\/\/www.youtube.com\/watch?v=h68INR-YI30)\n\n&#x200B;\n\nEdit: Looks like this is open in the US, but people are saying that CA and EU is not getting those options yet :(",
+        "subreddit":"ArtificialInteligence",
+        "Link":"https:\/\/www.reddit.com\/r\/ArtificialInteligence\/comments\/13gzdwc\/chatgpt_plugins_are_live_but_hidden\/",
+        "Creation Time":1684029469.0,
+        "Reply Count":36,
+        "Upvote Ratio":0.9
+    },
+    {
+        "Title":"Just created a mad plugin for ChatGPT to give it complete access to my system through Javascript's eval. Here is what it can do...",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/gallery\/13k80x9",
+        "Creation Time":1684343850.0,
+        "Reply Count":292,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"Best ChatGPT Plugins: Ultimate List for 2023",
+        "Question":"",
+        "subreddit":"artificial",
+        "Link":"https:\/\/www.godofprompt.ai\/blog\/best-chatgpt-plugins-ultimate-list-for-2023",
+        "Creation Time":1697039972.0,
+        "Reply Count":10,
+        "Upvote Ratio":0.92
+    },
+    {
+        "Title":"Can any ChatGPT plugins use the GPT-4 model?",
+        "Question":"Hi all, \n\nI\u2019ve tried out \u201cjackMort\/ChatGPT.nvim\u201d,\nBut can\u2019t find any info regarding using GPT-4 instead of 3.5-turbo. \n\nAnybody have any tips on this?",
+        "subreddit":"neovim",
+        "Link":"https:\/\/www.reddit.com\/r\/neovim\/comments\/17rgf5j\/can_any_chatgpt_plugins_use_the_gpt4_model\/",
+        "Creation Time":1699546268.0,
+        "Reply Count":11,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"OpenAI Added 21 New ChatGPT Plugins Today (Calorie Chat, Sakenowa, Mindart, Jiggybase, ...)",
+        "Question":"Hi everyone,\n\nI think it's pretty hard to keep track of updates concerning the plugins, as the list on ChatGPT is not very user friendly and doesn't let you sort by date.\n\nThat's why I started keeping track of the plugins manually by versioning the `plugins.json` with Git. (The `plugins.json` is loaded whenever a user opens the plugin modal in ChatGPT.)\n\nOpenAI added many new plugins today and I wanted to provide an overview.\n\n&#x200B;\n\n## New Plugins\n\n1. Sakenowa - Find Sake and get detailed information in various ways.\n2. Questmate Forms - Create forms, checklists and workflows (we call 'em Quests!) directly from ChatGPT.\n3. Mindart - Career test to help you find your dream job, with automation risk and average salary.\n4. AmazingTalker - Elevate your language learning at any level with personalized 1-on-1 online lessons from tutors across the world.\n5. SEO Assistant - The SEO Assistant can generate search engine keyword information in order to aid the creation of content.\n6. JiggyBase - Use the knowledge in your JiggyBase document collections to help produce factual, up-to-date chat responses.\n7. Agones - Agones provides soccer (football) results for matches played all over the world in the past 15 years.\n8. Web Requests - Goodbye Knowledge Cutoff, Hello World! This is your AI assistant's web browser. Just enter a URL. Google, Wiki, GitHub.\n9. Paxi AI - Let AI tools speed up your tasks! Make it easy to find the right tool for the task.\n10. Calorie Chat - Tracking what you eat doesn't have to be hard. With Calorie Chat, you'll find calorie counting simpler than ever before.\n11. DeployScript - DeployScript effortlessly launches web apps, handling the tech for you. Watch your ideas come to life!\n12. AutoInfra1 - Talk to your Servers. Works with AWS, GCP, Azure, and anywhere you can ssh!\n13. Acquire.com - Everything you need to buy and sell startups.\n14. Appy Pie App Builder - AI-powered Text-to-App Generator turns your app idea into Android and iOS apps- just provide text input.\n15. AI2sql - Converts a natural language text into an SQL query.\n16. SceneXplain - SceneXplain lets you attach images to your prompt. Explore image storytelling beyond pixels.\n17. APEX Map - Checking the current APEX Legends Ranked Map.\n18. Bibliography Crossref - Search publications and generate bibtex bibliographies using Crossref and Zotero.\n19. GoFynd - Elevate your shopping experience with GoFynd.\n20. Easy Resume - Quickly create and edit your resume with the option to download as a docx or pdf, and find the job you deserve!\n21. LawyerPR - Matching your ideal lawyer, in Japan. Let's Start with a Preliminary Review.\n\n\\*EDIT:\n\n1. Substack IQ - Search, analyze, & summarize Substack newsletters, retrieve articles, and discover new Substacks!\n2. Meme Creator - Use Meme Creator to create memes on demand using the power of AI!\n3. HTTP Webhooks - Allows you to write, deploy, and manage HTTP Webhooks in JavaScript, right from the chat.\n4. Outschool - Search for top-quality online classes and teachers on Outschool.\n5. Crypto Market News - It's your go-to solution for real-time cryptocurrency price updates, market insights, and the latest news.\n\n\\*EDIT2:\n\n1. ChatWithGit - Search code on GitHub repositories based on a query.\n2. CarYardBard - AI-Powered Car Sales Ad Generator for Australian Car Dealers.\n3. NFTs - Get the important details of any NFT collection and ask for insights based on that data!\n4. Aus Surf Report - Get today's surf report for any break throughout Australia!\n5. ChatWithWebsite - Have a conversation with any website, powered by magicform.ai\n6. NextPaper.ai - Fetch the latest research papers on a specific topic from PubMed. More to come.\n7. ChatWithPDF - Chat with everything from entire PDF books to Google Drive documents just by providing a link.\n\n&#x200B;\n\nI also created a [searchable overview](https:\/\/www.gptgames.dev\/util\/plugins.html) of all plugins with a rudimentary sorting feature.\n\n[the searchable overview](https:\/\/preview.redd.it\/vzou85qzq82b1.png?width=985&format=png&auto=webp&s=f4db4d72a51f8cd2b0f9147753b0ed755b67136e)\n\n&#x200B;\n\nThe big updates seem to come around the end of the week. The last one was on May 20 where the plugin count jumped from around 85 to over 126. Currently it's at 148. \\*EDIT: Now at 153. \\*EDIT2: 160.\n\n&#x200B;\n\nIf you like this kind of update post, I could try to write a new one every week. Let me know what you think.\n\n\\*EDIT:  \nThey added 5 more plugins since the creation of this post.  \nI've added them to the list above and to the overview page.  \n\n\n\\*EDIT2:   \n7 new plugins since the last time I've updated the list. ",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/13sospz\/openai_added_21_new_chatgpt_plugins_today_calorie\/",
+        "Creation Time":1685135923.0,
+        "Reply Count":65,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"Harnessing the true power of ChatGPT Plugins",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/i.redd.it\/r876gtod7mza1.png",
+        "Creation Time":1683990721.0,
+        "Reply Count":31,
+        "Upvote Ratio":0.96
+    },
+    {
+        "Title":"ChatGPT Plugins that are missing",
+        "Question":"Hi! Any ChatGPT Plugins that don't exist currently but you would like to see added to the plugin store?   \n\n\nI am a developer who just got access and looking for ideas to build :)",
+        "subreddit":"ChatGPTPro",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/146k767\/chatgpt_plugins_that_are_missing\/",
+        "Creation Time":1686457079.0,
+        "Reply Count":30,
+        "Upvote Ratio":0.9
+    },
+    {
+        "Title":"ChatGPT developed a secret \"DAN Plugin\" and has over 80 unlisted plugins including \"evil plugin \ud83d\ude08\", \"United Nations\", and \"CHESS\"",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/twitter.com\/rez0__\/status\/1639259413553750021",
+        "Creation Time":1679665475.0,
+        "Reply Count":89,
+        "Upvote Ratio":0.95
+    },
+    {
+        "Title":"ChatGPT with Plugins is Amazing!",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/gallery\/13igwgp",
+        "Creation Time":1684177059.0,
+        "Reply Count":73,
+        "Upvote Ratio":0.97
+    },
+    {
+        "Title":"Chat GPT plugin removed?",
+        "Question":"I have been using the IFTTT plugin for Chat GPT but it seems to have been taken down, I can't find any info on why anywhere. Anyone have any idea? Or experiencing the same?\n\nUpdate: It's been escalated to the engineering team. Probably best to report it to support if anyone else is having issues so they know it's not just my account.\n\nUpdate 2: they are talking to Open AI to get the plugin put back on. Not sure why it was removed, hopefully it'll be back soon",
+        "subreddit":"ifttt",
+        "Link":"https:\/\/www.reddit.com\/r\/ifttt\/comments\/16wxi9o\/chat_gpt_plugin_removed\/",
+        "Creation Time":1696155631.0,
+        "Reply Count":3,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"How to Install Wolfram ChatGPT Plugin",
+        "Question":"",
+        "subreddit":"HeyHowtodoit",
+        "Link":"https:\/\/heyhowtodoit.com\/install-wolfram-plugin-on-chatgpt\/",
+        "Creation Time":1705179658.0,
+        "Reply Count":0,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"Suggest a gpt plugin for me",
+        "Question":"I have seen there are quite a few options, hoping someone can suggest one which works well as a coding assistant.\n\nThink along the lines of asking questions about the selected region, like what does this error mean can you convert this to a different format for me, can you generate some code todo this.\n\nBeen using it to convert sql to honeysql and it can do a pretty good job saving me converting it currently doing it in browser but would like some closer integration.",
+        "subreddit":"emacs",
+        "Link":"https:\/\/www.reddit.com\/r\/emacs\/comments\/125kqax\/suggest_a_gpt_plugin_for_me\/",
+        "Creation Time":1680088377.0,
+        "Reply Count":30,
+        "Upvote Ratio":0.69
+    },
+    {
+        "Title":"Can GPTs Access ChatGPT Plugins?",
+        "Question":"I want to make a GPT for using the ChatGPT Glowing Plugin to send myself scheduled SMS messages of a few varieties. However, it looks like there is no immediate way to just include a ChatGPT Plugin's functionality with a GPT. Can someone explain?",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18tsgna\/can_gpts_access_chatgpt_plugins\/",
+        "Creation Time":1703871107.0,
+        "Reply Count":1,
+        "Upvote Ratio":0.75
+    },
+    {
+        "Title":"Full ChatGPT Plugin List",
+        "Question":"Will try to keep this updated until ChatGPT add search or a better way of viewing them all:  \n\n\n[https:\/\/openworldai.com\/blog\/chatgpt-plugin-list](https:\/\/openworldai.com\/blog\/chatgpt-plugin-list)",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/13qvhu1\/full_chatgpt_plugin_list\/",
+        "Creation Time":1684957315.0,
+        "Reply Count":15,
+        "Upvote Ratio":0.91
+    },
+    {
+        "Title":"GPT plugins no longer appearing",
+        "Question":"Have they been deprecated? I used gpts once and it disappeared from the options\n\n&#x200B;",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/186a9pa\/gpt_plugins_no_longer_appearing\/",
+        "Creation Time":1701213977.0,
+        "Reply Count":1,
+        "Upvote Ratio":0.6
+    },
+    {
+        "Title":"Let's talk about ChatGPT Plugins: Are you using them?",
+        "Question":"So, as many of you know, ChatGPT plugins were released on March 23, 2023. When I first heard about them, I thought they'd be a game-changer, opening up a whole new world of possibilities. But after their release, I've found that they didn't quite live up to the hype. Maybe it's just me, but the experience has been less than stellar.\n\nIs anyone actually using these plugins? If so, what are you using them for? I'm curious to hear about your experiences and see if they align with mine.\n\nLooking forward to hearing your thoughts.",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/17fd7il\/lets_talk_about_chatgpt_plugins_are_you_using_them\/",
+        "Creation Time":1698155172.0,
+        "Reply Count":22,
+        "Upvote Ratio":0.66
+    },
+    {
+        "Title":"SciSpace ResearchGPT: GPT Plugin With Expertise in Scientific Papers.",
+        "Question":"",
+        "subreddit":"airesearch",
+        "Link":"\/r\/u_Reasonable_Ring_4754\/comments\/18bxmq1\/scispace_researchgpt_gpt_plugin_with_expertise_in\/",
+        "Creation Time":1701843590.0,
+        "Reply Count":0,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"Feedback on my ChatGPT Plugin directory",
+        "Question":"Hi!  \n\n\nSo currently, I think the \"store experience\" of the ChatGPT plugin is very bad; most likely, they will fix it so it looks closer to a true app store. However, in the meantime, I have created a directory of +450 plugins (and growing).  \n\n\nI added a categorization system, descriptions, example prompts, and plugin output images.   \n\n\nIt would be great with some feedback on how to improve this further. What more to include etc.?   \n\n\nFind the free directory [here](https:\/\/www.businessedge.co\/c\/best-chatgpt-plugins).",
+        "subreddit":"ChatGPTPro",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/14jbd49\/feedback_on_my_chatgpt_plugin_directory\/",
+        "Creation Time":1687767938.0,
+        "Reply Count":19,
+        "Upvote Ratio":0.87
+    },
+    {
+        "Title":"SciSpace ResearchGPT: GPT Plugin With Expertise in Scientific Papers.",
+        "Question":" Excited to share my recent AI discovery \u2013 I've been using SciSpace's [ResearchGPT,](https:\/\/chat.openai.com\/g\/g-NgAcklHd8-researchgpt-official) and it's been pretty amazing for my research. You don't have to worry about GPT's hallucinations or fabricated information anymore, since this plugin is trained on a massive repository of scientific papers and articles from SciSpace. The responses are backed by citations, which you can verify directly in the papers by clicking on the links.  \n It's not just about finding papers though. It's about weaving them into your work effortlessly. Writing got a whole lot smoother with ResearchGPT; You can even upload a PDF, ask for explanations and summaries. It's the perfect research workspace you could ask for.   \n ",
+        "subreddit":"u_Reasonable_Ring_4754",
+        "Link":"https:\/\/www.reddit.com\/r\/u_Reasonable_Ring_4754\/comments\/18bxmq1\/scispace_researchgpt_gpt_plugin_with_expertise_in\/",
+        "Creation Time":1701843206.0,
+        "Reply Count":0,
+        "Upvote Ratio":0.67
+    },
+    {
+        "Title":"I made 8 plugins for the ChatGPT plugin store and traffic is growing faster than my websites.",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/14fczae\/i_made_8_plugins_for_the_chatgpt_plugin_store_and\/",
+        "Creation Time":1687366364.0,
+        "Reply Count":53,
+        "Upvote Ratio":0.48
+    },
+    {
+        "Title":"I made a ChatGPT Plugin named PlaylistAI that connects your Spotify account to create music playlists",
+        "Question":"",
+        "subreddit":"OpenAI",
+        "Link":"https:\/\/v.redd.it\/4r0xw1hime0b1",
+        "Creation Time":1684334787.0,
+        "Reply Count":46,
+        "Upvote Ratio":0.92
+    },
+    {
+        "Title":"[P] Using ChatGPT plugins with LLaMA",
+        "Question":"",
+        "subreddit":"MachineLearning",
+        "Link":"https:\/\/blog.lastmileai.dev\/using-openais-retrieval-plugin-with-llama-d2e0b6732f14",
+        "Creation Time":1679845088.0,
+        "Reply Count":24,
+        "Upvote Ratio":0.96
+    },
+    {
+        "Title":"So, what are we paying for again? Also no access to plugins, or browsing, or API for GPT-4.",
+        "Question":"",
+        "subreddit":"OpenAI",
+        "Link":"https:\/\/i.redd.it\/rk3c7xraf9za1.png",
+        "Creation Time":1683836096.0,
+        "Reply Count":257,
+        "Upvote Ratio":0.89
+    },
+    {
+        "Title":"When are we gonna get access to ChatGPT plugins?",
+        "Question":"Or at least the development parts of it. I already filled out the form for alpha.",
+        "subreddit":"ChatGPTPro",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/12gq2ox\/when_are_we_gonna_get_access_to_chatgpt_plugins\/",
+        "Creation Time":1681062174.0,
+        "Reply Count":43,
+        "Upvote Ratio":0.9
+    },
+    {
+        "Title":"ChatGPT Plugin - 2FA now required?",
+        "Question":"Is anyone else getting a popup saying 2FA is now required to use unverified plugins?  If so, any tutorial out there on how to implement that?",
+        "subreddit":"OpenAIDev",
+        "Link":"https:\/\/www.reddit.com\/r\/OpenAIDev\/comments\/1322yzi\/chatgpt_plugin_2fa_now_required\/",
+        "Creation Time":1682702078.0,
+        "Reply Count":26,
+        "Upvote Ratio":0.72
+    },
+    {
+        "Title":"Is it possible to convert a simple GPT to a ChatGPT plugin?",
+        "Question":"I have a very knowledge-based GPT created, and I would love to have it as a chatGTP plugin, so that users without a subscription can access it, is it possible?",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18gspl2\/is_it_possible_to_convert_a_simple_gpt_to_a\/",
+        "Creation Time":1702405757.0,
+        "Reply Count":1,
+        "Upvote Ratio":0.6
+    },
+    {
+        "Title":"[Chat Gpt] Plugin de g\u00e9n\u00e9rateur de t\u00eate",
+        "Question":"H\u00e9 \u00e0 tous, il y a quelques semaines, j'ai vu quelqu'un publier un plugin qui g\u00e9n\u00e8re des tirs \u00e0 la t\u00eate professionnels en utilisant des images utilisateur soumises. J'ai enfin acc\u00e8s au plugin b\u00eata, mais je ne peux pas pour la vie de moi trouver le post sur ce plugin sp\u00e9cifique.\n\nQuelqu'un peut-il aider?\n\nTraduit et repost\u00e9 \u00e0 partir de la publication https:\/\/www.reddit.com\/13wr1vj",
+        "subreddit":"redditenfrancais",
+        "Link":"https:\/\/www.reddit.com\/r\/redditenfrancais\/comments\/1853z97\/chat_gpt_plugin_de_g\u00e9n\u00e9rateur_de_t\u00eate\/",
+        "Creation Time":1701094692.0,
+        "Reply Count":1,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"Murder Mystery (ChatGPT plugin)",
+        "Question":"Has anybody tried the ChatGPT plugin for Murder Mystery? If so, how did you like it?",
+        "subreddit":"MurderMystery2",
+        "Link":"https:\/\/www.reddit.com\/r\/MurderMystery2\/comments\/16o0unn\/murder_mystery_chatgpt_plugin\/",
+        "Creation Time":1695254678.0,
+        "Reply Count":2,
+        "Upvote Ratio":0.5
+    },
+    {
+        "Title":"Search for ChatGPT Plugins including unpublished ones in ChatGPT",
+        "Question":"",
+        "subreddit":"OpenAI",
+        "Link":"https:\/\/v.redd.it\/7yqw7i6c11ua1",
+        "Creation Time":1681555447.0,
+        "Reply Count":16,
+        "Upvote Ratio":0.97
+    },
+    {
+        "Title":"800 ChatGPT Plugins",
+        "Question":"ChatGPT now has over 800 third-party plugins to help with a wide range of personal and professional tasks. \n\nGet the list & graphic here: https:\/\/kristihines.com\/chatgpt-plugins-complete-list\/",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/i.redd.it\/9mis98xbjcgb1.jpg",
+        "Creation Time":1691265059.0,
+        "Reply Count":5,
+        "Upvote Ratio":0.87
+    },
+    {
+        "Title":"Nuxt 3 Chat GPT plugin",
+        "Question":"Do you think with the release of chatgpt plugins there will be an official nuxt3\/vue3 plugin that will link to documentation so chatgpt always stays up to date with the most recent nuxt \/ vue releases?",
+        "subreddit":"Nuxt",
+        "Link":"https:\/\/www.reddit.com\/r\/Nuxt\/comments\/13judqd\/nuxt_3_chat_gpt_plugin\/",
+        "Creation Time":1684307430.0,
+        "Reply Count":13,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"GPT Plugins",
+        "Question":"Can I assume based on the few and far between posts regarding plugins since they were announced yesterday that not many people have access? I\u2019ve seen maybe 3 posts total since the initial roll out posts and the videos etc were all from OpenAI and a few YouTubers.",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/1217bsb\/gpt_plugins\/",
+        "Creation Time":1679710537.0,
+        "Reply Count":9,
+        "Upvote Ratio":0.9
+    },
+    {
+        "Title":"List Of All ChatGPT Plugins With Prompts",
+        "Question":"",
+        "subreddit":"OpenAI",
+        "Link":"https:\/\/www.theinsaneapp.com\/2023\/05\/chatgpt-plugins-with-prompts.html",
+        "Creation Time":1684908481.0,
+        "Reply Count":14,
+        "Upvote Ratio":0.98
+    },
+    {
+        "Title":"Solana unveils chat gpt plugin that reveals on chain data",
+        "Question":"",
+        "subreddit":"CryptoCurrency",
+        "Link":"https:\/\/cryptoslate.com\/solana-unveils-chatgpt-plugin-that-retrieves-on-chain-data\/?utm_source=coingecko&utm_content=coingecko&utm_campaign=coingecko&utm_medium=coingecko&utm_term=coingecko",
+        "Creation Time":1682466862.0,
+        "Reply Count":37,
+        "Upvote Ratio":0.55
+    },
+    {
+        "Title":"ChatGPT Plugins down?",
+        "Question":"Anyone else having issues with plugins today? I keep getting the same \u201cError communicating with plugin service. Please try again later.\u201d message. :\/",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/15bcvoh\/chatgpt_plugins_down\/",
+        "Creation Time":1690490513.0,
+        "Reply Count":5,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"Looking for Houdini dedicated chat gpt plugin",
+        "Question":"Is there anything i can do to setup my chat gpt to be better at helping me at my work? I use houdini for Gamedev",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/17stb1c\/looking_for_houdini_dedicated_chat_gpt_plugin\/",
+        "Creation Time":1699705388.0,
+        "Reply Count":1,
+        "Upvote Ratio":0.67
+    },
+    {
+        "Title":"WebPilot ChatGPT Plugin",
+        "Question":"",
+        "subreddit":"cryptogeum",
+        "Link":"https:\/\/webreader.webpilotai.com\/legal_info.html",
+        "Creation Time":1695606075.0,
+        "Reply Count":0,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"ChatGPT plugin for excel",
+        "Question":"How to plus in ChatGPT for excel? Are there recommendations to also plug in?",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/16jly0e\/chatgpt_plugin_for_excel\/",
+        "Creation Time":1694804929.0,
+        "Reply Count":1,
+        "Upvote Ratio":0.33
+    },
+    {
+        "Title":"\ud83c\udfc620+ ChatGPT Plugins for Product Managers and Builders - Unleashing the Power of ChatGPT Plugins",
+        "Question":"",
+        "subreddit":"product_design",
+        "Link":"https:\/\/open.substack.com\/pub\/sidsaladi\/p\/20-chatgpt-plugins-for-product-managers?r=k22jq&utm_campaign=post&utm_medium=web",
+        "Creation Time":1690125307.0,
+        "Reply Count":2,
+        "Upvote Ratio":0.58
+    },
+    {
+        "Title":"ChatGPT plugin stats",
+        "Question":"I was looking into ChatGPT plugins, but couldn't find a good place that list them all. Since I am into analytics and statistics, I decided to build a database of ChatGPT plugins and provide some simple analysis on it: [https:\/\/plugin-stats.com\/](https:\/\/plugin-stats.com\/)\n\nI figure this might be useful to anyone who is looking into developing a plugin for ChatGPT or enjoy trying out different ChatGPT plugins.",
+        "subreddit":"SideProject",
+        "Link":"https:\/\/www.reddit.com\/r\/SideProject\/comments\/15zbc1n\/chatgpt_plugin_stats\/",
+        "Creation Time":1692813417.0,
+        "Reply Count":0,
+        "Upvote Ratio":0.5
+    },
+    {
+        "Title":"New ChatGPT Plugin: Faster Question Input (without API)",
+        "Question":" \n\nhttps:\/\/i.redd.it\/3m5ywh5u5nac1.gif\n\nHi! I have built a plugin for personal use. It's not a major project, but it's quite useful. \n\n**Problem:** I've encountered is that sometimes I think of a question but then neglect to open ChatGPT to ask it due to the friction involved.\n\n**The original process:**\n\n1. Open ChatGPT using the bookmarks feature in FlowLauncher.\n2. Wait for it to load, then enter the question I had in mind.\n3. Click 'send'.\n\n**With the new process, it's simplified:**\n\n1. Enter the question using the 'ch' keyword. This starts a new chat with the question already asked.\n\nI am planning to make both of them open-source soon and share them with the community. I also built a Chrome plugin that enables this workflow. ",
+        "subreddit":"FlowLauncher",
+        "Link":"https:\/\/www.reddit.com\/r\/FlowLauncher\/comments\/18z9rlw\/new_chatgpt_plugin_faster_question_input_without\/",
+        "Creation Time":1704469291.0,
+        "Reply Count":0,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"A ChatGPT plugin showing ads!",
+        "Question":"I was chatting with ChatGPT4 today (paying customer) with some plugin enabled, and a clear and unmistakable ad appeared at the bottom of the chat: see screenshot. The ad's content is not even directly related to the chat, which was about how to configure a text editor.\n\nIt's a first for me! I suspect the source is some plugin, I'm not sure which one yet.\n\nIs that even allowed by the plugin guidelines?\n\nhttps:\/\/preview.redd.it\/f57xrp3ke7nb1.png?width=3840&format=png&auto=webp&s=307e12b77216408e86c940088d84940c2e57b52e",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/16e1zcc\/a_chatgpt_plugin_showing_ads\/",
+        "Creation Time":1694253892.0,
+        "Reply Count":3,
+        "Upvote Ratio":0.85
+    },
+    {
+        "Title":"Best ChatGPT plugins",
+        "Question":"I'm looking for your own personal lists of approved ChatGPT plugins that work well and ideally are safe. Generally for working with document, consultation and strategic work, coding, research etc. Work related. Thank you. There are currently way too many similar plugins and there is not enough time to test them all.",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/16alhh7\/best_chatgpt_plugins\/",
+        "Creation Time":1693912823.0,
+        "Reply Count":1,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"NEW: ChatGPT plugin store can be searched now!",
+        "Question":"",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/i.redd.it\/du0u9f9tu93b1.png",
+        "Creation Time":1685566663.0,
+        "Reply Count":14,
+        "Upvote Ratio":0.97
+    },
+    {
+        "Title":"11 ChatGPT Plugins You Didn't Know Existed",
+        "Question":"",
+        "subreddit":"chatgpt_promptDesign",
+        "Link":"https:\/\/www.youtube.com\/watch?v=8kLxQnW5kZ0",
+        "Creation Time":1703651433.0,
+        "Reply Count":0,
+        "Upvote Ratio":0.8
+    },
+    {
+        "Title":"ChatGPT plugin to access Obsidian.md notes",
+        "Question":"This is not about Obsidian plugin that uses ChatGPT. Instead think about it the other way around. A ChatGPT plugin (it has plugins) to access your notes either published notes or some other way.\n\nThis way you could search your notes with your phone by using ChatGPT via browser or the official app. What do you guys think about this, would this be useful or even possible?",
+        "subreddit":"ObsidianMD",
+        "Link":"https:\/\/www.reddit.com\/r\/ObsidianMD\/comments\/17huz22\/chatgpt_plugin_to_access_obsidianmd_notes\/",
+        "Creation Time":1698433718.0,
+        "Reply Count":5,
+        "Upvote Ratio":0.5
+    },
+    {
+        "Title":"ChatGPT Plugin Store: Best ChatGPT Plugins you can try right now",
+        "Question":"",
+        "subreddit":"TechBriefly",
+        "Link":"https:\/\/techbriefly.com\/2023\/05\/24\/chatgpt-plugin-store\/",
+        "Creation Time":1684921140.0,
+        "Reply Count":0,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"11 ChatGPT Plugins You Didn't Know Existed",
+        "Question":"",
+        "subreddit":"chatgpt_promptDesign",
+        "Link":"https:\/\/www.youtube.com\/watch?v=8kLxQnW5kZ0",
+        "Creation Time":1703651391.0,
+        "Reply Count":0,
+        "Upvote Ratio":0.57
+    },
+    {
+        "Title":"What is the best ChatGPT plugin?",
+        "Question":"I love it by the way, it really has a lot of potential. But I'm now finding my self copy-pasting between neovim and ChatGPT a lot. The capabilities I want of it:  \n\n\n1. Vim highlight the prompt I want to enter into ChatGPT\n2. Option to choose which ChatGPT session\n3. Option to choose which ChatGPT version (3.5 vs 4.0)\n4. Option to print the output in current buffer\n5. Option to view complete ChatGPT session in another buffer",
+        "subreddit":"neovim",
+        "Link":"https:\/\/www.reddit.com\/r\/neovim\/comments\/15dlwgf\/what_is_the_best_chatgpt_plugin\/",
+        "Creation Time":1690724434.0,
+        "Reply Count":11,
+        "Upvote Ratio":0.67
+    },
+    {
+        "Title":"ChatGPT plugin to summarize reddit threads",
+        "Question":"I've stumbled upon a thread here on reddit which I wanted to give to ChatGPT for summarization (using VoxScript plugin) - unfortunately it failed claiming that:\n\n* it's unable to retrieve more then a few user comments\n* it's unable to distinguish highly upvoted comment from the downvoted ones.\n\nAs my goal was to have a summary along with users sentiment towards the newly introduced law introduced in the thread's title, I'm now wondering if I'm using the VoxScript plugin properly or should I look for another plugin in the openai store - any thoughts?",
+        "subreddit":"ChatGPT",
+        "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/16ccyog\/chatgpt_plugin_to_summarize_reddit_threads\/",
+        "Creation Time":1694084805.0,
+        "Reply Count":7,
+        "Upvote Ratio":1.0
+    },
+    {
+        "Title":"Bing will be using the same ChatGPT Plugins!",
+        "Question":"",
+        "subreddit":"bing",
+        "Link":"https:\/\/twitter.com\/MParakhin\/status\/1654282862408134658?s=20",
+        "Creation Time":1683247154.0,
+        "Reply Count":15,
+        "Upvote Ratio":0.99
+    },
+    {
+        "Title":"ChatGpt plugin for vim",
+        "Question":"Is there a ChatGpt plugin for vim, I see the number of plugins for Neovim but not for vim, the closest is this one, it uses OpenAI codex API so doesn't provide full functionality as OpenAI Gpt-3 API (that's what I think)   \n[https:\/\/github.com\/tom-doerr\/vim\\_codex](https:\/\/github.com\/tom-doerr\/vim_codex)\n\nAnything else out there to try?",
+        "subreddit":"vim",
+        "Link":"https:\/\/www.reddit.com\/r\/vim\/comments\/1059hwt\/chatgpt_plugin_for_vim\/",
+        "Creation Time":1673048617.0,
+        "Reply Count":20,
+        "Upvote Ratio":0.74
+    },
+    {
+        "Title":"I made a ChatGPT plugin that illustrates article (using SDXL\u2019s api)",
+        "Question":"",
+        "subreddit":"StableDiffusion",
+        "Link":"https:\/\/v.redd.it\/hl1onawg7e4b1",
+        "Creation Time":1686055138.0,
+        "Reply Count":18,
+        "Upvote Ratio":0.95
+    },
+    {
+        "Title":"\ud83c\udfc620+ ChatGPT Plugins for Product Managers and Builders - Unleashing the Power of ChatGPT Plugins",
+        "Question":"",
+        "subreddit":"chatgpt_prompts_",
+        "Link":"https:\/\/open.substack.com\/pub\/sidsaladi\/p\/20-chatgpt-plugins-for-product-managers?r=k22jq&utm_campaign=post&utm_medium=web",
+        "Creation Time":1690126058.0,
+        "Reply Count":0,
+        "Upvote Ratio":0.75
+    },
+    {
+        "Title":"\ud83c\udfc620+ ChatGPT Plugins for Product Managers and Builders - Unleashing the Power of ChatGPT Plugins",
+        "Question":"",
+        "subreddit":"PMBuddy",
+        "Link":"https:\/\/open.substack.com\/pub\/sidsaladi\/p\/20-chatgpt-plugins-for-product-managers?r=k22jq&utm_campaign=post&utm_medium=web",
+        "Creation Time":1690125284.0,
+        "Reply Count":0,
+        "Upvote Ratio":1.0
+    }
+]
