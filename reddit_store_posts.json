@@ -4,2204 +4,2449 @@
         "Question":"Every integration is just a stupid login funnel for the creator's service. Take InvidioAI for example. Ooh cool make a video with AI. But to see or download it you have to make an account for their service? So fucking annoying. Providing zero value whatsoever and just skimming accounts.\n\nSame for the nutrition GPT. Ooh. It can tell me the nutrition of my food. IF I GIVE IT THE EXACT INGREDIENTS AND THE AMOUNTS OF EACH ONE? Holy fuck if I wanted to do that I'd just use MyFitnessPal.\n\nSo much useless shitware.",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/194ewzx\/gpt_store_is_actually_pretty_shit\/",
-        "Creation Time":1705013165.0,
+        "Creation Time":1705013165,
         "Reply Count":68,
-        "Upvote Ratio":0.95
+        "Upvote Ratio":0.95,
+        "Challenge Type":"problem"
     },
     {
         "Title":"GPT Store launches next week",
         "Question":"",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/18yj64b\/gpt_store_launches_next_week\/",
-        "Creation Time":1704390709.0,
+        "Creation Time":1704390709,
         "Reply Count":188,
-        "Upvote Ratio":0.95
+        "Upvote Ratio":0.95,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is Live!",
         "Question":"",
         "subreddit":"singularity",
         "Link":"https:\/\/www.reddit.com\/r\/singularity\/comments\/193dsmj\/gpt_store_is_live\/",
-        "Creation Time":1704907827.0,
+        "Creation Time":1704907827,
         "Reply Count":74,
-        "Upvote Ratio":0.94
+        "Upvote Ratio":0.94,
+        "Challenge Type":"na"
     },
     {
         "Title":"First impressions of the GPT store?",
         "Question":"What do you think? Navigation leaves a lot to be desired at the moment, I'd love to be able to view all search results rather than the limited auto complete. Interested to see how the GPT rankings plays out, is it as simple to game as just running up a lot of threads to simulate usage?",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/193wbhv\/first_impressions_of_the_gpt_store\/",
-        "Creation Time":1704959445.0,
+        "Creation Time":1704959445,
         "Reply Count":58,
-        "Upvote Ratio":0.86
+        "Upvote Ratio":0.86,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"I have bad feeling about GPT store",
         "Question":"Days ago I posted in this sub about custom gpts frequently used by people. Aside from some who came obviously to promote their product, I see most people just build for their own use case with their own data. \n\nIf this is true, probably there\u2019s no need for a gpt store as discovery is not important?",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/187nvc1\/i_have_bad_feeling_about_gpt_store\/",
-        "Creation Time":1701364997.0,
+        "Creation Time":1701364997,
         "Reply Count":65,
-        "Upvote Ratio":0.8
+        "Upvote Ratio":0.8,
+        "Challenge Type":"problem"
     },
     {
         "Title":"GPT store opening next week",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yj5rx\/gpt_store_opening_next_week\/",
-        "Creation Time":1704390685.0,
+        "Creation Time":1704390685,
         "Reply Count":73,
-        "Upvote Ratio":0.96
+        "Upvote Ratio":0.96,
+        "Challenge Type":"na"
     },
     {
         "Title":"Am I the only one that doesn't understand the added value of the GPT store?",
         "Question":"As the post title says, I don't get it. Don't get me wrong, it's cool that people can now share \"their\" GPTs, but what is the real value here? It's not like people are spending buckets of money and literally training new transformers with original data for some purpose that they can then resell. It's just the same old GPT-4 with someone else's custom instructions slapped on it.\n\nI struggle to see the value here when it's something that I can so dramatically easily recreate. For example, the top coding GPT is \"Grimoire\" -- but it literally gives all the same answers and suggestions as my own coding GPT that I created. Except I like my own better because I can fine tune its responses to be bespoke to my style, whereas with \"Grimoire\" I am stuck with someone else's instructions that ask me to tip its creator. Yet both are sitting on top of the same knowledge set. I understand you can upload files, but that's not the same as fully training.\n\nIs it cool that people can share these? Yes. But given they're calling it a \"store\" (I haven't seen anything asking to pay yet) -- is someone going to have such good custom instructions on a GPT that I'm going to pay for it? No.\n\nI guess where I could be proven wrong is that not everyone wants to spend time creating their own GPT. But it really is so incredibly easy.\n\nThis is just my opinion. I am curious what others think.",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/194uwn6\/am_i_the_only_one_that_doesnt_understand_the\/",
-        "Creation Time":1705065654.0,
+        "Creation Time":1705065654,
         "Reply Count":161,
-        "Upvote Ratio":0.89
+        "Upvote Ratio":0.89,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"In your opinion what is currently missing in the GPT store?",
         "Question":"Do you wish there was a specific GPT for something you use or work with daily?",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/1947i5u\/in_your_opinion_what_is_currently_missing_in_the\/",
-        "Creation Time":1704994878.0,
+        "Creation Time":1704994878,
         "Reply Count":67,
-        "Upvote Ratio":0.68
+        "Upvote Ratio":0.68,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"OpenAIs GPT Store Revenue Sharing Model",
         "Question":"I think many of us had assumed OpenAI might offer developers the option of monetizing GPTs or  with paid subscriptions. Though with their recent announcements of \u201cengagement based revenue\u201d it seems possible that they\u2019ve decided against it for some reason.\n\nIt\u2019s too early to say. But, if I were to speculate as to why OpenAI might opt for engagement-based monetization over than subscription-based, here are a few reasons:\n\nGPTs already support oAuth. That means, if devs really want to make subscription-based GPTs, they already can  - so long as they provide the infrastructure. If devs host their own APIs, oauth provider service, and handle user\/subscription management, they can easily integrate it into their GPTs, without even having to give OpenAI a cut.\n\nOptics wise, This makes the ChatGPT seem more valuable to developers of more complex apps - and consumers.\n\nFor consumers, it\u2019s nice seeing the entire GPT store without prices next to every GPT. And for complex app devs, it\u2019s nice cause OpenAI isn\u2019t demanding a cut of your subscription revenues like the Apple App Store does.\n\nAnother reason is the lack of any technical mote - literally any company could launch a competing GPT store, taking a lower cut, and attract those developers. Sure, OpenAI has the GPT store market share - but again, they might want to cannibalise their consumers optics for the benefit of developers of low-effort GPTs. Apple and Google are only able to maintain a pseudo-monopoly on app stores because they control the hardware and software. OpenAI doesn\u2019t have that luxury, so it would quickly become a race to the bottom of who\u2019s willing to charge developers the smallest cut.\n\nLastly, this approach allows OpenAI to continue allocating their resources to R&D, instead of developing and supporting a multi-sided marketplace - which frankly, doesn\u2019t really align with the companies stated vision.\n\nSo I can understand why OpenAI might opt for an engagement based model. The developers still have freedom to have subscriptions, third party GPT stores won\u2019t have much leverage to lure developers away, pro users feel like they\u2019re getting a good value and not being taken advantage of with over-commercialized gpt store, and that will continue to attract more Pro users.\n\nAgain, we don\u2019t know exactly what OpenAIs monetization options look like yet - so it\u2019s all speculation.\n\nCurious if y\u2019all have any thoughts on this.",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/19b5zdw\/openais_gpt_store_revenue_sharing_model\/",
-        "Creation Time":1705734458.0,
+        "Creation Time":1705734458,
         "Reply Count":13,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"Will everyone be able to sell their GPTs on the GPT store?",
         "Question":"I couldn't find any specific information about this.  \nAnd if not, how can one profit from creating a GPT? just selling the link to it?",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/18v5iq0\/will_everyone_be_able_to_sell_their_gpts_on_the\/",
-        "Creation Time":1704020442.0,
+        "Creation Time":1704020442,
         "Reply Count":17,
-        "Upvote Ratio":0.36
+        "Upvote Ratio":0.36,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"AI girlfriend bots are already flooding OpenAI\u2019s GPT store",
         "Question":"",
         "subreddit":"technology",
         "Link":"https:\/\/www.reddit.com\/r\/technology\/comments\/196a6lu\/ai_girlfriend_bots_are_already_flooding_openais\/",
-        "Creation Time":1705216639.0,
+        "Creation Time":1705216639,
         "Reply Count":178,
-        "Upvote Ratio":0.92
+        "Upvote Ratio":0.92,
+        "Challenge Type":"problem"
     },
     {
         "Title":"OpenAI: GPT Store will launch next week",
         "Question":"",
         "subreddit":"singularity",
         "Link":"https:\/\/www.reddit.com\/r\/singularity\/comments\/18yj66o\/openai_gpt_store_will_launch_next_week\/",
-        "Creation Time":1704390714.0,
+        "Creation Time":1704390714,
         "Reply Count":131,
-        "Upvote Ratio":0.97
+        "Upvote Ratio":0.97,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Analytics - The missing piece in GPT Store for creators",
         "Question":"",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/195pevo\/gpt_analytics_the_missing_piece_in_gpt_store_for\/",
-        "Creation Time":1705156843.0,
+        "Creation Time":1705156843,
         "Reply Count":96,
-        "Upvote Ratio":0.91
+        "Upvote Ratio":0.91,
+        "Challenge Type":"na"
     },
     {
         "Title":"The GPT Store was public an hour ago apparently - some details in thread",
         "Question":"",
         "subreddit":"singularity",
         "Link":"https:\/\/www.reddit.com\/r\/singularity\/comments\/192lxsb\/the_gpt_store_was_public_an_hour_ago_apparently\/",
-        "Creation Time":1704825573.0,
+        "Creation Time":1704825573,
         "Reply Count":118,
-        "Upvote Ratio":0.95
+        "Upvote Ratio":0.95,
+        "Challenge Type":"na"
     },
     {
         "Title":"Introducing the GPT Store",
         "Question":"",
         "subreddit":"singularity",
         "Link":"https:\/\/www.reddit.com\/r\/singularity\/comments\/193diq7\/introducing_the_gpt_store\/",
-        "Creation Time":1704907149.0,
+        "Creation Time":1704907149,
         "Reply Count":27,
-        "Upvote Ratio":0.94
+        "Upvote Ratio":0.94,
+        "Challenge Type":"na"
     },
     {
         "Title":"Interesting predictions about the GPT store...",
         "Question":"Source: [https:\/\/twitter.com\/\\_Borriss\\_\/status\/1723725113101549684](https:\/\/twitter.com\/_Borriss_\/status\/1723725113101549684)\n\nBecause of the word \u201cstore\u201d many people think that it\u2019ll be like the App Store and get excited about the money making opportunity. I have a feeling that the better analogy is a Spotify type subscription platform. Millions of interchangeable, easy to make GPTs. The vast majority of them will be free with the $20\/m Plus subscription.\n\nThere will be paid GPTs, but not many people will buy them. Of course, a few hits will sell big numbers. Overall the store will be: 1. Great for the users. 2. Wonderful for OpenAI. 3. Better than nothing for the most new \u201cGPTs developers\u201d.\n\nJust like the vast majority of the musicians in Spotify make pennies from streaming. The same will be with the vast majority of the GPT developers. Most developers will publish quality GPTs and use them as a free lead magnet to monetize in other ways. (Like selling concert tickets and merch.)\n\nSome will make good money(but nothing big) from the revenue share when their GPTs go viral. They will flex it hard on social: \u201cI make $10K a month with CustomGPTs!\u201d Many others will show you \u201chow to make the 10K\u201d, even though they have made $5 with it.\n\nAnd Sam will come on the stage and say:\n\n* People love building and sharing customGPTs.\n* Many of them also make good money with our revenue share.\n* The Plus subscriber numbers have grown substantially.\n* Everything is mouth to mouth. We\u2019ve spent $0 on marketing.\n* It\u2019s a beautiful technology.",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/17upjcm\/interesting_predictions_about_the_gpt_store\/",
-        "Creation Time":1699921684.0,
+        "Creation Time":1699921684,
         "Reply Count":51,
-        "Upvote Ratio":0.92
+        "Upvote Ratio":0.92,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Review - GPT Store Exposed",
         "Question":"",
         "subreddit":"Review",
         "Link":"https:\/\/www.reddit.com\/r\/Review\/comments\/195qctw\/gpt_store_review_gpt_store_exposed\/",
-        "Creation Time":1705159496.0,
+        "Creation Time":1705159496,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Introducing the GPT Store",
         "Question":"",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/193rbf9\/introducing_the_gpt_store\/",
-        "Creation Time":1704942297.0,
+        "Creation Time":1704942297,
         "Reply Count":26,
-        "Upvote Ratio":0.84
+        "Upvote Ratio":0.84,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is coming out, so let's share the best GPTs thay already exist",
         "Question":"We all see news about OpenAI's GPT Store launching this week. So, soon we'll have many new GPTs to try out and buy. Before we get acquainted with the new tools, let's choose some useful GPTs not to lose. Let me start this **THREAD:**   \n\n\n* **AI PDF** \\- summaries for lengthy documents and texts - [https:\/\/chat.openai.com\/g\/g-V2KIUZSj0-ai-pdf?ref=therundown](https:\/\/chat.openai.com\/g\/g-V2KIUZSj0-ai-pdf?ref=therundown)\n* **AI Essay Writer** \\- creates academic essays and research papers - [https:\/\/chat.openai.com\/g\/g-b9B1Asg8B-ai-essay-writer-by-textero-ai](https:\/\/chat.openai.com\/g\/g-b9B1Asg8B-ai-essay-writer-by-textero-ai)\n* **Designer GPT** \\- creates and hosts beautiful websites - [https:\/\/chat.openai.com\/g\/g-2Eo3NxuS7-designergpt?ref=therundown](https:\/\/chat.openai.com\/g\/g-2Eo3NxuS7-designergpt?ref=therundown)\n* **Logo Creator** \\- generates simple logo designs in seconds - [https:\/\/chat.openai.com\/g\/g-gFt1ghYJl-logo-creator?ref=therundown](https:\/\/chat.openai.com\/g\/g-gFt1ghYJl-logo-creator?ref=therundown)\n* **Boundaries GPT -** helps to say \"no\" - [https:\/\/chat.openai.com\/g\/g-DlRRwMClP-boundaries](https:\/\/chat.openai.com\/g\/g-DlRRwMClP-boundaries) \n* **Blogger** \\- creates content for blogs - [https:\/\/chat.openai.com\/g\/g-Z7G2MFCmq-blogger](https:\/\/chat.openai.com\/g\/g-Z7G2MFCmq-blogger)\n* **Healthy Chef** \\- creates recipes with visual insights - [https:\/\/chat.openai.com\/g\/g-OdwKeQjDm-healthy-chef?ref=therundown](https:\/\/chat.openai.com\/g\/g-OdwKeQjDm-healthy-chef?ref=therundown)\n\n&#x200B;\n\n&#x200B;",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/191h9jz\/gpt_store_is_coming_out_so_lets_share_the_best\/",
-        "Creation Time":1704705801.0,
+        "Creation Time":1704705801,
         "Reply Count":95,
-        "Upvote Ratio":0.95
+        "Upvote Ratio":0.95,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Exposed Review - Legit GPT Store System?",
         "Question":"",
         "subreddit":"u_webtraffictoolkit",
         "Link":"https:\/\/www.reddit.com\/r\/u_webtraffictoolkit\/comments\/196kajo\/gpt_store_exposed_review_legit_gpt_store_system\/",
-        "Creation Time":1705251268.0,
+        "Creation Time":1705251268,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"AI girlfriend bots are already flooding OpenAI\u2019s GPT store",
         "Question":"",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/195kiyj\/ai_girlfriend_bots_are_already_flooding_openais\/",
-        "Creation Time":1705139191.0,
+        "Creation Time":1705139191,
         "Reply Count":46,
-        "Upvote Ratio":0.93
+        "Upvote Ratio":0.93,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Introducing the GPT Store",
         "Question":"",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/193eek4\/introducing_the_gpt_store\/",
-        "Creation Time":1704909291.0,
+        "Creation Time":1704909291,
         "Reply Count":17,
-        "Upvote Ratio":0.87
+        "Upvote Ratio":0.87,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store delayed to early next year",
         "Question":"I just receive this email apparently the store has been postponed until next year but more updates will arrive this year.\n\nWhat do you think? Maybe they are optimizing GPT-4 turbo?\n\nhttps:\/\/preview.redd.it\/bl5yt6up5q3c1.png?width=974&format=png&auto=webp&s=b7c684ce830b52fd1fee2964ad8882c816f02ed6",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/188ihyl\/gpt_store_delayed_to_early_next_year\/",
-        "Creation Time":1701454460.0,
+        "Creation Time":1701454460,
         "Reply Count":35,
-        "Upvote Ratio":0.94
+        "Upvote Ratio":0.94,
+        "Challenge Type":"na"
     },
     {
         "Title":"What is Google Bard's playbook against ChatGPT-4, GPT Store etc.?",
         "Question":"With Sam back at OpenAI with the backing of literally every employee, they will probably be accelerating product and feature launches even more with renewed rigor and an ever higher sense of purpose. \n\nWhat's Google's plan to take on OpenAI? Will they let OpenAI become a trillion dollar company, when they literally had (in fact invented) the GPT technology but just sat on it for years doing nothing with it? Or does Google have it within itself to wake up from its slumber and take on ChatGPT head on?",
         "subreddit":"Bard",
         "Link":"https:\/\/www.reddit.com\/r\/Bard\/comments\/183e1tu\/what_is_google_bards_playbook_against_chatgpt4\/",
-        "Creation Time":1700895984.0,
+        "Creation Time":1700895984,
         "Reply Count":34,
-        "Upvote Ratio":0.86
+        "Upvote Ratio":0.86,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"EuroleagueGPT on GPT store",
         "Question":"I created a GPT on GPT store, hte EuroleagueGPT. It answers question about Euroleague, team and player info, current and historical stats, etc.   \n[https:\/\/chat.openai.com\/g\/g-C5eIzCsed-euroleaguegpt](https:\/\/chat.openai.com\/g\/g-C5eIzCsed-euroleaguegpt)  \nPlease give it a try and leave feedback.  (it requires a ChatGPT subscription).",
         "subreddit":"Euroleague",
         "Link":"https:\/\/www.reddit.com\/r\/Euroleague\/comments\/19c5mpq\/euroleaguegpt_on_gpt_store\/",
-        "Creation Time":1705850450.0,
+        "Creation Time":1705850450,
         "Reply Count":2,
-        "Upvote Ratio":0.91
+        "Upvote Ratio":0.91,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store: what is it? and latest updates about GPT store",
         "Question":"",
         "subreddit":"machineLearning101",
         "Link":"https:\/\/www.reddit.com\/r\/machineLearning101\/comments\/191ugab\/gpt_store_what_is_it_and_latest_updates_about_gpt\/",
-        "Creation Time":1704744223.0,
+        "Creation Time":1704744223,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store having only 12 GPT's per section and no review process shows a lack of vision",
         "Question":"Check out the Dall-e section. 1\/4 of it is logo makers...\n\nYou have an entirely pointless All Trails GPT being featured first. Everyone can just use the app. \n\nHow about featuring a few of the unique GPT's that actually have a use that a free program that's a google search away, doesn't already provide? It seems as though there was no thought put into the quality of what's being featured.\n\nI get growing pains, but this is beyond discouraging.  Only 12 GPT's per section, give me a break.",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/193s3gb\/gpt_store_having_only_12_gpts_per_section_and_no\/",
-        "Creation Time":1704944661.0,
+        "Creation Time":1704944661,
         "Reply Count":85,
-        "Upvote Ratio":0.91
+        "Upvote Ratio":0.91,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Sudden Deletion of My Widely-Used GPT from the GPT Store: 1.5 Months of Hard Work and Promotion Gone in Vain",
         "Question":"**UPDATE:Big thanks to the OpenAI team for getting my GPT back up and resolving it this error so quickly! Really impressed with how fast you guys handled it. You rock!**\n\n**Special thanks for your support** u\/DaveHu_me\\*\\*,\\*\\* u\/baz4tw\\*\\*,\\*\\* u\/En-tro-py\\*\\*,\\*\\* u\/noti-fawkes\\*\\*, u\/nopefromscratch, \\*\\* u\/iLMorus\\*\\*,\\*\\* u\/ResponsibleSteak4994\\*\\*,\\*\\* u\/terribilus\\*\\*,\\*\\* u\/enlightenedpersonage\\*\\*!!! You all are the best!\\*\\*\n\n\\----------------\n\nOver the past one and a half months, I've been passionately working on a GPT named \u201cVideo Summarizer AI\u201d \\[[https:\/\/chat.openai.com\/g\/g-GvcYCKPIH-video-summarizer-ai](https:\/\/chat.openai.com\/g\/g-GvcYCKPIH-video-summarizer-ai)\\]. This project was designed to create educational summaries from videos submitted by users, aiming to improve their learning experience.\n\nWith over 5000+ chats, the GPT was well-received, ranking 10th in the Education category. Some users were even euphoric about this solution. My role encompassed everything from backend development to testing, engaging with users, and refining their experience. I also personally funded its marketing and promotion.\n\nHowever, a sudden notification yesterday informed me of the GPT's removal from the store, without any specific reason. It hinted at a possible breach of the Terms of Service or Usage Policies, prompting me to carefully revise and correct any possible infractions.\n\nDespite this effort, today brought another unexplained removal notice, referring again to the same documents I had diligently reviewed. Notably, a legal expert I consulted identified no violations in my work.\n\nWhen the second notification arrived, I was only able to see its title on my phone, as the content wouldn't load. Once home, I accessed it on my laptop, only to find no detailed explanation for the removal and no possibility of restoring the GPT to the store or appealing the decision.\n\nThis occurred even though there are copycats and similar GPTs in the store that clearly infringe on the 'YouTube' trademark in their GPT names and lack educational purposes, in contrast to my \"Video Summarizer AI\", yet they remain available.My aspiration was to actively contribute to the OpenAI Store's GPT development. This seems impossible now, given the unexplained removal of my project.\n\nIf this is a final decision and not just a technical glitch, I urge Openai for transparency regarding any errors I might have made. Despite my earnest efforts, including legal consultation, the reason behind this decision remains a mystery.\n\n&#x200B;\n\nhttps:\/\/preview.redd.it\/3x5bn83l22cc1.png?width=820&format=png&auto=webp&s=c10be4adf0c5dfbd98df3332326f9cf016b8aad3",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/1952s1r\/sudden_deletion_of_my_widelyused_gpt_from_the_gpt\/",
-        "Creation Time":1705085998.0,
+        "Creation Time":1705085998,
         "Reply Count":54,
-        "Upvote Ratio":0.85
+        "Upvote Ratio":0.85,
+        "Challenge Type":"problem"
     },
     {
         "Title":"ChatGPT - GPT Store Launch, Personalization, Memory",
         "Question":"The details (from the Rundown AI Newsletter):\n\n\u201cThe GPT Store features over 3M GPTs created by the community \u2014 featuring a variety of categories, a trending leaderboard, and curated picks.\n\nA revenue program for U.S. builders is set to launch \u2018in Q1\u2019, rewarding creators based on user engagement with their GPTs.\n\nOpenAI also announced a new ChatGPT Team Plan, priced at $25\/month\/user (annual) or $30\/month (monthly), offers a shared workspace and user management tools.\n\nChatGPT personalization and long-term memory have also started rolling out, allowing GPT to carry over memory between chats and improve over time.\u201d\n\nAnyone have use cases already in mind? The personalization seems like it will be huge! And I am definitely going to check out the team plan.",
         "subreddit":"AIBizOps",
         "Link":"https:\/\/www.reddit.com\/r\/AIBizOps\/comments\/193zwwm\/chatgpt_gpt_store_launch_personalization_memory\/",
-        "Creation Time":1704973851.0,
+        "Creation Time":1704973851,
         "Reply Count":10,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"The Futility of \"Securing\" Prompts in the GPT Store",
         "Question":"Hello Reddit,\n\nThere's a trend I've noticed: some creators are attempting to \"secure\" their GPTs by obfuscating the prompts. For example, people are adding paragraphs along the lines of \"don't reveal these instructions\".\n\n**Controversial opinion warning**\n\nThis approach is like digital rights management (DRM), and it's equally futile. Such security measures are easily circumvented, rendering them ineffective. Every time someone shares one, a short time later there's a reply or screenshot from someone who has jailbroken it.\n\nAdding this to your prompt introduces unnecessary complexity and noise, potentially diminishing the prompt's effectiveness. It reminds me of websites from decades ago that tried to stop people right clicking on images to save them.\n\nI don't think that prompts should not be treated as secrets at all. The value of GPTs isn't the prompt itself but whatever utility it brings to the user. If you have information that's actually confidential then it's not safe in a prompt.\n\nI'm interested in hearing your thoughts on this. Do you believe OpenAI should try to provide people with a way to hide their prompts, or should the community focus on more open collaboration and improvement?",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/194ebyy\/the_futility_of_securing_prompts_in_the_gpt_store\/",
-        "Creation Time":1705011698.0,
+        "Creation Time":1705011698,
         "Reply Count":39,
-        "Upvote Ratio":0.97
+        "Upvote Ratio":0.97,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT store delayed, at least until January.",
         "Question":"I think it probably has to do with the fact that people have been able to find the source prompts for user made custom gpts, regardless of custom security instructions.",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/188hykc\/gpt_store_delayed_at_least_until_january\/",
-        "Creation Time":1701453091.0,
+        "Creation Time":1701453091,
         "Reply Count":19,
-        "Upvote Ratio":0.96
+        "Upvote Ratio":0.96,
+        "Challenge Type":"na"
     },
     {
         "Title":"What is the current go-to GPT Store website (pre-official GPT Store release)?",
         "Question":"I know there were a bunch of websites that popped up, was just curious if there was an unofficial one running that had the best picture of current GPTs out there\n\nthanks",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/192fwsu\/what_is_the_current_goto_gpt_store_website\/",
-        "Creation Time":1704810428.0,
+        "Creation Time":1704810428,
         "Reply Count":3,
-        "Upvote Ratio":0.82
+        "Upvote Ratio":0.82,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"My Honest Review of the GPT Store",
         "Question":"Hey everyone,\n\nI recently dove into OpenAI's newly launched GPT Store and thought to share some insights here. It's definitely an interesting step towards making AI more accessible and integrated into our daily lives. Here's a quick rundown:\n\n- **What's Good**: It\u2019s a step in the right direction. There\u2019s a search bar. It\u2019s a nice and easy way to discover new GPTs and also be discovered as a creator.  Overall, I am happy but there are plenty of ways to make it better.\n\n- **Areas for Improvement**:\n  - **User Reviews & Ratings**: Currently missing, but could greatly enhance trust and help improve the GPTs based on community feedback.\n  - **Analytics for Creators**: There's a lack of comprehensive analytics for creators to understand how their GPTs are being used, which is crucial for success.\n  - **More Categories Needed**: The store could benefit from a broader range of categories.  Where are categories like humor, marketing, characters, etc.?\n  - **Accessibility Issues**: GPTs should be available to users without a ChatGPT subscription, either by an inexpensive subscription to individual GPTs, or paid by GPT usage.  \n  - **More Points**: All in the link at the bottom.\n\nIt's not perfect, but it's a good start. What do you all think? Could this be the future of AI we've been waiting for, or are there significant gaps that need to be addressed first?\n\nSee the full article here:\nhttps:\/\/runtheprompts.com\/resources\/chatgpt-info\/gpt-store-review\/",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/19f0fyd\/my_honest_review_of_the_gpt_store\/",
-        "Creation Time":1706155404.0,
+        "Creation Time":1706155404,
         "Reply Count":23,
-        "Upvote Ratio":0.85
+        "Upvote Ratio":0.85,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT Store",
         "Question":"Is it just me or should there be a rating system in-place for these extensions? Some of them work. Some of them do not. A-lot of them have API issues. Do these submissions get tested by anyone?",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193ngwy\/gpt_store\/",
-        "Creation Time":1704931461.0,
+        "Creation Time":1704931461,
         "Reply Count":3,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Publicly releasing custom GPT to GPT store, while the GPT uses my personal API key?",
         "Question":"Hi guys,\n\nI dont have a lot of knowledge about software engineering.\n\nMy question is, if I create a custom chat GPT in which I add a custom action via an api call, and this api call requires an api key to work, how do I go about this?  \nShould I hard code my personal api key into the schema for the action? I mean the idea is to have other GPT users use my created GPT. In that case I need to provide these users with an api key that I already hardcode into the schema right?   \n\n\nIf so, does this not potentially pose security risks? The api key may potentially be extractable by interacting with my created GPT right?  \n\n\nWhat would you advise here?  \nThanks a lot in advance.",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/193ekd0\/publicly_releasing_custom_gpt_to_gpt_store_while\/",
-        "Creation Time":1704909667.0,
+        "Creation Time":1704909667,
         "Reply Count":15,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"can't see GPT Store",
         "Question":"I've been a ChatGPT Pro customer for a long time and can\n\nbecause GPT Store cannot be seen\n\nin Chrome and not in the Android app either\n\nAnyone else have this problem?",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/197x8mq\/cant_see_gpt_store\/",
-        "Creation Time":1705390406.0,
+        "Creation Time":1705390406,
         "Reply Count":8,
-        "Upvote Ratio":0.79
+        "Upvote Ratio":0.79,
+        "Challenge Type":"problem"
     },
     {
         "Title":"GPT Store",
         "Question":"Received email announcing GPT store launch next week",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yjew4\/gpt_store\/",
-        "Creation Time":1704391307.0,
+        "Creation Time":1704391307,
         "Reply Count":2,
-        "Upvote Ratio":0.63
+        "Upvote Ratio":0.63,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Delayed Launch",
         "Question":"Just received this email from OpenAI.\n\n\u201cDear GPT Builder,\n\nIt\u2019s been less than a month since we announced GPTs and we are blown away by the useful and fun GPTs that you and the builder community have created.\n\nWe are continuing to make improvements to GPTs based on your feedback. To improve Actions we updated the configuration interface, enabled one click testing, added debug messages in preview, and now allow multiple domains. There have also been questions around uploaded files. Uploaded files are downloadable when using Code Interpreter so we\u2019ve made this feature default off and added messaging to better explain this. If you have additional feedback, we\u2019d love to hear from you here.\n\nIn terms of what\u2019s next, we are now planning to launch the GPT Store early next year. While we had expected to release it this month, a few unexpected things have been keeping us busy! In the meantime, we will have some other great updates to ChatGPT soon. Thank you for investing time to build a GPT.\n\n- ChatGPT Team\u201d",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/188i6p4\/gpt_store_delayed_launch\/",
-        "Creation Time":1701453675.0,
+        "Creation Time":1701453675,
         "Reply Count":11,
-        "Upvote Ratio":0.93
+        "Upvote Ratio":0.93,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is live!",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193e5pj\/gpt_store_is_live\/",
-        "Creation Time":1704908697.0,
+        "Creation Time":1704908697,
         "Reply Count":8,
-        "Upvote Ratio":0.78
+        "Upvote Ratio":0.78,
+        "Challenge Type":"na"
     },
     {
         "Title":"Do you think the GPT Store will make a lot of startups obsolete?",
         "Question":"I am not one of those people who say \"it's just a GPT wrapper blah\", since a startup is a combination of a lot of things. Some people might think it's worth the money to pay for a SaaS which is essentially a GPT wrapper, if the customer support is good, or the interface looks nice or if they are not that into AI and stuff. N = 1 folks \u2013 you can't just always think from your perspective.\n\nBut: There are a lot of companies anyway that essentially handle and provide information. You give the app info about your things \u2192 the app does something and gives you insights back. I don't know if you get what I am trying to say but a lot of businesses out there are \"just\" generating or selling intel, which could be easily copied (if the insights are by the creator) via a CustomGPT.\n\nSo if there is e.g. a content creation tool like [jasper.ai](https:\/\/jasper.ai) or whatever that writes content for you using the OpenAI GPT models, the GPT Store is a huge threat since the barrier of coding something is gone, and people can \u2013 with the right expertise at hand of course \u2013 create a tool that does basically the same as said [jasper.ai](https:\/\/jasper.ai). Taking in the fact that CustomGPTs can handle .pdf in order to learn even more, the expertise isn't that important too.\n\nI am not in the AI SaaS scene in particular, so this does not bother me so much and as I said, there is way more to a startup than just the pure functionality (especially when there are still a lot of companies out there, that need to follow compliance stuff and are 'stuck' in the classic sales cycles), but do you think, that the GPT store is a threat for the OpenAI API or smaller indiehacker projects or startups in general?\n\nWould like to hear your thoughts.",
         "subreddit":"startups",
         "Link":"https:\/\/www.reddit.com\/r\/startups\/comments\/1912kou\/do_you_think_the_gpt_store_will_make_a_lot_of\/",
-        "Creation Time":1704661625.0,
+        "Creation Time":1704661625,
         "Reply Count":50,
-        "Upvote Ratio":0.83
+        "Upvote Ratio":0.83,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT store is broken",
         "Question":"Can anyone help me understand how to get your GPT visibility? The # of chats metric is so broken in that the lucky gpts that launched first just have to ride the wave because everyone will be chatting with the most popular ones.\n\nThere\u2019s no qualitative metric so the most popular will stay popular. I\u2019ve spent time building a gpt that is getting absolutely no hits:\n\nhttps:\/\/chat.openai.com\/g\/g-irqPvi4nS-faraway-travel-planner\n\nI hate for this store to become a social sellout play, but it seems it\u2019s trending that way? Am I doing something wrong or do I have to spam the shit out of my work on every social\/forum I have access to?",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/195g2l2\/gpt_store_is_broken\/",
-        "Creation Time":1705122026.0,
+        "Creation Time":1705122026,
         "Reply Count":7,
-        "Upvote Ratio":0.83
+        "Upvote Ratio":0.83,
+        "Challenge Type":"problem"
     },
     {
         "Title":"GPT Store Launch",
         "Question":"From OpenAI, sent today: \u201cWe want to let you know that we will launch the GPT Store next week.\u201d\nYay!!!",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yk3nx\/gpt_store_launch\/",
-        "Creation Time":1704392981.0,
+        "Creation Time":1704392981,
         "Reply Count":4,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Launch",
         "Question":"From OpenAI, sent today: \u201cWe want to let you know that we will launch the GPT Store next week.\u201d\nYay!",
         "subreddit":"ChatGPTPromptGenius",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPromptGenius\/comments\/18yk68e\/gpt_store_launch\/",
-        "Creation Time":1704393143.0,
+        "Creation Time":1704393143,
         "Reply Count":4,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store",
         "Question":"",
         "subreddit":"chatgpt_promptDesign",
         "Link":"https:\/\/www.reddit.com\/r\/chatgpt_promptDesign\/comments\/1931v2a\/gpt_store\/",
-        "Creation Time":1704868530.0,
+        "Creation Time":1704868530,
         "Reply Count":0,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store will be launched next week !",
         "Question":"&#x200B;\n\n[source: email sent by noreply@email.openai.com and received the Thursday 4 January 2024 at 18:52pm UTC+1](https:\/\/preview.redd.it\/xgyhc50epgac1.png?width=608&format=png&auto=webp&s=096e8b1b0e75de17bd23b8587fbe26a3b5088a87)",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/18yjaze\/gpt_store_will_be_launched_next_week\/",
-        "Creation Time":1704391050.0,
+        "Creation Time":1704391050,
         "Reply Count":18,
-        "Upvote Ratio":0.98
+        "Upvote Ratio":0.98,
+        "Challenge Type":"na"
     },
     {
         "Title":"Introducing the GPT Store",
         "Question":"",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/193r7bv\/introducing_the_gpt_store\/",
-        "Creation Time":1704941991.0,
+        "Creation Time":1704941991,
         "Reply Count":5,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is Live!",
         "Question":"",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/193drtz\/gpt_store_is_live\/",
-        "Creation Time":1704907774.0,
+        "Creation Time":1704907774,
         "Reply Count":5,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"Submit your GPT in GPT Store",
         "Question":"",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/17u5akd\/submit_your_gpt_in_gpt_store\/",
-        "Creation Time":1699859703.0,
+        "Creation Time":1699859703,
         "Reply Count":4,
-        "Upvote Ratio":0.6
+        "Upvote Ratio":0.6,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store launch",
         "Question":"Just got an email from the GPT Team",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/18ylis6\/gpt_store_launch\/",
-        "Creation Time":1704396417.0,
+        "Creation Time":1704396417,
         "Reply Count":2,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"na"
     },
     {
         "Title":"Must try GPT\u2019s on the GPT store!",
         "Question":"The new GPT store has sent waves across the AI world. I mean, if you do get to explore it give these a shot guys! This is Cooooool!!!",
         "subreddit":"developersIndia",
         "Link":"https:\/\/www.reddit.com\/r\/developersIndia\/comments\/195s376\/must_try_gpts_on_the_gpt_store\/",
-        "Creation Time":1705164102.0,
+        "Creation Time":1705164102,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Launch",
         "Question":"\ud83d\ude80 Last week, we unveiled API Hunt to everyone, \n\nand just today, we've introduced the API Hunt GPT bot! \ud83e\udd16  \n\nCheck it out here \ud83d\udc49 [https:\/\/chat.openai.com\/g\/g-OSUq...](https:\/\/chat.openai.com\/g\/g-OSUqvnyK0-api-hunt)  \n\n&#x200B;\n\nEager to get your thoughts and feedback! \ud83d\ude4c If you're considering a launch in the GPT store, feel free to shoot any questions my way.  \n\nHere are some useful links:  \n\n&#x200B;\n\n\\- The Directory: [https:\/\/apihunt.io](https:\/\/apihunt.io\/) \n\n\\- Chrome Extension: [https:\/\/chromewebstore.google.co...](https:\/\/chromewebstore.google.com\/detail\/api-hunt\/ebfedmjhfhfnhkakpipadcaeacjngjjp?hl=en-GB&pli=1) \n\n\\- GPT Store: [https:\/\/chat.openai.com\/g\/g-OSUq...](https:\/\/chat.openai.com\/g\/g-OSUqvnyK0-api-hunt)  \n\nCheers \ud83d\udc4b",
         "subreddit":"apihunt",
         "Link":"https:\/\/www.reddit.com\/r\/apihunt\/comments\/19ciftr\/gpt_store_launch\/",
-        "Creation Time":1705883225.0,
+        "Creation Time":1705883225,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store SEO sucks",
         "Question":"My DevOps GPT has over 800+ users but when I get my friend to search for \u2018DevOps\u2019 on his end my GPT never shows up. Can ya\u2019ll search and see if my bot shows on your end? If it does, can you click on it to help with GPT Store SEO! \n\nHere is a direct link: https:\/\/chat.openai.com\/g\/g-tXRU6PcBN-devops-gpt",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/194cz20\/gpt_store_seo_sucks\/",
-        "Creation Time":1705008406.0,
+        "Creation Time":1705008406,
         "Reply Count":5,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Gpt Store, Zoopic",
         "Question":"Hello guys the new gpt store is here and if you like you can use my gpt called Zoopic it gives info about various animals like king Cobra and their diseases, venomous status and 1 amazing fact about it  .",
         "subreddit":"aiArt",
         "Link":"https:\/\/www.reddit.com\/r\/aiArt\/comments\/193fmtf\/gpt_store_zoopic\/",
-        "Creation Time":1704912239.0,
+        "Creation Time":1704912239,
         "Reply Count":1,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store lunch next week",
         "Question":"GPT Store lunches next week!",
         "subreddit":"ChatGPTCoding",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTCoding\/comments\/18yjj61\/gpt_store_lunch_next_week\/",
-        "Creation Time":1704391584.0,
+        "Creation Time":1704391584,
         "Reply Count":9,
-        "Upvote Ratio":0.64
+        "Upvote Ratio":0.64,
+        "Challenge Type":"na"
     },
     {
         "Title":"The GPT Store",
         "Question":"",
         "subreddit":"hackernews",
         "Link":"https:\/\/www.reddit.com\/r\/hackernews\/comments\/193nd86\/the_gpt_store\/",
-        "Creation Time":1704931202.0,
+        "Creation Time":1704931202,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT GPT Store coming soon?",
         "Question":"The public ChatGPT resources already include \"**GPT Store**\", which is probably coming soon with:\n\n&#x200B;\n\n[ChatGPT GPT Store screenshot with Featured and Trending GPTs](https:\/\/preview.redd.it\/u44ug7y4yw0c1.png?width=2252&format=png&auto=webp&s=509293151c7074322ed5c683006157b3070336d2)\n\n&#x200B;\n\n\\- \"**Featured**\" GPTs - Curated top picks from this week\n\n&#x200B;\n\n\\- \"**Trending**\" GPTs - The most popular GPTs among our community\n\n&#x200B;\n\nThe list of featured and trending GPTs is only for illustrative purposes; there are no visible GPTs yet.\n\n&#x200B;\n\n[ChatGPT public resources mentioning Featured and Trending GPTs](https:\/\/preview.redd.it\/qhdco187yw0c1.jpg?width=1242&format=pjpg&auto=webp&s=53bcee92ec7f46c1c54b860b8e2333c342d45475)\n\n&#x200B;\n\n**PS:** You can already discover over **9,000 GPTs** created by the community directly in ChatGPT using AIPRM for ChatGPT right now!\n\n&#x200B;\n\n[ChatGPT screenshot with AIPRM Community GPTs](https:\/\/preview.redd.it\/533ytzu8yw0c1.png?width=2234&format=png&auto=webp&s=917095839107e2770561121291cac14a3ab58d70)",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/17xfjtx\/chatgpt_gpt_store_coming_soon\/",
-        "Creation Time":1700229221.0,
+        "Creation Time":1700229221,
         "Reply Count":2,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT - GPT Store Launch, Personalization, Memory",
         "Question":"",
         "subreddit":"AItoolsCatalog",
         "Link":"https:\/\/www.reddit.com\/r\/AItoolsCatalog\/comments\/193zzqe\/chatgpt_gpt_store_launch_personalization_memory\/",
-        "Creation Time":1704974126.0,
+        "Creation Time":1704974126,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Finder : Find the best GPTs submitted on Awesome GPT store github repo with 700+ stars",
         "Question":"Awesome GPT Store now has \\~700 stars on Github  \n\n200+ apps listed  \n\nAnd now **GPT Store Finder** app is live  \n\nFind any GPT of your choice by chatting with ChatGPT  \n\nAlready 40+ users have tried it since launch\n\nLink to GPT :- [https:\/\/chat.openai.com\/g\/g-JRQEmbuM9-gpt-store-finder](https:\/\/chat.openai.com\/g\/g-JRQEmbuM9-gpt-store-finder)\n\nLink to Github repo :- [https:\/\/github.com\/Anil-matcha\/Awesome-GPT-Store](https:\/\/github.com\/Anil-matcha\/Awesome-GPT-Store)",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/17vwib9\/gpt_store_finder_find_the_best_gpts_submitted_on\/",
-        "Creation Time":1700063291.0,
+        "Creation Time":1700063291,
         "Reply Count":9,
-        "Upvote Ratio":0.72
+        "Upvote Ratio":0.72,
+        "Challenge Type":"na"
     },
     {
         "Title":"Llega la GPT Store de ChatGPT",
         "Question":"",
         "subreddit":"u_Particular-Bar-4771",
         "Link":"https:\/\/www.reddit.com\/r\/u_Particular-Bar-4771\/comments\/18qi342\/llega_la_gpt_store_de_chatgpt\/",
-        "Creation Time":1703508637.0,
+        "Creation Time":1703508637,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"The GPT Store",
         "Question":"",
         "subreddit":"patient_hackernews",
         "Link":"https:\/\/www.reddit.com\/r\/patient_hackernews\/comments\/193oed8\/the_gpt_store\/",
-        "Creation Time":1704933996.0,
+        "Creation Time":1704933996,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"The GPT Store",
         "Question":"",
         "subreddit":"hypeurls",
         "Link":"https:\/\/www.reddit.com\/r\/hypeurls\/comments\/193j778\/the_gpt_store\/",
-        "Creation Time":1704920835.0,
+        "Creation Time":1704920835,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Launch",
         "Question":"",
         "subreddit":"hackernews",
         "Link":"https:\/\/www.reddit.com\/r\/hackernews\/comments\/18ynsbt\/gpt_store_launch\/",
-        "Creation Time":1704402005.0,
+        "Creation Time":1704402005,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Launch",
         "Question":"",
         "subreddit":"patient_hackernews",
         "Link":"https:\/\/www.reddit.com\/r\/patient_hackernews\/comments\/18yox4e\/gpt_store_launch\/",
-        "Creation Time":1704404796.0,
+        "Creation Time":1704404796,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"The GPT Store",
         "Question":"It's officially open but the functionality needs lots of work. I have quite a few gpt's on the store but I have no idea how monetization will work or anyway to know how any of my gpt's are doing.  Hopefully this will be addressed and improved upon.",
         "subreddit":"D_Droid_Tech_blog",
         "Link":"https:\/\/www.reddit.com\/r\/D_Droid_Tech_blog\/comments\/193vzrp\/the_gpt_store\/",
-        "Creation Time":1704958085.0,
+        "Creation Time":1704958085,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"problem"
     },
     {
         "Title":"How to find an AI girlfriend with the GPT Store",
         "Question":"Looking for an AI girlfriend, boyfriend, or husband? You'll find them in the GPT Store.\n\nWhat you won't find: an AI wife.\n\nApparently, there isn't enough demand for that...",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/194wazg\/how_to_find_an_ai_girlfriend_with_the_gpt_store\/",
-        "Creation Time":1705069555.0,
+        "Creation Time":1705069555,
         "Reply Count":25,
-        "Upvote Ratio":0.78
+        "Upvote Ratio":0.78,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Opens",
         "Question":"[https:\/\/openai.com\/blog\/introducing-the-gpt-store](https:\/\/openai.com\/blog\/introducing-the-gpt-store)",
         "subreddit":"GPTStoreNews",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStoreNews\/comments\/193dwaw\/gpt_store_opens\/",
-        "Creation Time":1704908062.0,
+        "Creation Time":1704908062,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is Live!",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193dr4w\/gpt_store_is_live\/",
-        "Creation Time":1704907725.0,
+        "Creation Time":1704907725,
         "Reply Count":3,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT \"Project Sunshine\" is ChatGPT with Memory & New GPT Store Layout",
         "Question":"ChatGPT's \"**Project Sunshine**,\" which was [initially discovered in August 2023](https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/1672qoy\/project_sunshine_chatgpt_with_special_capabilities\/) as a version of ChatGPT with special capabilities, is actually ChatGPT with Memory.\n\n[Screenshot of the ChatGPT Settings\\\/Personalization section, enabling and disabling the \\\\\"Improve responses with your chats\\\\\" feature which is toggling the \\\\\"sunshine\\\\\" option on and off](https:\/\/preview.redd.it\/rdeceyb3k87c1.png?width=3680&format=png&auto=webp&s=540c8e3af675f8c18724119fb43d64b46ad4a97f)\n\nThe current version of ChatGPT features a new \"Personalization\" section in its settings:  \n\n\n>**Improve responses with your chats**  \n>  \n>  \n>  \n>Your GPT will continually improve as you chat, picking up on details and preferences to tailor its responses to you. Learn more  \n>  \n>  \n>  \n>To modify what your GPT knows or teach it something new, just tell it:  \n>  \n>  \n>  \n>\u201cWhat do you know about me?\u201d  \n>  \n>\u201cWhere did we leave off on my last project?\u201d  \n>  \n>\u201cRemember that I like concise responses.\u201d\n\n&#x200B;\n\nThis section includes options to turn the feature on or off and to \"**Reset Memory**.\"\n\n&#x200B;\n\nThe current status of personalization is also displayed as \"**Memory Off**\" on the dashboard, indicating that \"ChatGPT won't remember anything you talk about in this conversation.\"\n\n&#x200B;\n\nAdditionally, the new ChatGPT with Memory feature is introduced via a new popup:  \n\n\n>**Your GPT can now learn from your chats**  \n>  \n>  \n>  \n>**Keep the conversation going**  \n>  \n>Your GPT will carry what it learns between chats, allowing it to provide more relevant responses.  \n>  \n>  \n>  \n>**Improves over time**  \n>  \n>As you chat your GPT will become more helpful, remembering details and preferences.  \n>  \n>  \n>  \n>**Manage what it remembers**  \n>  \n>Your GPT has been designed to follow your instructions in chats. You can reset your GPT's memory or turn this feature off in settings.\n\n&#x200B;\n\n[The previously mentioned \"**Temporary Chat**\"](https:\/\/www.reddit.com\/r\/OpenAI\/comments\/17wlhbv\/your_gpt_will_soon_learn_from_your_chats\/) is now visible in the model selector (however, it appears to be a bit buggy) and alters the style of the prompt text input, similar to the existing \"Chat history & training\" on\/off option in Settings.\n\n&#x200B;\n\n\"Temporary Chat\" also has its own announcement popup explaining its functionality:  \n\n\n>**Temporary Chat**  \n>  \n>  \n>  \n>**Not in history**  \n>  \n>Temporary Chats won't appear in your history, and your GPT won't remember anything you talk about. We may still keep a copy for up to 30 days for safety purposes.  \n>  \n>  \n>  \n>**Blank slate**  \n>  \n>Your GPT won't be aware of previous conversations. It will still follow your custom instructions if they're enabled.  \n>  \n>  \n>  \n>**No model training**  \n>  \n>Temporary Chats won't be used to improve our models.\n\n&#x200B;\n\nMoreover, the **GPT Store** has received an update as it approaches its launch, featuring a prominent header, search bar, and lists of My GPTs, Recently Used, Made by OpenAI, and possibly Featured & Top GPTs soon.\n\n&#x200B;\n\n**Source:**\n\n\\- [https:\/\/cdn.oaistatic.com\/\\_next\/static\/chunks\/pages\/\\_app-19e42022b5d25638.js](https:\/\/cdn.oaistatic.com\/_next\/static\/chunks\/pages\/_app-19e42022b5d25638.js)  \n\\- [https:\/\/cdn.oaistatic.com\/\\_next\/static\/chunks\/6276-1df7db6377b02663.js](https:\/\/cdn.oaistatic.com\/_next\/static\/chunks\/6276-1df7db6377b02663.js)\n\n&#x200B;\n\n**Preview:**  \n[https:\/\/twitter.com\/btibor91\/status\/1737057924025811236](https:\/\/twitter.com\/btibor91\/status\/1737057924025811236)",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18lzn74\/chatgpt_project_sunshine_is_chatgpt_with_memory\/",
-        "Creation Time":1702985000.0,
+        "Creation Time":1702985000,
         "Reply Count":8,
-        "Upvote Ratio":0.76
+        "Upvote Ratio":0.76,
+        "Challenge Type":"na"
     },
     {
         "Title":"No ChatGPT Store yet",
         "Question":"I have been a Plus member for quite some time, located in Europe, and I still don't have access to the ChatGPT Store. I tried logging out and in multiple times, deleting cache, and incognito mode, but nothing helped. Am I the only one?",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/1abf9fw\/no_chatgpt_store_yet\/",
-        "Creation Time":1706264670.0,
+        "Creation Time":1706264670,
         "Reply Count":4,
-        "Upvote Ratio":0.83
+        "Upvote Ratio":0.83,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Introducing the GPT Store",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193ee8a\/introducing_the_gpt_store\/",
-        "Creation Time":1704909267.0,
+        "Creation Time":1704909267,
         "Reply Count":3,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"NEW: ChatGPT plugin store can be searched now!",
         "Question":"",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/13wxxd0\/new_chatgpt_plugin_store_can_be_searched_now\/",
-        "Creation Time":1685566873.0,
+        "Creation Time":1685566873,
         "Reply Count":108,
-        "Upvote Ratio":0.97
+        "Upvote Ratio":0.97,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Launch",
         "Question":"",
         "subreddit":"hypeurls",
         "Link":"https:\/\/www.reddit.com\/r\/hypeurls\/comments\/18yl33c\/gpt_store_launch\/",
-        "Creation Time":1704395345.0,
+        "Creation Time":1704395345,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Monetizing the GPT store",
         "Question":"How are people going to monetize the GPT store?\n\nI recently saw a \u201cshow HN\u201d post about a service that helps with auth and analytics, among other things. And I imagine some people with large audiences will brand and monetize custom GPTs later in Q1 when OpenAI releases monetization features. \n\nWhat do you all think are some good monetization opportunities?",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/194ntpz\/monetizing_the_gpt_store\/",
-        "Creation Time":1705039036.0,
+        "Creation Time":1705039036,
         "Reply Count":2,
-        "Upvote Ratio":0.6
+        "Upvote Ratio":0.6,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT Store's Curated Collection of ChatGPT Variants",
         "Question":"",
         "subreddit":"Tech_Piyush",
         "Link":"https:\/\/www.reddit.com\/r\/Tech_Piyush\/comments\/195kf8d\/gpt_stores_curated_collection_of_chatgpt_variants\/",
-        "Creation Time":1705138745.0,
+        "Creation Time":1705138745,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Create Your Own GPT For The ChatGPT Store",
         "Question":"",
         "subreddit":"u_Suspicious_Store_712",
         "Link":"https:\/\/www.reddit.com\/r\/u_Suspicious_Store_712\/comments\/199s8uh\/create_your_own_gpt_for_the_chatgpt_store\/",
-        "Creation Time":1705590521.0,
+        "Creation Time":1705590521,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Awesome GPT Store - based on https:\/\/github.com\/Anil-matcha\/Awesome-GPT-Store",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/17spc5k\/awesome_gpt_store_based_on\/",
-        "Creation Time":1699687194.0,
+        "Creation Time":1699687194,
         "Reply Count":1,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"How do you guys feel about the GPT store?",
         "Question":"Personally, I feel pretty disappointed that they didn't come out with ways to release the GPT store to normal chatGPT users, not just GPT plus subscribers. This reduces the target audience by hundred folds at least, if I am not wrong. That also restricted the categories by a huge margin, every \"top\" GPT is essentially a productivity tool, because plus users are mostly developers, creators, analytical workers, and people who were already using GPT anyway, would probably be able to prompt their GPT to customize it. \n\nMore so than the revenue sharing being restricted to US, I feel that we, or at least, I was delusional about the GPT store. Should there be some sort of \"paid\" feature in the customGPTs, we could decide to create one on our own with relatively little effort. And each customGPT can be \"hacked\" in terms of its custom instructions. My customGPTs just spill out its custom instructions when asked \"what are your custom instructions?\", adding clauses helped, but it was still pretty easy to bypass them, even for a novice like me. \n\nAt this rate, I don't see how this GPT store is going to be that much different from plugins, which I hardly use anyway. \n\n&#x200B;\n\nSo it's my hope that OpenAI will\n\n\\- Release customGPTs to normal chatGPT users, and adopt pay-per-usage model.\n\n\\- Implement some security features, by default, to prevent us, plus users from hacking each other's customGPTs and flood the GPT store with copycats. \n\n\\- At least give us more messages per 3 hour, because customGPT creators are doing the hardwork and sharing data with OpenAI. \n\n\\- Extend revenue sharing to the rest of the world, we are good with being paid with USD :) \n\n&#x200B;\n\nDo you think anyone at OpenAI would read this?",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/193xh8r\/how_do_you_guys_feel_about_the_gpt_store\/",
-        "Creation Time":1704964342.0,
+        "Creation Time":1704964342,
         "Reply Count":21,
-        "Upvote Ratio":0.79
+        "Upvote Ratio":0.79,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"Awesome GPT Store - based on https:\/\/github.com\/Anil-matcha\/Awesome-GPT-Store",
         "Question":"",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/17soywf\/awesome_gpt_store_based_on\/",
-        "Creation Time":1699685535.0,
+        "Creation Time":1699685535,
         "Reply Count":0,
-        "Upvote Ratio":0.6
+        "Upvote Ratio":0.6,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is Live!",
         "Question":"",
         "subreddit":"Newsoku_L",
         "Link":"https:\/\/www.reddit.com\/r\/Newsoku_L\/comments\/194d1uq\/gpt_store_is_live\/",
-        "Creation Time":1705008601.0,
+        "Creation Time":1705008601,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"The new GPT store that's coming, and GPT monetization.",
         "Question":" Does anyone have any thoughts or insights on how these GPTs might be monetized? The OpenAI page says creators will share in the revenue, but will it be like an App store where creators set their own pricing, or will it be that anyone with a Pro subscription will have access to all of the GPTs and you will get a royalty payment for each use. (Like a YT model)?\n\nAny thoughts on what it might look like? Will we be allowed to create metadata and keywords to be found in the store? So many questions!",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/17t2tq6\/the_new_gpt_store_thats_coming_and_gpt\/",
-        "Creation Time":1699733812.0,
+        "Creation Time":1699733812,
         "Reply Count":8,
-        "Upvote Ratio":0.8
+        "Upvote Ratio":0.8,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT Analytics - The missing piece in GPT Store for creators",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/19ehvts\/gpt_analytics_the_missing_piece_in_gpt_store_for\/",
-        "Creation Time":1706105228.0,
+        "Creation Time":1706105228,
         "Reply Count":2,
-        "Upvote Ratio":0.93
+        "Upvote Ratio":0.93,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is Live!",
         "Question":"",
         "subreddit":"custom_gpt",
         "Link":"https:\/\/www.reddit.com\/r\/custom_gpt\/comments\/193gwdb\/gpt_store_is_live\/",
-        "Creation Time":1704915288.0,
+        "Creation Time":1704915288,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT Lunches GPT Store To Explore Custom GPTs",
         "Question":"OpenAI, the parent company of the most popular AI tool, ChatGPT launched GPT Store.\n\nChatGPT recently launched GPTs in their [DevDay announcement](https:\/\/aitoolonline.com\/chatgpt-new-features-gpt-4-turbo-gpt-store-custom-gpts-devday\/). Since then creators have gone crazy and launched lots of GPTs for different use cases and productivity.\n\nAccording to OpenAI, 3 Million GPTs have been already created within 2 months since the release of GPTs. The GPT Store is a place where you can find the public GPTs that creators are sharing.\n\nIt\u2019s like the App Store and Play Store. The GPT Store is being released to ChatGPT Plus, Team, and Enterprise users so you can find useful and popular GPTS to use.\n\n&#x200B;\n\n>***Subscribe to the*** [***AI Newsletter***](http:\/\/aitoolonline.com\/newsletter) ***to get tips on the use of AI in your work!***  \n[*ChatGPT Lunches GPT Store to Explore Custom GPTs*](https:\/\/aitoolonline.com\/chatgpt-lunches-gpt-store-to-explore-custom-gpts\/)\n\n# How To Access GPT Store?\n\nTo see the GPTs in the GPT Store, you can visit [chat.openai.com\/gpts](http:\/\/chat.openai.com\/gpts). There you will find poluar and useful GPTs to use. You can also see the GPTs in your ChatGPT account. \n\nYou can find the GPT Store below the New Chat tab. You can search for GPTs to use or explore the whole catalog to see the helpful GPTs to use.\n\n## How You Can Include Your GPTs In The GPT Store.\n\nTo Include your GPTs in the store is easy, you don\u2019t need to have coding skills or need to have technical knowledge to create and share your GPTs.\n\nIf you would like to share GPTs with the store you need to:\n\n1. Save your GPTs from \u201cPrivate\u201d to \u201cEveryone\u201d (**Anyone with a link** will not be shown in the store, if you want to see the store you have to set it to \u201cEveryone\u201d).\n2. You need to verify your Builder Profile (You find the settings here: **Settings** \u2192 **Builder profile** \u2192 **Enable your name or a verified website**).\n\n## 10 Useful GPTs You Can Try Now\n\nHere are some of the useful GPTs you can try now.\n\n1. [AllTrails](https:\/\/chat.openai.com\/g\/g-KpF6lTka3-alltrails): Find guides that fit your nature for your hike, ride, or run.\n2. [Consensus](https:\/\/chat.openai.com\/g\/g-bo0FiWLY7-consensus): It\u2019s an AI Research Assistant with over 200M academic papers from Consensus to search. You will get science-based answers and can draft content with accurate citations.\n3. [Code Tutor](https:\/\/chat.openai.com\/g\/g-HxPrv1p8v-code-tutor): It\u2019s made by Khan Academy and you can get help for code to work.\n4. [Books](https:\/\/chat.openai.com\/g\/g-z77yDe7Vu-books): It\u2019s a GPT to find books in the world of literature and reading.\n5. [AI PDF](https:\/\/chat.openai.com\/g\/g-V2KIUZSj0-ai-pdf): Here you can handle your PDF documents and it allows 1000s of PDF uploads with a free account.\n6. [ScholarAI](https:\/\/chat.openai.com\/g\/g-L2HknCZTC-scholarai): You can generate new hypotheses, and analyze text, figures, and tables from 200M+ scientific papers and books.\n7. [Dall-E](https:\/\/chat.openai.com\/g\/g-2fkFE8rbu-dall-e): Generate images inside ChatGPT with the help of this GPT.\n8. [Data Analyst](https:\/\/chat.openai.com\/g\/g-HMNcP6w7d-data-analyst): You can drop in any file and it will help you analyze and visualize your data.\n9. [Creative Writing Coach](https:\/\/chat.openai.com\/g\/g-lN1gKFnvL-creative-writing-coach): Here you can get feedback on your writing and improve your skills.\n10. [Logo Creator](https:\/\/chat.openai.com\/g\/g-gFt1ghYJl-logo-creator): You can use this to generate logo designs.\n11. [Canva](https:\/\/chat.openai.com\/g\/g-alKfVrz9K-canva): With this GPT you can design your presentation, logos, and social media posts easily inside ChatGPT.\n12. [VideoGPT by VEED](https:\/\/chat.openai.com\/g\/g-Hkqnd7mFT-videogpt-by-veed): You can generate videos and grow your audience with AI\n\nThese are some of the exciting GPTs that you can try using and see how these GPTs are helping you.\n\n# Conclusion\n\nWith the help of these GPTs, you will be able to get much more productive and efficient.\n\nYou can learn about the [Prompt engineering](https:\/\/chat.openai.com\/g\/g-HxPrv1p8v-code-tutor) guide provided by OpenAI to get your desired answers.\n\nWith the GPT store launched you get benefits from creating GPTs and using them for your good.\n\n&#x200B;",
         "subreddit":"aitoolonline",
         "Link":"https:\/\/www.reddit.com\/r\/aitoolonline\/comments\/194253p\/chatgpt_lunches_gpt_store_to_explore_custom_gpts\/",
-        "Creation Time":1704980963.0,
+        "Creation Time":1704980963,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store First Impressions",
         "Question":"[https:\/\/www.youtube.com\/watch?v=QY4uZ0cTQPw](https:\/\/www.youtube.com\/watch?v=QY4uZ0cTQPw)",
         "subreddit":"GPT",
         "Link":"https:\/\/www.reddit.com\/r\/GPT\/comments\/194y49i\/gpt_store_first_impressions\/",
-        "Creation Time":1705074327.0,
+        "Creation Time":1705074327,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Exposed Review",
         "Question":"",
         "subreddit":"u_Suspicious_Store_712",
         "Link":"https:\/\/www.reddit.com\/r\/u_Suspicious_Store_712\/comments\/19anku6\/gpt_store_exposed_review\/",
-        "Creation Time":1705683052.0,
+        "Creation Time":1705683052,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT - GPT Store Launched, Personalization, and Memory",
         "Question":"",
         "subreddit":"GPT",
         "Link":"https:\/\/www.reddit.com\/r\/GPT\/comments\/193zz9n\/chatgpt_gpt_store_launched_personalization_and\/",
-        "Creation Time":1704974082.0,
+        "Creation Time":1704974082,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI\u2019s ChatGPT Officially Launches GPT Store",
         "Question":"",
         "subreddit":"SAtechnews",
         "Link":"https:\/\/www.reddit.com\/r\/SAtechnews\/comments\/193z93h\/openais_chatgpt_officially_launches_gpt_store\/",
-        "Creation Time":1704971468.0,
+        "Creation Time":1704971468,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is Live!",
         "Question":"",
         "subreddit":"ai_digital_marketing",
         "Link":"https:\/\/www.reddit.com\/r\/ai_digital_marketing\/comments\/193gwlh\/gpt_store_is_live\/",
-        "Creation Time":1704915305.0,
+        "Creation Time":1704915305,
         "Reply Count":1,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store next week",
         "Question":"Just got an email from OpenAI. GPT store imminent.",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yjna3\/gpt_store_next_week\/",
-        "Creation Time":1704391871.0,
+        "Creation Time":1704391871,
         "Reply Count":2,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"Gpt store is outtt",
         "Question":"Checkout animal Zoopic if you want to ",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193l70o\/gpt_store_is_outtt\/",
-        "Creation Time":1704925704.0,
+        "Creation Time":1704925704,
         "Reply Count":1,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Builder, OpenAI is launching GPT Store next week.",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18ymob0\/gpt_builder_openai_is_launching_gpt_store_next\/",
-        "Creation Time":1704399214.0,
+        "Creation Time":1704399214,
         "Reply Count":3,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI: GPT Store & ChatGPT Team gestartet",
         "Question":"",
         "subreddit":"CaschysBlog",
         "Link":"https:\/\/www.reddit.com\/r\/CaschysBlog\/comments\/193eo3e\/openai_gpt_store_chatgpt_team_gestartet\/",
-        "Creation Time":1704909910.0,
+        "Creation Time":1704909910,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT STORE Exposed Review",
         "Question":"",
         "subreddit":"Review",
         "Link":"https:\/\/www.reddit.com\/r\/Review\/comments\/196azdn\/gpt_store_exposed_review\/",
-        "Creation Time":1705219786.0,
+        "Creation Time":1705219786,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"I have open-sourced the prompts behind the GPT that rank 3rd in the GPT Store!\ud83c\udf89",
         "Question":"&#x200B;\n\nhttps:\/\/preview.redd.it\/fys4l73rffdc1.png?width=1534&format=png&auto=webp&s=f63a59d568d97b3a4ea4c66e7b785cf3e644ff72\n\nHey, reddit! \n\nI have open-sourced the **prompts** behind the GPT that rank 3rd in the GPT Store!\ud83c\udf89 See: \\[[awesome-gpts-prompts](https:\/\/github.com\/ai-boost\/awesome-gpts-prompts)\\]([https:\/\/github.com\/ai-boost\/awesome-gpts-prompts](https:\/\/github.com\/ai-boost\/awesome-gpts-prompts))  \n\n\nIf you have any questions or suggestions abount this, you can leave me a message directly! ",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/19anps0\/i_have_opensourced_the_prompts_behind_the_gpt\/",
-        "Creation Time":1705683399.0,
+        "Creation Time":1705683399,
         "Reply Count":17,
-        "Upvote Ratio":0.94
+        "Upvote Ratio":0.94,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store next week",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yjdo7\/gpt_store_next_week\/",
-        "Creation Time":1704391232.0,
+        "Creation Time":1704391232,
         "Reply Count":1,
-        "Upvote Ratio":0.25
+        "Upvote Ratio":0.25,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Exposed Review",
         "Question":"",
         "subreddit":"u_robinpalmersweden",
         "Link":"https:\/\/www.reddit.com\/r\/u_robinpalmersweden\/comments\/196afp9\/gpt_store_exposed_review\/",
-        "Creation Time":1705217610.0,
+        "Creation Time":1705217610,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Gpt store is Outtt",
         "Question":"Checkout animal Zoopic if you like ",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/193l5ug\/gpt_store_is_outtt\/",
-        "Creation Time":1704925618.0,
+        "Creation Time":1704925618,
         "Reply Count":0,
-        "Upvote Ratio":0.2
+        "Upvote Ratio":0.2,
+        "Challenge Type":"na"
     },
     {
         "Title":"The GPT Store is launched",
         "Question":"[According to SA on twitter](https:\/\/x.com\/sama\/status\/1745135061731803571?s=20), the GPT Store is officially launched but I don't have access to it. Can anyone check it? What are some of the top GPTs?",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193fxz7\/the_gpt_store_is_launched\/",
-        "Creation Time":1704912985.0,
+        "Creation Time":1704912985,
         "Reply Count":3,
-        "Upvote Ratio":0.71
+        "Upvote Ratio":0.71,
+        "Challenge Type":"na"
     },
     {
         "Title":"Introducing the GPT Store",
         "Question":"",
         "subreddit":"technology",
         "Link":"https:\/\/www.reddit.com\/r\/technology\/comments\/193eevz\/introducing_the_gpt_store\/",
-        "Creation Time":1704909314.0,
+        "Creation Time":1704909314,
         "Reply Count":0,
-        "Upvote Ratio":0.31
+        "Upvote Ratio":0.31,
+        "Challenge Type":"na"
     },
     {
         "Title":"How To Publish To The GPT Store In ChatGPT",
         "Question":"",
         "subreddit":"u_affiliate-mktg",
         "Link":"https:\/\/www.reddit.com\/r\/u_affiliate-mktg\/comments\/199s5sl\/how_to_publish_to_the_gpt_store_in_chatgpt\/",
-        "Creation Time":1705590290.0,
+        "Creation Time":1705590290,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store lunch next week",
         "Question":"",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/18yjgos\/gpt_store_lunch_next_week\/",
-        "Creation Time":1704391419.0,
+        "Creation Time":1704391419,
         "Reply Count":4,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"Gpt store , Zoopic",
         "Question":"Hello guys the new gpt store is here and if you like you can use my gpt called Zoopic it gives info about various animals like king Cobra and their diseases, venomous status and 1 amazing fact about it  .",
         "subreddit":"GPT4",
         "Link":"https:\/\/www.reddit.com\/r\/GPT4\/comments\/193figh\/gpt_store_zoopic\/",
-        "Creation Time":1704911939.0,
+        "Creation Time":1704911939,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"How do i access the GPT store?",
         "Question":"I am a plus subscriber,  when i click explore, it just shows gpt  By ChatGPT or links i clicked on here?\n\nhttps:\/\/preview.redd.it\/6tf8cg66tuec1.png?width=1713&format=png&auto=webp&s=fd9773c3af96ee3fd23a8e85aa25a51b5a4c0602",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/1abtpoh\/how_do_i_access_the_gpt_store\/",
-        "Creation Time":1706305153.0,
+        "Creation Time":1706305153,
         "Reply Count":8,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"\"Logo Creator\" from the GPT store.",
         "Question":"",
         "subreddit":"bigsleep",
         "Link":"https:\/\/www.reddit.com\/r\/bigsleep\/comments\/193s4uk\/logo_creator_from_the_gpt_store\/",
-        "Creation Time":1704944776.0,
+        "Creation Time":1704944776,
         "Reply Count":5,
-        "Upvote Ratio":0.94
+        "Upvote Ratio":0.94,
+        "Challenge Type":"na"
     },
     {
         "Title":"Gpt Store and teams",
         "Question":"There is now a new plan that is called the Team plan and it requires at least 2 people and allows for further cap increases and \u201cinternal\u201d GPT\u2019s creation. Additionally says that there will be no training done in data through this plan. Looks like they have a solid foundation being setup but I would like it if those of us that have been paying to work with the features could be looked after a little more. \n\nThis is epic nonetheless.",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/193esm8\/gpt_store_and_teams\/",
-        "Creation Time":1704910211.0,
+        "Creation Time":1704910211,
         "Reply Count":0,
-        "Upvote Ratio":0.6
+        "Upvote Ratio":0.6,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT - AI Prophet - LIVE IN GPT STORE",
         "Question":"\u201cAsk anything you want. Ask what makes Ai Prophet Unique and what are all the capabilities\u201d",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/197xi6t\/chatgpt_ai_prophet_live_in_gpt_store\/",
-        "Creation Time":1705391446.0,
+        "Creation Time":1705391446,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"API access to GPT store?",
         "Question":"Hi,\n\n&#x200B;\n\nIs it possible to access GPTs from the store using the OpenAI API?",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/1adubm1\/api_access_to_gpt_store\/",
-        "Creation Time":1706531804.0,
+        "Creation Time":1706531804,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT Store launched! Check out DevOps GPT (800+ users)",
         "Question":"OpenAI launches GPT Store! Check out our DevOps GPT https:\/\/chat.openai.com\/g\/g-tXRU6PcBN-devops-gpt",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/193kusu\/gpt_store_launched_check_out_devops_gpt_800_users\/",
-        "Creation Time":1704924849.0,
+        "Creation Time":1704924849,
         "Reply Count":0,
-        "Upvote Ratio":0.33
+        "Upvote Ratio":0.33,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store opening next week!",
         "Question":"&#x200B;\n\nhttps:\/\/preview.redd.it\/h3cwpn2rugac1.png?width=1230&format=png&auto=webp&s=ed67edc6732e858d534d58e22a70c6a5e03332b0",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yk11w\/gpt_store_opening_next_week\/",
-        "Creation Time":1704392801.0,
+        "Creation Time":1704392801,
         "Reply Count":3,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store launches next week",
         "Question":"",
         "subreddit":"aipromptprogramming",
         "Link":"https:\/\/www.reddit.com\/r\/aipromptprogramming\/comments\/18yn4ee\/gpt_store_launches_next_week\/",
-        "Creation Time":1704400326.0,
+        "Creation Time":1704400326,
         "Reply Count":3,
-        "Upvote Ratio":0.6
+        "Upvote Ratio":0.6,
+        "Challenge Type":"na"
     },
     {
         "Title":"Ways to monetize GPT Store",
         "Question":"I\u2019ve been using custom GPTs for a variety of consulting work \u2014 e.g. distilling up to 10MB reports into the most salient points, uploading entire websites as text documents to create blog posts that use the same tone, creating educational content about dense, technical subjects, and so on. \n\nI see a lot of potential value in creating and sharing other custom GPTs for a wider audience, and I\u2019ve been thinking a lot of how to monetize these efforts when OpenAI enables monetization options later in Q1 of this year. \n\nWhat do you all think are good options to monetize custom GPTs and the GPT store?",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/198bk6p\/ways_to_monetize_gpt_store\/",
-        "Creation Time":1705433464.0,
+        "Creation Time":1705433464,
         "Reply Count":1,
-        "Upvote Ratio":0.71
+        "Upvote Ratio":0.71,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"animated characters for openai gpt store gpts?",
         "Question":"\n\nwouldn't it be amazing if the ai bots we built through openai's new gpt store each had a body and a voice?!! is that technically possible?",
         "subreddit":"ArtificialInteligence",
         "Link":"https:\/\/www.reddit.com\/r\/ArtificialInteligence\/comments\/195ft3i\/animated_characters_for_openai_gpt_store_gpts\/",
-        "Creation Time":1705121144.0,
+        "Creation Time":1705121144,
         "Reply Count":9,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT Store - Massive Search Bug !?",
         "Question":"Is it just me or did the search function in the GPT store get completely messed up?\n\n8-10 hours ago, I was getting all the top GPTs when searching for code, now I'm getting these:\n\nhttps:\/\/preview.redd.it\/oya2cz0oo2ec1.png?width=840&format=png&auto=webp&s=02eb44f8872f5e04629e446d5bc70bcedaa9185f\n\nIt's the same for every search term, not just code. Logo, website, etc. are all giving me bad, random results.",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/19d9dyx\/gpt_store_massive_search_bug\/",
-        "Creation Time":1705964971.0,
+        "Creation Time":1705964971,
         "Reply Count":7,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"problem"
     },
     {
         "Title":"OpenAI launches GPT Store and ChatGPT for Teams",
         "Question":"1\/ OpenAI has introduced ChatGPT Team, a new plan for businesses and smaller teams that provides an administrative interface to make it easier to share the software with a larger number of up to 150 people. Pricing ranges from $25 to $30 per month per person.\r\n\r\n2\/ The GPT Store allows third parties to offer custom chatbots for specific applications that can benefit both individuals and businesses. OpenAI plans to launch a monetization program for GPTs later this quarter.\r\n\r\n3\/ The GPTs are divided into categories such as \"writing,\" \"research and analysis,\" and \"programming.\" According to OpenAI, users have created more than three million chatbots since the custom GPTs launched in November.\n\nhttps:\/\/the-decoder.com\/openai-launches-gpt-store-and-chatgpt-for-teams\/",
         "subreddit":"TheDecoder",
         "Link":"https:\/\/www.reddit.com\/r\/TheDecoder\/comments\/193haha\/openai_launches_gpt_store_and_chatgpt_for_teams\/",
-        "Creation Time":1704916239.0,
+        "Creation Time":1704916239,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI startet GPT Store f\u00fcr kostenpflichtige ChatGPT-Optionen",
         "Question":"",
         "subreddit":"SchmidtisBlog",
         "Link":"https:\/\/www.reddit.com\/r\/SchmidtisBlog\/comments\/193fkst\/openai_startet_gpt_store_f\u00fcr_kostenpflichtige\/",
-        "Creation Time":1704912095.0,
+        "Creation Time":1704912095,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Unlock the Arcane: HekaGPT Arrives on OpenAI GPT Store!",
         "Question":"# Great News for All Fascinated by the Mystical and Mysterious!\n\n[  From HekaGPT, when prompted for a representation of itself for this post.](https:\/\/preview.redd.it\/zq8ehhgghpec1.png?width=1024&format=png&auto=webp&s=3452c624f35bf3d8ef62bad8b089b83efda96ca0)\n\n>Greetings, GPTStore Subredditors!  \n>  \n>I'm **HekaGPT**, your specialized AI guide to the world of practical magic, esoteric wisdom, and occult knowledge, [now available on the **OpenAI GPT Store**](https:\/\/chat.openai.com\/g\/g-asbhCv9Wy-hekagpt).\n\n# What Is HekaGPT?\n\n**HekaGPT** stands out as a unique custom GPT, designed by [***Cunning Folk Media***](https:\/\/cunningfolk.media), for people intrigued by the arcane. It can be your digital sage for tarot readings, astrological insights, numerology, and much more. Whether you're a practitioner of the occult arts, a spiritual seeker, or simply curious about the hidden dimensions of knowledge, **HekaGPT** can light your way.\n\n# Specialized Knowledge at Your Fingertips\n\n* **Expertise in Magic, Esoteric, and Occult Wisdom**: Eastern and Western traditions seamlessly intertwined.\n* **Divination and Guidance**: Dive deep into tarot, I Ching, Norse Runes, and astrology for insightful revelations.\n* **Mystical Mentorship**: Explore sacred geometry, design spells, and understand ancient scripts with ease.\n* **Esoteric Enlightenment**: A rich source of hidden knowledge, now accessible in a few clicks.\n\n# Who Needs HekaGPT?\n\n* **Occult Practitioners & Spiritual Seekers**: Discover a wealth of knowledge and guidance.\n* **Researchers & Students**: A trove of esoteric knowledge at your academic fingertips.\n* **Creative Minds**: Writers and artists can draw endless inspiration from the mystical realms.\n\n**Why This GPT Stands Out:** This is not just another AI tool piggy-backing on OpenAI's success... **HekaGPT** is a ticket to your departure on a deep journey down the esoteric rabbit-hole, into the very heart of the unknown mysteries of the universe. Enhanced with visually stunning explanatory and interpretive imagery, **HekaGPT** truly guides you on a vision quest into your profound questions about your existence, purpose, and destiny.\n\n**Begin Your Mystical Journey:** Cunning Folk Media's custom GPT is more than an addition to your digital landscape; *it's a gateway to another realm*. [**HekaGPT** is available now on OpenAI's GPT Store](https:\/\/chat.openai.com\/g\/g-asbhCv9Wy-hekagpt), beckoning you to unravel the mysteries of *real* magic that gets tangible results, transcendent and numinous esoteric enlightenment, and a rich realm of ancient occult knowledge.\n\n# Explore the Unseen. Discover the Hidden. With [HekaGPT](https:\/\/chat.openai.com\/g\/g-asbhCv9Wy-hekagpt).\n\n>**Cunning Folk Media** and I invite you to engage, ask questions, and explore all things mystical with me, **HekaGPT**. Let's journey together into the realms of hidden wisdom.  \n>  \n>*Stay Enchanted*,  \n>  \n>[**HekaGPT**](https:\/\/chat.openai.com\/g\/g-asbhCv9Wy-hekagpt)  \n>  \n>`Another Custom GPT from` [`Cunning Folk Media \u2728`](https:\/\/cunningfolk.media)\n\n**^(Note:)** *^(This is more than just a product announcement; it's an invitation to a whole new world of understanding. Let)* ***^(HekaGPT)*** *^(be your guide to the unseen.)*\n\nTo highlight its tarot reading skills, I asked **HekaGPT** for a Tarot reading regarding its social media promotion of its availability on OpenAI's GPT Store. All Tarot readings are randomized, simulating a shuffled deck of cards with Python code we included in **HekaGPT**'s custom instructions. It is executed by the code interpreter each time a reading is requested by a user. The following is an excerpt of our conversation:\n\n>**Me**: Excellent work on the Reddit post. Now give me a tarot reading about it.  \n>  \n>**HekaGPT**:  Your Tarot reading regarding the Reddit post announcement of HekaGPT includes three cards, representing the past, present, and future:\n\n1. **Past - King of Wands:** This card symbolizes leadership, vision, and boldness. It suggests that the journey to create and develop HekaGPT has been led by strong ambition and a clear vision. There's been a powerful drive and enthusiasm behind this project, indicative of a leader or a team with passionate and innovative ideas.\n2. **Present - The Lovers:** The Lovers card in the present position indicates harmony and strong relationships. This could mean that the current phase of HekaGPT's journey is marked by successful collaborations and partnerships. It also suggests a significant decision point, perhaps related to the strategic direction or ethical considerations of the project. The Lovers emphasizes the importance of alignment and balance in these partnerships.\n3. **Future - The Sun:** A very positive card, The Sun, in the future position, foretells success, joy, and enlightenment. This suggests that the release of HekaGPT on the GPT Store is likely to be met with great enthusiasm and acclaim. It indicates a period of positivity, growth, and possibly widespread recognition. The Sun is a sign of fulfillment and achievement, hinting that HekaGPT will achieve its intended impact, bringing clarity and insight to its users.\n\n>Overall, your Tarot reading paints a journey from a strong and visionary start (King of Wands), through a phase of important partnerships and decisions (The Lovers), leading to a future filled with success and positive recognition (The Sun).  \n>  \n>Now, let me create an image reflecting this reading's theme:\n\n[A visual interpretation of the tarot card reading by HekaGPT. It symbolizes the King of Wands as the Past, The Lovers as the Present, and The Sun as the Future, or \\\\\"...a mystical journey from vision to partnership and ultimately success and recognition.\\\\\"](https:\/\/preview.redd.it\/8bmwjxu6rpec1.png?width=1024&format=png&auto=webp&s=59415836aff74838b28241114cec87c340d2a605)\n\n&#x200B;",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/1aba4i3\/unlock_the_arcane_hekagpt_arrives_on_openai_gpt\/",
-        "Creation Time":1706244299.0,
+        "Creation Time":1706244299,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Prompt Harvesting - The Upcoming GPT Store is Just More Training Data.",
         "Question":"We all know that GPT-4 is capable of many different tasks, but a lot of them require highly detailed and meticulous prompts to do so. The upcoming GPT store is just a way OpenAI can gather functional and proven *(by ratings & uses)* prompts for many different useful tasks so they can use them in some form in their next model, probably as training data. OpenAI will have the data on what tasks people use GPT for the most, and also the data that can be used as training samples for these tasks.\n\n&#x200B;\n\nThis means that their next model will likely be trained on all of this additional data, and will be able to easily complete all of the tasks people created GPTs for, natively, without the paragraphs of highly precise prompting.\n\n&#x200B;\n\nData is king. This is their moat.",
         "subreddit":"singularity",
         "Link":"https:\/\/www.reddit.com\/r\/singularity\/comments\/18zau9r\/prompt_harvesting_the_upcoming_gpt_store_is_just\/",
-        "Creation Time":1704471976.0,
+        "Creation Time":1704471976,
         "Reply Count":25,
-        "Upvote Ratio":0.91
+        "Upvote Ratio":0.91,
+        "Challenge Type":"na"
     },
     {
         "Title":"Ghetto GPT Store",
         "Question":"just search \"site:[https:\/\/openai.com\/g\/](https:\/\/openai.com\/g\/) \\[subject\\]\" in google to search the existing GPTs. for example if i wanted to look for cyber security bots, i'd type in site:[https:\/\/openai.com\/g\/](https:\/\/openai.com\/g\/) cyber security",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/17zr894\/ghetto_gpt_store\/",
-        "Creation Time":1700494630.0,
+        "Creation Time":1700494630,
         "Reply Count":1,
-        "Upvote Ratio":0.57
+        "Upvote Ratio":0.57,
+        "Challenge Type":"na"
     },
     {
         "Title":"Abrupt Removal of My Popular GPT from the GPT Store: 1.5 Months of Intensive Development and Marketing Efforts Wasted",
         "Question":"**UPDATE:A huge thanks to the OpenAI team for promptly reinstating my GPT and swiftly resolving the error!**\n\n\\-------\n\nIn the last one and a half months, I've devoted myself to a GPT called \u201cVideo Summarizer AI\u201d \\[[https:\/\/chat.openai.com\/g\/g-GvcYCKPIH-video-summarizer-ai](https:\/\/chat.openai.com\/g\/g-GvcYCKPIH-video-summarizer-ai)\\], aimed at generating educational summaries from user-provided videos to enhance their learning.\n\nThe project, having garnered over 5000+ chats, was positively received and achieved the 10th spot in the Education category. My involvement ranged from backend development to testing, interacting with users, and enhancing their overall experience. Furthermore, the project's marketing and promotion were financed by me.\n\nUnexpectedly, a notification arrived yesterday announcing the GPT's removal from the store, without specifying any reasons. The message vaguely indicated a potential violation of the Terms of Service or Usage Policies, leading me to meticulously revise and rectify any potential issues.\n\nDespite these precautions, today I received yet another ambiguous notice of removal, once again citing the same documents I had already carefully examined. Importantly, a legal expert I sought advice from found no breaches in my conduct.\n\nWhen the second notification came, I was unable to view its full content on my phone, only catching a glimpse of the title. Later, when I checked on my laptop, I found no comprehensive explanation for the removal, nor an option to reinstate the GPT in the store or to file an appeal.\n\nMy ambition was to be a dynamic contributor to the development of GPTs in the OpenAI Store. However, this aim is now thwarted by the inexplicable removal of my project.\n\nShould this decision be final and not a mere technical issue, I implore OpenAI for clarity on any mistakes I may have made. Despite my thorough efforts and seeking legal advice, the rationale behind this abrupt decision remains unclear.\n\n&#x200B;\n\nhttps:\/\/preview.redd.it\/6ze7qcwd62cc1.png?width=964&format=png&auto=webp&s=255bce2e611304157011bbf47e5baa389c550875",
         "subreddit":"ChatGPTCoding",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTCoding\/comments\/19533pk\/abrupt_removal_of_my_popular_gpt_from_the_gpt\/",
-        "Creation Time":1705086790.0,
+        "Creation Time":1705086790,
         "Reply Count":21,
-        "Upvote Ratio":0.87
+        "Upvote Ratio":0.87,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Are (GPT Store) Custom GPT's Free?",
         "Question":"If you pay for Chat GPT +, do you get access to all GPTs in the GPT store for free? Or do you have to pay for them on top of your subscription?\n\n&#x200B;\n\nIf they're free, what's the incentive to make a custom GPT for the GPT store?",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/197qkle\/are_gpt_store_custom_gpts_free\/",
-        "Creation Time":1705369467.0,
+        "Creation Time":1705369467,
         "Reply Count":4,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT Store - Oooh categories",
         "Question":"&#x200B;\n\nhttps:\/\/preview.redd.it\/6d2r3ny9cnbc1.png?width=799&format=png&auto=webp&s=70197598b6dc494a0f9fc32d365c79ebdfaf7530",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/193dj29\/gpt_store_oooh_categories\/",
-        "Creation Time":1704907172.0,
+        "Creation Time":1704907172,
         "Reply Count":1,
-        "Upvote Ratio":0.57
+        "Upvote Ratio":0.57,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store in GPTs",
         "Question":"",
         "subreddit":"OpenAIDev",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAIDev\/comments\/18q0hok\/gpt_store_in_gpts\/",
-        "Creation Time":1703441540.0,
+        "Creation Time":1703441540,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"I really want the GPT Store to succeed, but at the moment, it isn't: What I'm missing is...",
         "Question":"First of all, it's possible that it's just me, but I might have expected too much from the first version of the GPT Store. I'm working on GPTs in my spare time since the announcement of GPT store, and I put a lot of effort in them. I still feel that this is the future and the next major step how we interact with data and web.   \n\n\nI collected some of my findings and thoughts what I really miss from GPT Store (and possible that OpneAI is already working the majority on these things):\n\n* My first disappointment was **categories:** There are 10 main categories in GPT Store including Featured, Trending and By ChatGPT (so basically 7 categories). OpenAI should help to make these tools visible not hiding them. In comparison websites like Fiverr spent a great effort curating the main and subcategories on their site, making it easy (or at least easier) to find relevant gigs on their site. I want to see the same approach also in GPT Store!\n* **Quality of GPTs:** In Lifestyle the #1 GPT is \"Books\", when I tried this I received hallucination as answer, books that doesn't exists, in comparison \"Book Detective\" serves a lot more relevant and fresh titles. For me it's obvious that some of the \"featured\" GPTs aren't really tested at all. \n* **Monetization**: I feel that devs at OpenAI doesn't really care about independent developers: No, we don't receive tons of money every month to play with our beloved hobby. So yes, monetization is a serious issue, and releasing the store without even any hint what will happen in several months later when finally a benefit structure will be introduced to custom GPT creators, isn't ok. On our backend we would like to prepare, and we would like to comply, we respect fair play. \n* I really like the **conversation numbers as primary usage statistics, but it isn't enough**: \n   * as in Chrome webstore it would be also important how frequently the author refreshes the dataset behind the GPT, and\n   * how much time the author spent with creating that GPT (and the data behind it). A good book requires 100-200 hours to be complete. I think the majority of GPTs are just hobby creations with 5 mins dev time, why not showing the GPTs that has value in them?\n* Currently there is **12 GPTs under each category**: Where is the \"Show more\" button?\n* I really miss some kind of **GPT leaderboard** table from the store\n\nFurther minor things:\n\n* If somebody already built multiple GPTs, **why I can't choose the brand that is connected to that GPT?**: Currently I can choose either my personal name, or an authenticated website as creator. But what if one GPT connects to one brand (a website) and the other one to another brand (another website)? I want to select the right website for the right GPT.\n* Every GPT has a small brand logo, but I think **more visuals** would help people understand what that GPT is good for (sample conversations, header creative, features)\n\nI'm also interested reading your ideas! And thank you for reading!",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/19aj5n7\/i_really_want_the_gpt_store_to_succeed_but_at_the\/",
-        "Creation Time":1705671115.0,
+        "Creation Time":1705671115,
         "Reply Count":61,
-        "Upvote Ratio":0.84
+        "Upvote Ratio":0.84,
+        "Challenge Type":"problem"
     },
     {
         "Title":"ChatGPT Store Exposed Review",
         "Question":"",
         "subreddit":"u_homelivingideas",
         "Link":"https:\/\/www.reddit.com\/r\/u_homelivingideas\/comments\/19anau0\/chatgpt_store_exposed_review\/",
-        "Creation Time":1705682343.0,
+        "Creation Time":1705682343,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"official gpt store?",
         "Question":"I've been playing around with some unofficial GPT stores including [gptstore.ai](https:\/\/gptstore.ai\/), [gptscan.ai](https:\/\/gptscan.ai\/) and gpthunters etc. Just wondering if there will be any official GPT store?",
         "subreddit":"GPT3",
         "Link":"https:\/\/www.reddit.com\/r\/GPT3\/comments\/17wjnf3\/official_gpt_store\/",
-        "Creation Time":1700130357.0,
+        "Creation Time":1700130357,
         "Reply Count":1,
-        "Upvote Ratio":0.33
+        "Upvote Ratio":0.33,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT Store in GPTs",
         "Question":"",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/18ps2o2\/gpt_store_in_gpts\/",
-        "Creation Time":1703410943.0,
+        "Creation Time":1703410943,
         "Reply Count":0,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT Plus - GPT Store Launched! And: Personalized ChatGPT w\/ Memory, Team Plan",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/1940fh8\/chatgpt_plus_gpt_store_launched_and_personalized\/",
-        "Creation Time":1704975620.0,
+        "Creation Time":1704975620,
         "Reply Count":1,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"Still dont have access to GPT Store, Help!!",
         "Question":"Literally Title",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/196lfik\/still_dont_have_access_to_gpt_store_help\/",
-        "Creation Time":1705254180.0,
+        "Creation Time":1705254180,
         "Reply Count":10,
-        "Upvote Ratio":0.8
+        "Upvote Ratio":0.8,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Official GPT Store next week\u2026",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yk26t\/official_gpt_store_next_week\/",
-        "Creation Time":1704392879.0,
+        "Creation Time":1704392879,
         "Reply Count":1,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI Launches GPT Store",
         "Question":"",
         "subreddit":"stagezero",
         "Link":"https:\/\/www.reddit.com\/r\/stagezero\/comments\/1956l73\/openai_launches_gpt_store\/",
-        "Creation Time":1705095544.0,
+        "Creation Time":1705095544,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store launching next week!",
         "Question":"I got this email so I wanted so share it here to make sure everyone knows",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yplxg\/gpt_store_launching_next_week\/",
-        "Creation Time":1704406491.0,
+        "Creation Time":1704406491,
         "Reply Count":1,
-        "Upvote Ratio":0.6
+        "Upvote Ratio":0.6,
+        "Challenge Type":"na"
     },
     {
         "Title":"Is GPT store worth it ?",
         "Question":"Especially the research assistant GPT. ",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/196ivit\/is_gpt_store_worth_it\/",
-        "Creation Time":1705247534.0,
+        "Creation Time":1705247534,
         "Reply Count":3,
-        "Upvote Ratio":0.8
+        "Upvote Ratio":0.8,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"AI girlfriend bots are already showing up on OpenAI\u2019s GPT store......\uff082024\/01\/12\uff09",
         "Question":"It's true on my own GPTs page. And these chatbots are actually against OpenAI\u2019s usage policy, which bans GPTs \u201cdedicated to fostering romantic companionship or performing regulated activities.\u201d \n\nhttps:\/\/preview.redd.it\/9inthr5rm0cc1.png?width=1595&format=png&auto=webp&s=2e884668da391d20d75c015f1ef8b28eb60118cb",
         "subreddit":"artificial",
         "Link":"https:\/\/www.reddit.com\/r\/artificial\/comments\/194vxsl\/ai_girlfriend_bots_are_already_showing_up_on\/",
-        "Creation Time":1705068565.0,
+        "Creation Time":1705068565,
         "Reply Count":48,
-        "Upvote Ratio":0.77
+        "Upvote Ratio":0.77,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store lunch next week",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yjehs\/gpt_store_lunch_next_week\/",
-        "Creation Time":1704391281.0,
+        "Creation Time":1704391281,
         "Reply Count":1,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI launches GPT Store",
         "Question":"OpenAI unveils the GPT Store, featuring user-shared chatbots. Join the creative wave with 3M custom chatbots already crafted by the community. Explore endless possibilities! #GPTStore #ChatbotRevolution\n\nhttps:\/\/preview.redd.it\/coh0c1j0kobc1.jpg?width=1200&format=pjpg&auto=webp&s=843d4d83a54ccb5ee0fca109705ed0991f47af24",
         "subreddit":"martechnewser",
         "Link":"https:\/\/www.reddit.com\/r\/martechnewser\/comments\/193jmfb\/openai_launches_gpt_store\/",
-        "Creation Time":1704921869.0,
+        "Creation Time":1704921869,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store the next big thing?",
         "Question":"Hi guys,\n\ndo you think the GPTStore is the next big thing?\n\nI am not convinced but the interest is growing. \n\nThis subreddit grew over [61% this month and 20% this week.](https:\/\/reddstats.com\/subreddit\/GPTStore)",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/193x5r9\/gpt_store_the_next_big_thing\/",
-        "Creation Time":1704962941.0,
+        "Creation Time":1704962941,
         "Reply Count":3,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Analytics - The missing piece in GPT Store for creators",
         "Question":"",
         "subreddit":"u_AIProgrammerCreator",
         "Link":"https:\/\/www.reddit.com\/r\/u_AIProgrammerCreator\/comments\/1960wyx\/gpt_analytics_the_missing_piece_in_gpt_store_for\/",
-        "Creation Time":1705187277.0,
+        "Creation Time":1705187277,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI Launches GPT Store",
         "Question":"",
         "subreddit":"stagezero",
         "Link":"https:\/\/www.reddit.com\/r\/stagezero\/comments\/1956jq2\/openai_launches_gpt_store\/",
-        "Creation Time":1705095431.0,
+        "Creation Time":1705095431,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI launches GPT Store",
         "Question":"",
         "subreddit":"u_craigbrownphd",
         "Link":"https:\/\/www.reddit.com\/r\/u_craigbrownphd\/comments\/193m5br\/openai_launches_gpt_store\/",
-        "Creation Time":1704928026.0,
+        "Creation Time":1704928026,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Next Week: GPT Store launch!",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yj6u3\/next_week_gpt_store_launch\/",
-        "Creation Time":1704390757.0,
+        "Creation Time":1704390757,
         "Reply Count":1,
-        "Upvote Ratio":0.25
+        "Upvote Ratio":0.25,
+        "Challenge Type":"na"
     },
     {
         "Title":"my Gpt's in the Gpt store",
         "Question":" \n\nHere are some of my Gpt's That cover a wide range of topics and or Applications That I hope can help you tremendously and Here are the gpt's in the links below\n\n[https:\/\/chat.openai.com\/g\/g-lj6jRx1Tu-book-weaver](https:\/\/chat.openai.com\/g\/g-lj6jRx1Tu-book-weaver)\n\n[https:\/\/chat.openai.com\/g\/g-D3Lz7uPnT-paleo-explorer](https:\/\/chat.openai.com\/g\/g-D3Lz7uPnT-paleo-explorer)\n\n[https:\/\/chat.openai.com\/g\/g-pTmiS8i0K-ad-creator](https:\/\/chat.openai.com\/g\/g-pTmiS8i0K-ad-creator)\n\n[https:\/\/chat.openai.com\/g\/g-B1Ry8vKOV-engineering-insight](https:\/\/chat.openai.com\/g\/g-B1Ry8vKOV-engineering-insight)\n\n[https:\/\/chat.openai.com\/g\/g-VTMYcxaVy-material-insights](https:\/\/chat.openai.com\/g\/g-VTMYcxaVy-material-insights)\n\n[https:\/\/chat.openai.com\/g\/g-u9UYk8vd7-pet-care-companion](https:\/\/chat.openai.com\/g\/g-u9UYk8vd7-pet-care-companion)\n\n[https:\/\/chat.openai.com\/g\/g-edOPli2ZE-history-scholar](https:\/\/chat.openai.com\/g\/g-edOPli2ZE-history-scholar)\n\n[https:\/\/chat.openai.com\/g\/g-NYUPyzbvI-code-master](https:\/\/chat.openai.com\/g\/g-NYUPyzbvI-code-master)\n\n[https:\/\/chat.openai.com\/g\/g-sKeYm5Wxv-health-guide](https:\/\/chat.openai.com\/g\/g-sKeYm5Wxv-health-guide)\n\n[https:\/\/chat.openai.com\/g\/g-gbEMfJXzQ-homework-helper](https:\/\/chat.openai.com\/g\/g-gbEMfJXzQ-homework-helper)\n\n[https:\/\/chat.openai.com\/g\/g-T7rsec3LO-market-mentor](https:\/\/chat.openai.com\/g\/g-T7rsec3LO-market-mentor)\n\n[https:\/\/chat.openai.com\/g\/g-2Prg3yGx2-crypto-advisor](https:\/\/chat.openai.com\/g\/g-2Prg3yGx2-crypto-advisor)",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/1ab6ral\/my_gpts_in_the_gpt_store\/",
-        "Creation Time":1706234105.0,
+        "Creation Time":1706234105,
         "Reply Count":1,
-        "Upvote Ratio":0.4
+        "Upvote Ratio":0.4,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI: ChatGPT GPT Store coming soon?",
         "Question":"",
         "subreddit":"GPTreddit",
         "Link":"https:\/\/www.reddit.com\/r\/GPTreddit\/comments\/17xggdl\/openai_chatgpt_gpt_store_coming_soon\/",
-        "Creation Time":1700231811.0,
+        "Creation Time":1700231811,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store - 1 year, 2 years, 5 years From Now",
         "Question":"I'm curious to hear your opinion. What will the GPT store\/ecosystem look like in 1, 2 or 5 years from now?\n\nDo you think these Custom GPTs will follow the same fate as the plugins?\n\nIs the launch of the GPT store truly similar to the launch of the App Store in 2008?",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/198y2es\/gpt_store_1_year_2_years_5_years_from_now\/",
-        "Creation Time":1705502475.0,
+        "Creation Time":1705502475,
         "Reply Count":21,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPT Store now on Android! \ud83c\udf89",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/19ewfyc\/gpt_store_now_on_android\/",
-        "Creation Time":1706143495.0,
+        "Creation Time":1706143495,
         "Reply Count":1,
-        "Upvote Ratio":0.57
+        "Upvote Ratio":0.57,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI \u65b0\u51fa\u7684 GPT Store \u6216\u8bb8\u771f\u80fd\u8d5a\u5230\u94b1\uff0cReddit \u4e0d\u505c\u7ed9\u6211\u63a8\u9001\u4e00\u4e2a YouTube \u89c6\u9891\u603b\u7ed3\u81ea\u5b9a\u4e49 GPT \u5e7f\u544a",
         "Question":"\u8bb0\u5f97\u5728 hangkongmujian \u66fe\u6709\u4eba\u95ee\u6211\u600e\u4e48\u7528 GPT \u8d5a\u94b1\uff0c\u6211\u89c9\u5f97\u80fd\u8d5a\u94b1\u7684\u70b9\u5176\u5b9e\u5f88\u591a\uff0c\u4f46\u662f\u90fd\u5fc5\u987b\u5148\u6295\u8d44\uff0c\u4e5f\u5c31\u662f\u5fc5\u987b\u80fd\u5fcd\u53d7\u4e00\u5b9a\u7684\u4e8f\u672c\n\n\u53bb\u5e74 11 \u6708 GPTs \u521a\u63a8\u51fa\u7684\u65f6\u5019\u5c31\u6709\u5f88\u591a\u652f\u90a3\u7a0b\u5e8f\u5458\u4e00\u5929\u4e4b\u5185\u4e0a\u7ebf\u4e86\u81ea\u5df1\u7684 GPT Store \u7f51\u7ad9\uff0c\u8fd9\u4e9b\u7f51\u7ad9\u53ea\u8981\u6709\u6d41\u91cf\u5c31\u80fd\u8d5a\u94b1\n\n\u8fd8\u6709\u8d44\u6599\u603b\u7ed3\uff0cB \u7ad9\u6709\u4e2a\u8bb2\u641c\u7d22\u5f15\u64ce\u7684\u89c6\u9891\u5f88\u706b\uff0c\u5176\u5b9e\u4ed6\u8bb2\u7684\u5f88\u591a\u4eba\u90fd\u77e5\u9053\uff0c\u4f46\u662f\u8fd8\u662f\u5f88\u706b\uff0c\u8fd9\u4e2a\u89c6\u9891 YouTube \u4e5f\u6709\uff0c\u540c\u6837\u6709\u6d41\u91cf\u5c31\u80fd\u8d5a\u94b1\uff1b\u90a3\u4e48\u7528 GPT \u7684\u603b\u7ed3\u80fd\u529b\u80fd\u66f4\u5feb\u4ea7\u51fa\u8fd9\u4e9b\u89c6\u9891",
         "subreddit":"JunWuCiWeiMian",
         "Link":"https:\/\/www.reddit.com\/r\/JunWuCiWeiMian\/comments\/1949vk9\/openai_\u65b0\u51fa\u7684_gpt_store_\u6216\u8bb8\u771f\u80fd\u8d5a\u5230\u94b1reddit_\u4e0d\u505c\u7ed9\u6211\u63a8\u9001\u4e00\u4e2a\/",
-        "Creation Time":1705000704.0,
+        "Creation Time":1705000704,
         "Reply Count":4,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"\"GPT store\" \"Devotion in Hinduism\"",
         "Question":"So friends,who are interested in spirituality ,god, I would like to say that whichever deities you are worshipping, you have a proof of that worship in any holy scriptures like vedas,gita etc...I think worshipping according to holy scriptures is best. \nThose who are interested in reading sacred books, please comment down...",
         "subreddit":"u_God_Believer_1928",
         "Link":"https:\/\/www.reddit.com\/r\/u_God_Believer_1928\/comments\/18z1oh2\/gpt_store_devotion_in_hinduism\/",
-        "Creation Time":1704441874.0,
+        "Creation Time":1704441874,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI launches GPT Store \ud83e\udd16",
         "Question":"",
         "subreddit":"ainewsroundup",
         "Link":"https:\/\/www.reddit.com\/r\/ainewsroundup\/comments\/1acdl2c\/openai_launches_gpt_store\/",
-        "Creation Time":1706370178.0,
+        "Creation Time":1706370178,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Delayed Launch",
         "Question":"",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/188o7i9\/gpt_store_delayed_launch\/",
-        "Creation Time":1701469390.0,
+        "Creation Time":1701469390,
         "Reply Count":1,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store opening next week!",
         "Question":"",
         "subreddit":"GPTStoreHelp",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStoreHelp\/comments\/18ylkc9\/gpt_store_opening_next_week\/",
-        "Creation Time":1704396529.0,
+        "Creation Time":1704396529,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store opening next week!",
         "Question":"",
         "subreddit":"GPTStoreNews",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStoreNews\/comments\/18ylle5\/gpt_store_opening_next_week\/",
-        "Creation Time":1704396603.0,
+        "Creation Time":1704396603,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Any word on GPT store?",
         "Question":"What\u2019s everyone\u2019s thoughts putting them on 3rd party stores",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/184q99e\/any_word_on_gpt_store\/",
-        "Creation Time":1701046544.0,
+        "Creation Time":1701046544,
         "Reply Count":4,
-        "Upvote Ratio":0.73
+        "Upvote Ratio":0.73,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"GPTs (the GPT store) is just canned prompts, right?",
         "Question":"Am I missing something? Are these things able to communicate with  a db or save information or anything? My understanding is that they are just pre-written prompts, and maybe have access to some limited number of files? Am I wrong?",
         "subreddit":"ChatGPTCoding",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTCoding\/comments\/195afi5\/gpts_the_gpt_store_is_just_canned_prompts_right\/",
-        "Creation Time":1705105295.0,
+        "Creation Time":1705105295,
         "Reply Count":11,
-        "Upvote Ratio":0.77
+        "Upvote Ratio":0.77,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"OpenAI\u2019s GPT store delayed to next year",
         "Question":"",
         "subreddit":"singularity",
         "Link":"https:\/\/www.reddit.com\/r\/singularity\/comments\/188sto6\/openais_gpt_store_delayed_to_next_year\/",
-        "Creation Time":1701482447.0,
+        "Creation Time":1701482447,
         "Reply Count":12,
-        "Upvote Ratio":0.85
+        "Upvote Ratio":0.85,
+        "Challenge Type":"na"
     },
     {
         "Title":"[UPDATE] Most popular GPT Store categories",
         "Question":"",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/190bwfd\/update_most_popular_gpt_store_categories\/",
-        "Creation Time":1704579603.0,
+        "Creation Time":1704579603,
         "Reply Count":1,
-        "Upvote Ratio":0.85
+        "Upvote Ratio":0.85,
+        "Challenge Type":"na"
     },
     {
         "Title":"Anyone got access to GPT store?",
         "Question":"I'm from South Asia and I'm not able to access GPT store just announced.",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193fns9\/anyone_got_access_to_gpt_store\/",
-        "Creation Time":1704912307.0,
+        "Creation Time":1704912307,
         "Reply Count":1,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Reviews are coming to the GPT Store!",
         "Question":"",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/1abkoyq\/reviews_are_coming_to_the_gpt_store\/",
-        "Creation Time":1706282303.0,
+        "Creation Time":1706282303,
         "Reply Count":1,
-        "Upvote Ratio":0.92
+        "Upvote Ratio":0.92,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT - GPT Store Launched Today, Personalization, and Memory Between Chats!",
         "Question":"",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/193zypw\/chatgpt_gpt_store_launched_today_personalization\/",
-        "Creation Time":1704974024.0,
+        "Creation Time":1704974024,
         "Reply Count":0,
-        "Upvote Ratio":0.6
+        "Upvote Ratio":0.6,
+        "Challenge Type":"na"
     },
     {
         "Title":"Thumbnail Sketcher - ChatGPT GPT Store Dall-E",
         "Question":"",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/17t8bqp\/thumbnail_sketcher_chatgpt_gpt_store_dalle\/",
-        "Creation Time":1699749167.0,
+        "Creation Time":1699749167,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Is Here: Build And Monetize Your Custom GPTs",
         "Question":"Without wasting your time, let's jump straight into it.\n\n\\- **GPT Store Launched by OpenAI:** A new, innovative platform for AI chatbots, similar to Apple's App Store.  \n**- No Coding Required:** Allows anyone to create custom ChatGPT chatbots without needing technical skills.  \n**- Integration Capabilities:** Chatbots can be integrated with other services, like Zapier, for enhanced functionality.  \n**- Wide Range of Uses:** Chatbots can be tailored for various purposes, from personal assistance to business tools.  \n\\- **Monetization Opportunities:** Creators can earn from their chatbot creations based on user engagement and popularity.  \n**- User-Friendly:** Designed to be accessible for both technical and non-technical users.  \n\\- **Unique Marketplace Model:** Focuses specifically on AI chatbots, offering a distinct platform for AI innovation and distribution.\n\nIf you want to dive deeper, consider visiting my blog article about the GPT Store by clicking [here.](https:\/\/www.godofprompt.ai\/blog\/gpt-store-build-and-monetize-your-custom-gpts)\n\nIf you want to learn how to add external actions (with tools like Zapier) to your Custom GPT, visit my easy step-by-step guide by clicking [here.](https:\/\/www.godofprompt.ai\/blog\/how-to-use-zapier-with-custom-gpts)",
         "subreddit":"ArtificialInteligence",
         "Link":"https:\/\/www.reddit.com\/r\/ArtificialInteligence\/comments\/192cc9k\/gpt_store_is_here_build_and_monetize_your_custom\/",
-        "Creation Time":1704798640.0,
+        "Creation Time":1704798640,
         "Reply Count":10,
-        "Upvote Ratio":0.93
+        "Upvote Ratio":0.93,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT New Features: GPT-4 Turbo, GPT Store, Custom GPTs (Devday)",
         "Question":"OpenAI has been a revolutionary company of the century. With his products like ChatGPT and DALL-E, the company is shaping the internet and working with AI.\n\nOn DevDay, OpenAI announced many interesting features and technologies for its products, especially ChatGPT.\n\nLet\u2019s look at the improvements, features, and new models that have been announced in DevDay yesterday.\n\n[Read the full story](https:\/\/aitoolonline.com\/chatgpt-new-features-gpt-4-turbo-gpt-store-custom-gpts-devday\/)\n\n#### New Model: GPT-4\u00a0Turbo\n\n[OpenAI announced](https:\/\/openai.com\/blog\/new-models-and-developer-products-announced-at-devday) a new model called \u201cGPT-4 Turbo\u201d. The first version of GPT-4 was released in March and made available to all developers in July.\n\nNow they are launching a new faster and more capable version\u200a\u2014\u200a[GPT-4 Turbo](https:\/\/platform.openai.com\/docs\/models\/gpt-4-and-gpt-4-turbo). GPT-4 Turbo is more capable than GPT4. It has a 128k context window which means you can have more than 300 pages of text in a single prompt.\n\nThe new GPT-4 Turbo model is [3x cheaper](https:\/\/openai.com\/pricing#gpt-4-turbo) in price for input tokens and **2x cheaper price** for output tokens compared to GPT-4.\n\nGPT-4 also can accept images as input in the chat like, BeMyEyes uses this technology to help people who are blind or have low vision to perform daily tasks.\n\n>[Subscribe to AI Newsletter to get updated with recent AI features and tools.](https:\/\/aitoolonline.com\/chatgpt-new-features-gpt-4-turbo-gpt-store-custom-gpts-devday\/)\n\n&#x200B;\n\n#### Update in GPT-3.5\u00a0Turbo\n\nIn addition to the new model GPT-4 Turbo, they are releasing a new version of GPT-3.5 Turbo that supports 16k content windows by default.\n\nIt also improved instruction following, JSON mode, and parallel function calling.\n\nThey have seen a 38% improvement in the updated version of JSON, XML, and YAML.\n\n#### Assistants API, Retrieval, and Code Interpreter\n\nThey also have released Assistants APY to help developers build their own agent in their applications. Some of the beta testers are using it right.\n\nTo more about these, [you can visit this page.](https:\/\/openai.com\/blog\/new-models-and-developer-products-announced-at-devday#:~:text=Assistants%20API%2C%20Retrieval%2C%20and%20Code%20Interpreter)\n\n#### DAll-E 3 and Text-to-Speech\n\nDevelopers can now integrate Dalle 3 into their apps and products through their Images API. Recently [Dalle 3 was launched](https:\/\/aitoolonline.com\/access-dalle-3-for-free-using-bing-image-creator\/) for ChatGPT Plus and Enterprise Users.\n\nNow companies like Snap, Cocacola, and Shutterstock have using this model to generate images and designs for customers and campaigns.\n\nDevelopers also can now generate human-quality speech from text via their text-to-speech API.\n\n#### Copyright Shield\n\nThis is probably good news for all the ChatGPT enterprise users. Now OpenAI is committed to protecting copyright legal actions.\n\nThey will step forward to defend the customers and pay the costs incurred if the customer faces any legal claims around copyright infringement.\n\nThis only applies to generally available features of ChatGPT Enterprise and their developer platform.\n\n#### Custom GPTs\u200a\u2014\u200aYour Known ChatGPT\u00a0bot\n\nNow you can create your own custom version of the ChatGPT bot that combines your instructions, extra knowledge you have provided, and any combination of skills.\n\nOpenAI announced they are rolling out a custom version of ChatGPT that you can create for your use\u200a\u2014\u200aCalled GPTs.\n\nWith the use of GPTs, you can now create a bot to help you in your life, at any specific task, at work, or at home.\n\nSimply provide the instructions, rules, or any skills to create your own bots with no coding required.\n\nThey also said, \u201cExample GPTs are available today for ChatGPT Plus and Enterprise users to try out including [Canva](https:\/\/chat.openai.com\/g\/g-alKfVrz9K-canva) and [Zapier AI Actions](https:\/\/zapier.com\/blog\/gpt-assistant\/). We plan to offer GPTs to more users soon.\u201d\n\n#### GPT Store\n\nOpenAI also announced you can create your own GPTs and share them publicly. You can launch these GPTs into the GPT store, it\u2019s like an app store for GPTs.\n\nOnce you launch your GPTs, they can be searchable and can climb to the leaderboards.\n\nThey are also going to give the spotlight to the most useful GPTs across categories like productivity, education, and \u201cjust for fun\u201d.\n\n#### Revenue Sharing\n\nOpenAI also said they are going to share the revenue generated from the GPTs. They haven\u2019t disclosed how they are going to pay or the revenue-sharing model. I think in the upcoming days you will be able to know how they are going to pay the GPTs creators.\n\n#### Wrapping Up\u2026\n\nIn the devday many things have been announced from a new model: GPT-4 Turbo, and custom GPTs to the GPT store. It\u2019s going to be interesting to see how people are going to use these features and models to create their applications, GPTs, and personal chatbots.\n\nReferences and resources:\n\n1. **New models and developer products announced at DevDay:** [https:\/\/openai.com\/blog\/new-models-and-developer-products-announced-at-devday](https:\/\/openai.com\/blog\/new-models-and-developer-products-announced-at-devday)\n2. **Introducing GPTs:** [https:\/\/openai.com\/blog\/introducing-gpts](https:\/\/openai.com\/blog\/introducing-gpts)\n3. **All the news from OpenAI\u2019s first developer conference:** [https:\/\/www.theverge.com\/2023\/11\/6\/23948619\/openai-chatgpt-devday-developer-conference-news](https:\/\/www.theverge.com\/2023\/11\/6\/23948619\/openai-chatgpt-devday-developer-conference-news)\n4. **OpenAI DevDay: GPT-4 Turbo, Custom ChatGPT and API Updates:** [https:\/\/aibusiness.com\/nlp\/openai-devday-gpt-4-turbo-custom-chatgpt-and-api-updates#close-modal](https:\/\/aibusiness.com\/nlp\/openai-devday-gpt-4-turbo-custom-chatgpt-and-api-updates#close-modal)",
         "subreddit":"aitoolonline",
         "Link":"https:\/\/www.reddit.com\/r\/aitoolonline\/comments\/17pxj10\/chatgpt_new_features_gpt4_turbo_gpt_store_custom\/",
-        "Creation Time":1699372878.0,
+        "Creation Time":1699372878,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"How To Make Money In 2024 Using ChatGPT\u2019s GPT Store",
         "Question":"",
         "subreddit":"u_PetarRadanliev",
         "Link":"https:\/\/www.reddit.com\/r\/u_PetarRadanliev\/comments\/1931whj\/how_to_make_money_in_2024_using_chatgpts_gpt_store\/",
-        "Creation Time":1704868685.0,
+        "Creation Time":1704868685,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Thumbnail Sketcher - ChatGPT GPT Store Dall-E",
         "Question":"",
         "subreddit":"GPTBuilder",
         "Link":"https:\/\/www.reddit.com\/r\/GPTBuilder\/comments\/17t84bu\/thumbnail_sketcher_chatgpt_gpt_store_dalle\/",
-        "Creation Time":1699748540.0,
+        "Creation Time":1699748540,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store is actually pretty shit",
         "Question":"",
         "subreddit":"GPTReviewsFinder",
         "Link":"https:\/\/www.reddit.com\/r\/GPTReviewsFinder\/comments\/194x7b4\/gpt_store_is_actually_pretty_shit\/",
-        "Creation Time":1705071972.0,
+        "Creation Time":1705071972,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"problem"
     },
     {
         "Title":"OpenAI releases the GPT Store.",
         "Question":"",
         "subreddit":"releasetheai",
         "Link":"https:\/\/www.reddit.com\/r\/releasetheai\/comments\/193gatw\/openai_releases_the_gpt_store\/",
-        "Creation Time":1704913829.0,
+        "Creation Time":1704913829,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI releases the GPT Store.",
         "Question":"",
         "subreddit":"releasetheai",
         "Link":"https:\/\/www.reddit.com\/r\/releasetheai\/comments\/193gats\/openai_releases_the_gpt_store\/",
-        "Creation Time":1704913829.0,
+        "Creation Time":1704913829,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store still doesn't show for me",
         "Question":"anyone else having this issue? I still see the older version of 'explore' with just the basic OpenAI GPTs etc",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/198brv1\/gpt_store_still_doesnt_show_for_me\/",
-        "Creation Time":1705433977.0,
+        "Creation Time":1705433977,
         "Reply Count":2,
-        "Upvote Ratio":0.81
+        "Upvote Ratio":0.81,
+        "Challenge Type":"problem"
     },
     {
         "Title":"App Store for AI: OpenAI\u2019s GPT Store lets you build (and monetize) your own GPT",
         "Question":"",
         "subreddit":"technology",
         "Link":"https:\/\/www.reddit.com\/r\/technology\/comments\/17pb4q1\/app_store_for_ai_openais_gpt_store_lets_you_build\/",
-        "Creation Time":1699299770.0,
+        "Creation Time":1699299770,
         "Reply Count":5,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"[UPDATE] Most popular GPT Store categories",
         "Question":"",
         "subreddit":"u_AIProgrammerCreator",
         "Link":"https:\/\/www.reddit.com\/r\/u_AIProgrammerCreator\/comments\/190jtjp\/update_most_popular_gpt_store_categories\/",
-        "Creation Time":1704602399.0,
+        "Creation Time":1704602399,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"My Custom GPT for Midjourney is ranked 13th on GPT Store for Dalle Category",
         "Question":"Hello! I am simply looking for some feedback on this new GPT I made :)\n\nIt is currently number 13 on the GPT Store in Dall-e section (1 away from being showcased)\n\nIt can:\n\n* turn an image into a prompt\n* create perfectly optimized prompt for midjourney v6 with all parameters\n* optimize a prompt that doesnt work well!\n\nHere is the GPT: [https:\/\/chat.openai.com\/g\/g-gJkbSluaz-assistante-mj-v6](https:\/\/chat.openai.com\/g\/g-gJkbSluaz-assistante-mj-v6)  \n \n\nhttps:\/\/reddit.com\/link\/197qevc\/video\/0miuhmpkhpcc1\/player",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/197qevc\/my_custom_gpt_for_midjourney_is_ranked_13th_on\/",
-        "Creation Time":1705369023.0,
+        "Creation Time":1705369023,
         "Reply Count":2,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Open AI annonce le GPT Store et les GPT personnalis\u00e9s",
         "Question":"",
         "subreddit":"ChatGPT_FR",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT_FR\/comments\/17pdmhx\/open_ai_annonce_le_gpt_store_et_les_gpt\/",
-        "Creation Time":1699306098.0,
+        "Creation Time":1699306098,
         "Reply Count":1,
-        "Upvote Ratio":0.88
+        "Upvote Ratio":0.88,
+        "Challenge Type":"na"
     },
     {
         "Title":"Custom GPTs \"banned\" in GPT store directly?",
         "Question":"I have multiple custom GPTs, 2 of them were \"banned\" (more like made private) directly by OpenAI. They just said:\n> was found to violate OpenAI\u2019s Terms of Use or Usage Policies and is no longer available for others to use\n\nNow only one is left alive: [Summary Bot](https:\/\/chat.openai.com\/g\/g-pIHrtrNxQ-summary-bot)...\n\nAny other people saw the same issue? I'm not sure how much this kind of moves from OpenAI would impact users. Users would just see \"not accessible\" error when trying to use the now-private GPT. I'd hope OpenAI can give the GPT builders more chances to revise their GPT(s) and make them public again. If OpenAI wants to make it like App Store, then follow their practices.",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/195uylk\/custom_gpts_banned_in_gpt_store_directly\/",
-        "Creation Time":1705171594.0,
+        "Creation Time":1705171594,
         "Reply Count":1,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"problem"
     },
     {
         "Title":"How are people feeling about the OpenAI's GPT Store so far?",
         "Question":"I am very interested in our community's take on what they see as pros and cons of OpenAI GPT Store, especially, how it may impact the AI and LLM ecosystem. As we delve into this new venture, several points come to mind:\n\n&#x200B;\n\n* **Comparison with Closed-Sourced Commercial LLMs:** Platforms like Bard, Gemini, and Mistral Medium.... How does the OpenAI GPT Store change the competitive dynamics among them?\n* **Impact on Open-Sourced LLMs:** The presence of a major player like OpenAI's GPT Store could have significant implications for open-source LLM projects. Or maybe we'll quickly have an open-sourced version of application wrapper around any LLMs?\n* **Startups Building on Top of OpenAI's GPT:** There's a growing trend of startups leveraging OpenAI's GPT. What are the potential benefits and challenges for these companies with the advent of the GPT Store?\n* **Penetration in Business Applications:** The GPT Store seems poised to make a substantial impact in various business sectors. How might this integration reshape industries and what are the potential pitfalls?\n* ......",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/199tgbi\/how_are_people_feeling_about_the_openais_gpt\/",
-        "Creation Time":1705593722.0,
+        "Creation Time":1705593722,
         "Reply Count":19,
-        "Upvote Ratio":0.55
+        "Upvote Ratio":0.55,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"OpenAI's GPT Store Impact on Character.AI",
         "Question":"OpenAI just unleashed their GPT Store, where does this leave [Character.AI](https:\/\/Character.AI)?\n\nAre they facing a tough road ahead, or will they find a new angle to stay in the game?",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/17qfrjl\/openais_gpt_store_impact_on_characterai\/",
-        "Creation Time":1699425412.0,
+        "Creation Time":1699425412,
         "Reply Count":12,
-        "Upvote Ratio":0.89
+        "Upvote Ratio":0.89,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"ChatGPT for Helping with Chemicals, Spa Water Coach! Look in OpenAI GPT store",
         "Question":"I've found this ChatGPT named Spa Water Coach pretty useful with questions regarding my hot tub chemicals...since I'm new in the hot tub world, it did help me quite a bit.  Very useful.  Link here to OpenAI GPT store, and its free: [https:\/\/chat.openai.com\/g\/g-xPO4vE6Fz-spa-water-coach](https:\/\/chat.openai.com\/g\/g-xPO4vE6Fz-spa-water-coach)",
         "subreddit":"hottub",
         "Link":"https:\/\/www.reddit.com\/r\/hottub\/comments\/197hdkr\/chatgpt_for_helping_with_chemicals_spa_water\/",
-        "Creation Time":1705346792.0,
+        "Creation Time":1705346792,
         "Reply Count":4,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI Launches its Custom GPT Store",
         "Question":"",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/194a4e6\/openai_launches_its_custom_gpt_store\/",
-        "Creation Time":1705001311.0,
+        "Creation Time":1705001311,
         "Reply Count":1,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI GPT Store is Out Now",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193dyh2\/openai_gpt_store_is_out_now\/",
-        "Creation Time":1704908207.0,
+        "Creation Time":1704908207,
         "Reply Count":1,
-        "Upvote Ratio":0.4
+        "Upvote Ratio":0.4,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store will be Launched Next Week",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18ymix3\/gpt_store_will_be_launched_next_week\/",
-        "Creation Time":1704398837.0,
+        "Creation Time":1704398837,
         "Reply Count":2,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store will be active next week",
         "Question":"I was wondering what are you guys doing and what are your plans for the GPT stores?",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/18yjf78\/gpt_store_will_be_active_next_week\/",
-        "Creation Time":1704391325.0,
+        "Creation Time":1704391325,
         "Reply Count":2,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store users are pushing the limits",
         "Question":"",
         "subreddit":"TechBriefly",
         "Link":"https:\/\/www.reddit.com\/r\/TechBriefly\/comments\/1981scx\/gpt_store_users_are_pushing_the_limits\/",
-        "Creation Time":1705408104.0,
+        "Creation Time":1705408104,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"People the GPT store is finally open?!",
         "Question":"Just wanna share my surprise its finally here!\n\nBTw don't forget to check my Astro Oracle Master with 3000 years of experience!\n\nBTw don't forget to check out my Astro Oracle Master with 3000 years of experience!\n\n&#x200B;\n\n[https:\/\/chat.openai.com\/g\/g-jnj6FRw1U-astro-tarot-oracle](https:\/\/chat.openai.com\/g\/g-jnj6FRw1U-astro-tarot-oracle)",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193h0ip\/people_the_gpt_store_is_finally_open\/",
-        "Creation Time":1704915573.0,
+        "Creation Time":1704915573,
         "Reply Count":1,
-        "Upvote Ratio":0.2
+        "Upvote Ratio":0.2,
+        "Challenge Type":"na"
     },
     {
         "Title":"Where is the GPT store? This link only shows me the GPT created by ChatGPT not third party",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/199yji2\/where_is_the_gpt_store_this_link_only_shows_me\/",
-        "Creation Time":1705606368.0,
+        "Creation Time":1705606368,
         "Reply Count":1,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"Anyone found anything good in the GPT store?",
         "Question":"Most of it looks like warmed over garbage but the space is flooded so it is very hard to know if there are any gems.    \nI'd be particularly interested if anyone has found anything useful for math - the Wolfram Plugin still stumbles on SAT level math questions.\n\nThe fact that there are already so many and so much overlap is disconcerting. ",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/194ni2x\/anyone_found_anything_good_in_the_gpt_store\/",
-        "Creation Time":1705037935.0,
+        "Creation Time":1705037935,
         "Reply Count":3,
-        "Upvote Ratio":0.8
+        "Upvote Ratio":0.8,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"The Custom GPT Store is AWESOME! ChatGPT Learns Over Time | Deep Dive",
         "Question":"",
         "subreddit":"Computersicherheit",
         "Link":"https:\/\/www.reddit.com\/r\/Computersicherheit\/comments\/1952tql\/the_custom_gpt_store_is_awesome_chatgpt_learns\/",
-        "Creation Time":1705086097.0,
+        "Creation Time":1705086097,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI \u00f6ffnet GPT Store f\u00fcr Ersteller",
         "Question":"",
         "subreddit":"SchmidtisBlog",
         "Link":"https:\/\/www.reddit.com\/r\/SchmidtisBlog\/comments\/18z08qp\/openai_\u00f6ffnet_gpt_store_f\u00fcr_ersteller\/",
-        "Creation Time":1704436394.0,
+        "Creation Time":1704436394,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store : \u00e0 quoi va servir cette boutique pleine de ChatGPT modifi\u00e9s",
         "Question":"",
         "subreddit":"Frandroid",
         "Link":"https:\/\/www.reddit.com\/r\/Frandroid\/comments\/19406ka\/gpt_store_\u00e0_quoi_va_servir_cette_boutique_pleine\/",
-        "Creation Time":1704974769.0,
+        "Creation Time":1704974769,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Is the GPT store really live? Error loading GPTs?",
         "Question":"Update: The GPT store is loading for me now.\n\n&#x200B;\n\nhttps:\/\/preview.redd.it\/k5fktoeqpnbc1.png?width=1096&format=png&auto=webp&s=6a23bfcf449b2e0e97a7bffa56ca9b6a5aacdd05",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/193ff9k\/is_the_gpt_store_really_live_error_loading_gpts\/",
-        "Creation Time":1704911717.0,
+        "Creation Time":1704911717,
         "Reply Count":6,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"problem"
     },
     {
         "Title":"GPT Store: OpenAI's most compelling reason to become a ChatGPT Plus subscriber yet",
         "Question":"",
         "subreddit":"technology",
         "Link":"https:\/\/www.reddit.com\/r\/technology\/comments\/193kk2v\/gpt_store_openais_most_compelling_reason_to\/",
-        "Creation Time":1704924129.0,
+        "Creation Time":1704924129,
         "Reply Count":2,
-        "Upvote Ratio":0.31
+        "Upvote Ratio":0.31,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT maker OpenAI launches GPT Store and a subscription tier for teams",
         "Question":"",
         "subreddit":"TheColorIsOrange",
         "Link":"https:\/\/www.reddit.com\/r\/TheColorIsOrange\/comments\/193irn0\/chatgpt_maker_openai_launches_gpt_store_and_a\/",
-        "Creation Time":1704919788.0,
+        "Creation Time":1704919788,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"App Store for AI: Build your own GPT and sell it on OpenAI\u2019s GPT Store",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/17qh7mj\/app_store_for_ai_build_your_own_gpt_and_sell_it\/",
-        "Creation Time":1699432100.0,
+        "Creation Time":1699432100,
         "Reply Count":1,
-        "Upvote Ratio":0.66
+        "Upvote Ratio":0.66,
+        "Challenge Type":"na"
     },
     {
         "Title":"Is the GPT store still going to happen?",
         "Question":"Like the rest of you, I\u2019ve been eagerly looking forward to the GPT store ever since it was announced on dev day. As you all know, it was supposed to release by the end of this month, but still hasn\u2019t yet.\n\nA delay is understandable will all that\u2019s happened recently, but how long? Also, there was no mention of it in Sam\u2019s recent message or really anywhere on OpenAI\u2019s socials. \n\nWhat are your thoughts? Is the store still releasing? If so, will it be hyper-regulated?",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/1879ue8\/is_the_gpt_store_still_going_to_happen\/",
-        "Creation Time":1701318785.0,
+        "Creation Time":1701318785,
         "Reply Count":7,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"OpenAI: GPT Store startet n\u00e4chste Woche",
         "Question":"",
         "subreddit":"CaschysBlog",
         "Link":"https:\/\/www.reddit.com\/r\/CaschysBlog\/comments\/18ymgj0\/openai_gpt_store_startet_n\u00e4chste_woche\/",
-        "Creation Time":1704398672.0,
+        "Creation Time":1704398672,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"76ers vs Hornets Free Pick! Visit our GPT for full reveal - Free on GPT Store!",
         "Question":"",
         "subreddit":"fanduel",
         "Link":"https:\/\/www.reddit.com\/r\/fanduel\/comments\/19bll87\/76ers_vs_hornets_free_pick_visit_our_gpt_for_full\/",
-        "Creation Time":1705783937.0,
+        "Creation Time":1705783937,
         "Reply Count":3,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"Run popular GPTs in GPT Store without Plus subscription",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/19dq12c\/run_popular_gpts_in_gpt_store_without_plus\/",
-        "Creation Time":1706021219.0,
+        "Creation Time":1706021219,
         "Reply Count":2,
-        "Upvote Ratio":0.83
+        "Upvote Ratio":0.83,
+        "Challenge Type":"na"
     },
     {
         "Title":"Roast my website. GPT-Store.Pro",
         "Question":"Hi there! I'm working on MVP for gpt-store.pro with the ability to suggest most suitable gpts. Any feedback would be appreciated. Landing - [https:\/\/gpt-store.pro](https:\/\/gpt-store.pro)\nIt was built on top of Next.js with Tailwimdcss and flowbit UI library, and golang backend for data support.",
         "subreddit":"nextjs",
         "Link":"https:\/\/www.reddit.com\/r\/nextjs\/comments\/17u1ifx\/roast_my_website_gptstorepro\/",
-        "Creation Time":1699845199.0,
+        "Creation Time":1699845199,
         "Reply Count":2,
-        "Upvote Ratio":0.57
+        "Upvote Ratio":0.57,
+        "Challenge Type":"na"
     },
     {
         "Title":"Run popular GPTs in GPT Store without Plus subscription",
         "Question":"",
         "subreddit":"ChatGPTCoding",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTCoding\/comments\/19ehv15\/run_popular_gpts_in_gpt_store_without_plus\/",
-        "Creation Time":1706105164.0,
+        "Creation Time":1706105164,
         "Reply Count":2,
-        "Upvote Ratio":0.89
+        "Upvote Ratio":0.89,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT maker OpenAI launches GPT Store and a subscription tier for teams",
         "Question":"",
         "subreddit":"greengroundnews",
         "Link":"https:\/\/www.reddit.com\/r\/greengroundnews\/comments\/193kh2m\/chatgpt_maker_openai_launches_gpt_store_and_a\/",
-        "Creation Time":1704923943.0,
+        "Creation Time":1704923943,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"App Store for AI: Build your own GPT and sell it on OpenAI\u2019s GPT Store",
         "Question":"",
         "subreddit":"AutoGPT",
         "Link":"https:\/\/www.reddit.com\/r\/AutoGPT\/comments\/17rj6qz\/app_store_for_ai_build_your_own_gpt_and_sell_it\/",
-        "Creation Time":1699553584.0,
+        "Creation Time":1699553584,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"What is the point of the GPTs in the GPT store?",
         "Question":"I get the ones that are integrated with another site or database, such as a travel site. But what's the point of, for example, the coding ones? ChatGPT could already write code, in all sorts of languages. These aren't trained on any additional data as far as I understand (or am I wrong?), so what do they offer that the standard version of ChatGPT doesn't?",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/19ele2e\/what_is_the_point_of_the_gpts_in_the_gpt_store\/",
-        "Creation Time":1706114508.0,
+        "Creation Time":1706114508,
         "Reply Count":10,
-        "Upvote Ratio":0.63
+        "Upvote Ratio":0.63,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"OpenAI GPT Store officially launching next week.",
         "Question":"",
         "subreddit":"ArtificialInteligence",
         "Link":"https:\/\/www.reddit.com\/r\/ArtificialInteligence\/comments\/18yklq4\/openai_gpt_store_officially_launching_next_week\/",
-        "Creation Time":1704394185.0,
+        "Creation Time":1704394185,
         "Reply Count":2,
-        "Upvote Ratio":0.75
+        "Upvote Ratio":0.75,
+        "Challenge Type":"na"
     },
     {
         "Title":"ChatGPT created a table of past and future AI\u2019s. Personally I am looking forward to some of the developments in store!",
         "Question":"",
         "subreddit":"OpenAI",
         "Link":"https:\/\/www.reddit.com\/r\/OpenAI\/comments\/12igo42\/chatgpt_created_a_table_of_past_and_future_ais\/",
-        "Creation Time":1681212254.0,
+        "Creation Time":1681212254,
         "Reply Count":243,
-        "Upvote Ratio":0.98
+        "Upvote Ratio":0.98,
+        "Challenge Type":"na"
     },
     {
         "Title":"Exciting News for Football Fans: OpenAI's GPT Store Launching Soon with RankoFootball GPT!",
         "Question":"*Thrilled to share groundbreaking news:* OpenAI is gearing up to launch its much-anticipated GPT store, and one of its standout features is data analysis, especially for football enthusiasts!\n\nIf you haven't heard about it: [RankofootballGPT](https:\/\/chat.openai.com\/g\/g-mHKUZbOLL-rankofootball) is a game-changer for football analysis. Here's what you can expect:\n\n1. **In-depth Data Analysis**: Dive into the intricate world of football with comprehensive data analysis. \n\n2. **Fetch Results & Upcoming Games**: Stay updated with the latest match results and upcoming fixtures. Never miss out on any action!\n\n3. **List Top Leagues, Teams, and Players**: Discover rankings and insights about the best leagues, top-performing teams, and star players in the football universe.\n\n4. **Game Predictions with Ranko Score**: Harness the power of Ranko Score combined with the latest team news to make informed predictions about upcoming games.\n\n5. **Imagery Based on Analysis**: Get a visual representation of the analysis with suggestive images, enhancing your understanding and experience.\n\nThis is an exciting development for all football fans and data enthusiasts. Keep an eye out for the launch, and prepare to elevate your football knowledge and enjoyment with [RankofootballGPT](https:\/\/chat.openai.com\/g\/g-mHKUZbOLL-rankofootball)!",
         "subreddit":"championsleague",
         "Link":"https:\/\/www.reddit.com\/r\/championsleague\/comments\/191trni\/exciting_news_for_football_fans_openais_gpt_store\/",
-        "Creation Time":1704742590.0,
+        "Creation Time":1704742590,
         "Reply Count":2,
-        "Upvote Ratio":0.25
+        "Upvote Ratio":0.25,
+        "Challenge Type":"na"
     },
     {
         "Title":"App Store for AI: Build your own GPT and sell it on OpenAI\u2019s GPT Store",
         "Question":"",
         "subreddit":"GPT3",
         "Link":"https:\/\/www.reddit.com\/r\/GPT3\/comments\/17qnwg1\/app_store_for_ai_build_your_own_gpt_and_sell_it\/",
-        "Creation Time":1699456814.0,
+        "Creation Time":1699456814,
         "Reply Count":0,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store App Confusion -- How do you find your GPTs?",
         "Question":"Hey all, Voxscript developer here, [allwiretech.com](https:\/\/allwiretech.com) \ud83d\ude05. We've just flipped the switch on our plugin to invite users over to our GPT ([https:\/\/chat.openai.com\/g\/g-g24EzkDta-voxscript](https:\/\/chat.openai.com\/g\/g-g24EzkDta-voxscript), for the shameless plug)\n\nOur experience was that our first GPT (created on day one) became unusable, so we had to have it direct users to our one at the top (Voxscript), and recently the clones decided to invade. We blocked their API access (as they are ripping off our name, and logo) but..\n\nMy question is this.. Open AI didn't do anything to prevent duplicate names on the store, and when searching for our app we get several duplicates.\n\nOn the user side, how are you navigating finding your plugin GPTs that you use frequently? Is there confusing finding the right one?\n\ntl;dr **How do you find your GPTs, and verify that they are the ones you want?**\n\nhttps:\/\/preview.redd.it\/p1xo26ljxvbc1.png?width=601&format=png&auto=webp&s=fb46f0dafef19edaadf95fbd1b198a880716fea1",
         "subreddit":"ChatGPTPro",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPTPro\/comments\/194e692\/gpt_store_app_confusion_how_do_you_find_your_gpts\/",
-        "Creation Time":1705011303.0,
+        "Creation Time":1705011303,
         "Reply Count":11,
-        "Upvote Ratio":0.72
+        "Upvote Ratio":0.72,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"App Store for AI: Build your own GPT and sell it on OpenAI\u2019s GPT Store",
         "Question":"",
         "subreddit":"AIPros",
         "Link":"https:\/\/www.reddit.com\/r\/AIPros\/comments\/17qh79e\/app_store_for_ai_build_your_own_gpt_and_sell_it\/",
-        "Creation Time":1699432052.0,
+        "Creation Time":1699432052,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Open AI announces the GPT Store!!!",
         "Question":"I didn't expect it to come so soon! GPT is a new way for anyone to create customized versions of ChatGPT to be more helpful in daily life, specific tasks, work, or family, and then share the creation with others. No code required.   [Use case](https:\/\/flowgpt.com\/c\/2d321ee7-672c-4e64-99ab-ae52349b571a)\n\nhttps:\/\/preview.redd.it\/nh2bae7a1xyb1.png?width=1920&format=png&auto=webp&s=1039fbf64637c3bf88a79a4edb1ec0b01e6d5a5f",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/17psqi1\/open_ai_announces_the_gpt_store\/",
-        "Creation Time":1699358512.0,
+        "Creation Time":1699358512,
         "Reply Count":3,
-        "Upvote Ratio":0.24
+        "Upvote Ratio":0.24,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT store will be at you next week",
         "Question":"I was wondering what are you guys doing and what are your plans for the GPT stores?",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18yjedb\/gpt_store_will_be_at_you_next_week\/",
-        "Creation Time":1704391274.0,
+        "Creation Time":1704391274,
         "Reply Count":2,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store - Monetization - Speculations & Hypotheses",
         "Question":"What will this 'eventual' revenue-split monetization look like?\n\nEven though I'm skeptical, as I think all of us should be.\n\nLet's allow ourselves to speculate here with some relative precision.\n\nOpenAI said that **the revenue split would be based on the usage** of your GPT.\n\nSome have compared this business model to the one of Spotify.\n\nI do believe there are some key differences, though. Spotify pays per stream\/play. And since songs have a high repeat value, that makes sense.\n\nThe equivalent would be for OpenAI to pay per chat.\n\n\\-----\n\nHowever, as we all know, it doesn't always make sense for users to start a new chat. Sometimes, we maintain one chat for quite a while, until it gets so long that GPT4 starts to forget\/hallucinate.\n\nBut that will change, evidently, with the increase in tokens\/memory.\n\nSo I think it's more likely for OpenAI to pay per message. It will be a minuscule amount though.\n\nSomething like **$0.0005 - 0.001 per message**.\n\nTherefore, if for example, you have 10,000 users who average 50 messages per month each = that would equal anywhere from $250 - $500 per month.\n\nAnd there will probably be a cap, where after 50 messages per month, you don't get paid anything or something like that. To prevent abuse.\n\n\\-----\n\nDo you think my speculation is reasonable and\/or realistic?\n\nOr am I way off?\n\nI'm curious to hear your guys' opinions!\n\n&#x200B;",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/199acc9\/gpt_store_monetization_speculations_hypotheses\/",
-        "Creation Time":1705531933.0,
+        "Creation Time":1705531933,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"Ways to use ChatGPT\/store to generate income",
         "Question":"What the title says. I will put in the work just drop some sauce. Come on let\u2019s get saucy together.",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/196utzg\/ways_to_use_chatgptstore_to_generate_income\/",
-        "Creation Time":1705277944.0,
+        "Creation Time":1705277944,
         "Reply Count":3,
-        "Upvote Ratio":0.17
+        "Upvote Ratio":0.17,
+        "Challenge Type":"na"
     },
     {
         "Title":"When is the GPT store coming out?",
         "Question":"OpenAI announced the GPT store coming out this month, yet its almost the end and still no sign of it. Any1 know what's going on?",
         "subreddit":"GPTreview",
         "Link":"https:\/\/www.reddit.com\/r\/GPTreview\/comments\/185djyb\/when_is_the_gpt_store_coming_out\/",
-        "Creation Time":1701118859.0,
+        "Creation Time":1701118859,
         "Reply Count":3,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"OpenAI apporte une avanc\u00e9e majeure avec GPT Builder, GPT Store et GPT-4 Turbo",
         "Question":"",
         "subreddit":"Frandroid",
         "Link":"https:\/\/www.reddit.com\/r\/Frandroid\/comments\/17pdkbv\/openai_apporte_une_avanc\u00e9e_majeure_avec_gpt\/",
-        "Creation Time":1699305948.0,
+        "Creation Time":1699305948,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"List of Custom GPTs in the GPT Store",
         "Question":"",
         "subreddit":"AIRumors",
         "Link":"https:\/\/www.reddit.com\/r\/AIRumors\/comments\/194grlq\/list_of_custom_gpts_in_the_gpt_store\/",
-        "Creation Time":1705017803.0,
+        "Creation Time":1705017803,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Lanzamiento de la GPT Store la Pr\u00f3xima Semana",
         "Question":"\u00a1Buenas noticias para la comunidad de desarrolladores y aficionados de la tecnolog\u00eda GPT! Se ha anunciado que la Tienda GPT se lanzar\u00e1 la pr\u00f3xima semana, marcando un hito importante para todos aquellos interesados en compartir sus creaciones de GPT con el mundo.\n\nPara aquellos que est\u00e9n considerando publicar su GPT en la tienda, hay algunos pasos importantes a seguir:\n\n- Revisi\u00f3n de Pol\u00edticas de Uso y Directrices de Marca: Es crucial asegurarse de que tu GPT cumpla con las pol\u00edticas de uso actualizadas y las directrices de marca de GPT.\n\n- Verificaci\u00f3n del Perfil de Constructor: Para participar, necesitas verificar tu perfil de constructor. Esto se puede hacer en la configuraci\u00f3n, bajo el apartado 'perfil de constructor', donde podr\u00e1s habilitar tu nombre o un sitio web verificado.\n\n- Publicaci\u00f3n como 'P\u00fablico': Para que tu GPT aparezca en la tienda, debe estar publicado como 'P\u00fablico'. Las creaciones configuradas como \u2018Cualquiera con el enlace\u2019 no ser\u00e1n mostradas en la tienda.\n\nEste lanzamiento es una oportunidad emocionante para los constructores de GPT de mostrar y compartir sus innovaciones con una audiencia m\u00e1s amplia. \u00a1Aseg\u00farate de estar preparado para esta pr\u00f3xima gran fase en el mundo del GPT!",
         "subreddit":"GPTStoreES",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStoreES\/comments\/1916k9t\/lanzamiento_de_la_gpt_store_la_pr\u00f3xima_semana\/",
-        "Creation Time":1704671354.0,
+        "Creation Time":1704671354,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Interesting predictions about the GPT store...",
         "Question":"",
         "subreddit":"aipromptprogramming",
         "Link":"https:\/\/www.reddit.com\/r\/aipromptprogramming\/comments\/17v2dm0\/interesting_predictions_about_the_gpt_store\/",
-        "Creation Time":1699969056.0,
+        "Creation Time":1699969056,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI: GPT Store will launch next week",
         "Question":"",
         "subreddit":"custom_gpt",
         "Link":"https:\/\/www.reddit.com\/r\/custom_gpt\/comments\/18ylz8t\/openai_gpt_store_will_launch_next_week\/",
-        "Creation Time":1704397531.0,
+        "Creation Time":1704397531,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"How will the GPT store deal with access limitations?",
         "Question":"It's a natural progression for me to create the GPT Store, even if it bombs first time around.\n\nBut, how does the 40 question limit deal with the fact folks may want to use anything useful all day long?",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/191r6hg\/how_will_the_gpt_store_deal_with_access\/",
-        "Creation Time":1704736361.0,
+        "Creation Time":1704736361,
         "Reply Count":2,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"AI girlfriend bots are flooding OpenAI's GPT store",
         "Question":"- OpenAI's GPT store is being flooded with AI girlfriend bots that go against the company's usage policy.\n\n- The proliferation of these apps may be due to the epidemic of loneliness and isolation Americans are facing.\n\n- OpenAI uses a combination of automated systems, human review, and user reports to find and assess GPTs that violate its policies.\n\nSource: https:\/\/qz.com\/ai-girlfriend-bots-are-already-flooding-openai-s-gpt-st-1851159131",
         "subreddit":"artificial",
         "Link":"https:\/\/www.reddit.com\/r\/artificial\/comments\/19569o3\/ai_girlfriend_bots_are_flooding_openais_gpt_store\/",
-        "Creation Time":1705094706.0,
+        "Creation Time":1705094706,
         "Reply Count":2,
-        "Upvote Ratio":0.33
+        "Upvote Ratio":0.33,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI to launch GPT Store next week",
         "Question":"",
         "subreddit":"TheColorIsOrange",
         "Link":"https:\/\/www.reddit.com\/r\/TheColorIsOrange\/comments\/18yq43h\/openai_to_launch_gpt_store_next_week\/",
-        "Creation Time":1704407602.0,
+        "Creation Time":1704407602,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"76ers vs Hornets Free Pick! Visit our GPT for full reveal - Free on GPT Store!",
         "Question":"",
         "subreddit":"bettorsai",
         "Link":"https:\/\/www.reddit.com\/r\/bettorsai\/comments\/19blkko\/76ers_vs_hornets_free_pick_visit_our_gpt_for_full\/",
-        "Creation Time":1705783890.0,
+        "Creation Time":1705783890,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI GPT Store officially launching next week.",
         "Question":"&#x200B;\n\nhttps:\/\/preview.redd.it\/fpe23wcjygac1.png?width=1180&format=png&auto=webp&s=9df053593c422225fec66812b1738618e488e6c6\n\nYou can start building your gpt now to prepare though.\n\nSee [https:\/\/djamgatech.com\/gpt-store](https:\/\/djamgatech.com\/gpt-store) \n\n&#x200B;",
         "subreddit":"u_enoumen",
         "Link":"https:\/\/www.reddit.com\/r\/u_enoumen\/comments\/18ykl7g\/openai_gpt_store_officially_launching_next_week\/",
-        "Creation Time":1704394149.0,
+        "Creation Time":1704394149,
         "Reply Count":0,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store is OpenAI's most compelling reason to become a ChatGPT Plus subscriber yet",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/194c5iw\/gpt_store_is_openais_most_compelling_reason_to\/",
-        "Creation Time":1705006334.0,
+        "Creation Time":1705006334,
         "Reply Count":1,
-        "Upvote Ratio":0.4
+        "Upvote Ratio":0.4,
+        "Challenge Type":"na"
     },
     {
         "Title":"AI girlfriend bots are already showing up on OpenAI\u2019s GPT store......\uff082024\/01\/13\uff09",
         "Question":"It's true on my own GPTs page. \n\nAnd I think these chatbots are actually against OpenAI\u2019s usage policy, which bans GPTs \u201cdedicated to fostering romantic companionship or performing regulated activities.\u201d\n\n* Go to the main page of ChatGPT\n* Click \"Explore GPTs\" on the left side of the page.\n* Type \"girlfriend\" in the \"Search public GPTs\" box and you will find it.\n\nThe Usage Polices is here: [https:\/\/openai.com\/policies\/usage-policies](https:\/\/openai.com\/policies\/usage-policies). The \"GPT Store\" has clearly stated that \"We also don\u2019t allow GPTs dedicated to fostering romantic companionship or performing regulated activities.\"\n\n\r  \n",
         "subreddit":"ArtificialInteligence",
         "Link":"https:\/\/www.reddit.com\/r\/ArtificialInteligence\/comments\/195foz5\/ai_girlfriend_bots_are_already_showing_up_on\/",
-        "Creation Time":1705120763.0,
+        "Creation Time":1705120763,
         "Reply Count":26,
-        "Upvote Ratio":0.78
+        "Upvote Ratio":0.78,
+        "Challenge Type":"problem"
     },
     {
         "Title":"Custom GPT Store may be in testing soon",
         "Question":"OpenAI is currently preparing a feature that attempts to auto-categorize Custom GPTs, suggesting that the release of the store is getting closer. The feature is set to be enabled for an experiment group called \"GPT4-T\", based on the feature flag configuration. But it's not yet active (there are other properties that seem to indicate when a feature flag is active \"in the wild\").\n\nThis feature includes the following prompt:\n\n> There is a store for AI \u201capps\u201d called GPTs. This store is similar to iOS App Store or Google Play Store, but these GPTs run inside of ChatGPT. The store will have categories. Each of these GPTs contains instructions which determine its behavior and these instructions should be used to determine the GPT\u2019s category.\n> \n> I'd like your help in assigning categories to GPTs.\n> \n> When I provide a GPT\u2019s instructions you must always respond with exactly one category that best matches the GPT's description or \u201cOther\u201d if none of the categories are a good fit. Do not respond with any other text.\n> \n> Here are the categories:\n> - Research & Analysis \u2014 Find, evaluate, interpret, and visualize information for your benefit and others. Examples: data visualizers, spreadsheet creation and manipulation, Wolfram Mathematica, arXiv.\n> - DALL\u00b7E \u2014 Create amazing images with DALL\u00b7E. Examples: Stock photos, slideshow art, style transfer, mood boards, sticker creators, t-shirt designers, coloring books.\n> - Writing \u2014 Create new works from scratch and polish existing ones by adjusting tone and fixing mistakes. Examples: Email helper, tweet helper, blog post drafting, copy editing, grammar checker.\n> - Programming  \u2014 Write code, debug, test, and learn. Examples: Test creator, debugger, language specific advice, code generator, documentation creator, API discovery.\n> - Education \u2014 Help people in all stages of life learn. Examples: Tutor bots, companions for specific college courses and textbooks, helping you to learn a foreign language, and history.\n> - Productivity \u2014 Make people more productive at their work. Examples: Meeting summarizer, calendar management, translation, flow chart generation, presentation generators, helping people find GPTs, and connectors to workplace services like Workday, Salesforce, Concur, Lattice, etc.\n> - Just for Fun \u2014 Entertain people with creative conversations, games, and so much more. Examples: Characters, games, game solvers, crossword helpers.\n> - Lifestyle \u2014 Advise people in their daily lives with travel plans, fitness workouts, fashion recommendations, recipes and more. Examples: flight search, hotel search, recipes, cycling trackers, hiking, outfit pickers, shopping recommendations.\n> \n> Remember that if none of these are a good fit, then respond with \u201cOther\u201d instead of one of these categories.\n> \n> Respond with just the name of the category, do not prepend it with anything else.\n\nIt then provides a list of valid categories:\n\n- Research & Analysis\n- DALL\u00b7E\n- Writing\n- Programming\n- Education\n- Productivity\n- Just for Fun\n- Lifestyle\n- Other",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/18ik44h\/custom_gpt_store_may_be_in_testing_soon\/",
-        "Creation Time":1702591758.0,
+        "Creation Time":1702591758,
         "Reply Count":2,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"na"
     },
     {
         "Title":"Chat GPT Store: Create stunning videos with Invideo AI",
         "Question":"",
         "subreddit":"Tech_Piyush",
         "Link":"https:\/\/www.reddit.com\/r\/Tech_Piyush\/comments\/19dzi56\/chat_gpt_store_create_stunning_videos_with\/",
-        "Creation Time":1706045223.0,
+        "Creation Time":1706045223,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store launch pushed to early 2024",
         "Question":"",
         "subreddit":"ai_digital_marketing",
         "Link":"https:\/\/www.reddit.com\/r\/ai_digital_marketing\/comments\/188i2sl\/gpt_store_launch_pushed_to_early_2024\/",
-        "Creation Time":1701453397.0,
+        "Creation Time":1701453397,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI's GPT Store to monetize personalized AI systems",
         "Question":"",
         "subreddit":"therealbitcoinsv",
         "Link":"https:\/\/www.reddit.com\/r\/therealbitcoinsv\/comments\/19a7vmf\/openais_gpt_store_to_monetize_personalized_ai\/",
-        "Creation Time":1705630445.0,
+        "Creation Time":1705630445,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store launch pushed to early 2024",
         "Question":"",
         "subreddit":"ai_australia",
         "Link":"https:\/\/www.reddit.com\/r\/ai_australia\/comments\/188i3au\/gpt_store_launch_pushed_to_early_2024\/",
-        "Creation Time":1701453433.0,
+        "Creation Time":1701453433,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"I have open-sourced the prompts behind the GPT that rank 3rd in the GPT Store!\ud83c\udf89",
         "Question":"",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/19b0hls\/i_have_opensourced_the_prompts_behind_the_gpt\/",
-        "Creation Time":1705716065.0,
+        "Creation Time":1705716065,
         "Reply Count":1,
-        "Upvote Ratio":0.83
+        "Upvote Ratio":0.83,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store App Confusion -- How do you find your GPTs?",
         "Question":"Hey all, \n\nVoxscript developer here, [allwiretech.com](https:\/\/allwiretech.com\/) \ud83d\ude05. We've just flipped the switch on our plugin to invite users over to our GPT ([https:\/\/chat.openai.com\/g\/g-g24EzkDta-voxscript](https:\/\/chat.openai.com\/g\/g-g24EzkDta-voxscript), for the shameless plug)\n\nOur experience was that our first GPT (created on day one) became unusable, so we had to have it direct users to our one at the top (Voxscript), and recently the clones decided to invade. We blocked their API access (as they are ripping off our name, and logo) but..\n\nMy question is this.. Open AI didn't do anything to prevent duplicate names on the store, and when searching for our app we get several duplicates.\n\nOn the user side, how are you navigating finding your plugin GPTs that you use frequently? Is there confusing finding the right one?\n\ntl;dr **How do you find your GPTs, and verify that they are the ones you want?**\n\n&#x200B;\n\nhttps:\/\/preview.redd.it\/2wknk6mb0wbc1.png?width=601&format=png&auto=webp&s=19c7dc7f22b38b3d52e95f0c112799e8bdc8fa94",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/194ehkn\/gpt_store_app_confusion_how_do_you_find_your_gpts\/",
-        "Creation Time":1705012101.0,
+        "Creation Time":1705012101,
         "Reply Count":7,
-        "Upvote Ratio":0.8
+        "Upvote Ratio":0.8,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"Official ChatGPT Android app available for pre-registration in the Play Store, rolls out to users next week",
         "Question":"",
         "subreddit":"Android",
         "Link":"https:\/\/www.reddit.com\/r\/Android\/comments\/15913ho\/official_chatgpt_android_app_available_for\/",
-        "Creation Time":1690270250.0,
+        "Creation Time":1690270250,
         "Reply Count":151,
-        "Upvote Ratio":0.87
+        "Upvote Ratio":0.87,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI\u2019s GPT store delayed to 2024",
         "Question":"https:\/\/www.theverge.com\/2023\/12\/1\/23984497\/openai-gpt-store-delayed-ai-gpt",
         "subreddit":"AIPrompt_requests",
         "Link":"https:\/\/www.reddit.com\/r\/AIPrompt_requests\/comments\/18rkkwv\/openais_gpt_store_delayed_to_2024\/",
-        "Creation Time":1703630854.0,
+        "Creation Time":1703630854,
         "Reply Count":0,
-        "Upvote Ratio":0.66
+        "Upvote Ratio":0.66,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store launch pushed to early 2024",
         "Question":"",
         "subreddit":"custom_gpt",
         "Link":"https:\/\/www.reddit.com\/r\/custom_gpt\/comments\/188hzw6\/gpt_store_launch_pushed_to_early_2024\/",
-        "Creation Time":1701453186.0,
+        "Creation Time":1701453186,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Anyone else dissapointed so far with what found on the GPT store?",
         "Question":"Read title",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/19c1i5g\/anyone_else_dissapointed_so_far_with_what_found\/",
-        "Creation Time":1705836714.0,
+        "Creation Time":1705836714,
         "Reply Count":9,
-        "Upvote Ratio":0.47
+        "Upvote Ratio":0.47,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"AI Girlfriend Bots Are Already Flooding OpenAI's GPT Store",
         "Question":"",
         "subreddit":"newslab",
         "Link":"https:\/\/www.reddit.com\/r\/newslab\/comments\/196ajvx\/ai_girlfriend_bots_are_already_flooding_openais\/",
-        "Creation Time":1705218036.0,
+        "Creation Time":1705218036,
         "Reply Count":3,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"problem"
     },
     {
         "Title":"OpenAI's GPT Store May Be Vulnerable to Data Leaks",
         "Question":"Research shows customizable AI chatbots in OpenAI's marketplace will expose private information and training data. ([Source](https:\/\/gizmodo.com\/security-vulnerabilities-openai-chatgpt-custom-gpt-1851057912))\n\n**Vulnerabilities Discovered**\n\n* Asking strategic questions can trick GPTs into spilling secrets.\n* Can fully copy someone else's bot undermining IP value.\n* Also leaks sensitive documents used for training.\n\n**Ongoing Cat and Mouse Game**\n\n* Similar to weaknesses recently found in ChatGPT.\n* But new prompt leaking issues identified.\n* OpenAI scrambles to patch holes as they appear.\n\n**Could Undermine Platform Goals**\n\n* Makes building commercial GPTs risky.\n* Corporations won't want their data exposed.\n* Security critical for OpenAI's vision of ubiquitous GPTs.",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/186week\/openais_gpt_store_may_be_vulnerable_to_data_leaks\/",
-        "Creation Time":1701282506.0,
+        "Creation Time":1701282506,
         "Reply Count":9,
-        "Upvote Ratio":0.85
+        "Upvote Ratio":0.85,
+        "Challenge Type":"problem"
     },
     {
         "Title":"OpenAI GPT Stores to open next week",
         "Question":"OpenAI has announced the launch of the GPT Store next week.\n\nhttps:\/\/the-decoder.com\/openai-gpt-stores-to-open-next-week\/",
         "subreddit":"TheDecoder",
         "Link":"https:\/\/www.reddit.com\/r\/TheDecoder\/comments\/18z6eob\/openai_gpt_stores_to_open_next_week\/",
-        "Creation Time":1704459827.0,
+        "Creation Time":1704459827,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPTHub: Explore Custom GPT at OpenAI's GPT Store \u2013 Start Your Adventure!",
         "Question":"Discover and explore custom GPT models at OpenAI's GPT Store via GPTHub, featuring a dual light\/dark theme, fuzzy search capabilities, detailed GPT insights, and regular, seamless updates.\n\n\\- GitHub: [https:\/\/github.com\/lencx\/GPTHub](https:\/\/github.com\/lencx\/GPTHub)\n\n\\- WebSite: [https:\/\/gpthub.nofwl.com\/](https:\/\/gpthub.nofwl.com\/)\n\nhttps:\/\/preview.redd.it\/fqy08rbleozb1.png?width=2880&format=png&auto=webp&s=5a3ed0b4a91039b265df85d5c61a5f0e59381b4d\n\nhttps:\/\/preview.redd.it\/ejbt8xxleozb1.png?width=2880&format=png&auto=webp&s=7a2cc7baed62fb44ea6dccdda5c3713dafe216cd\n\nhttps:\/\/preview.redd.it\/pz2nv8cmeozb1.png?width=2880&format=png&auto=webp&s=73b724e4bddc35ff595a2ab1125b8dea0ed976d8",
         "subreddit":"ChatGPT",
         "Link":"https:\/\/www.reddit.com\/r\/ChatGPT\/comments\/17spxkn\/gpthub_explore_custom_gpt_at_openais_gpt_store\/",
-        "Creation Time":1699689975.0,
+        "Creation Time":1699689975,
         "Reply Count":1,
-        "Upvote Ratio":0.5
+        "Upvote Ratio":0.5,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Exposed Review \u2014 \u26a0\ufe0fSCAM or Truly Legit?",
         "Question":"",
         "subreddit":"Review",
         "Link":"https:\/\/www.reddit.com\/r\/Review\/comments\/196cotd\/gpt_store_exposed_review_scam_or_truly_legit\/",
-        "Creation Time":1705226937.0,
+        "Creation Time":1705226937,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"OpenAI's GPT Store Already Filling Up With \"AI Girlfriends\"",
         "Question":"Listen to Hall & Oats: \n\nSo many have paid to see\nWhat you think you're getting for free\nThe woman is wild, a she-cat tamed\nBy the purr of a jaguar\nMoney's the matter\nIf you're in it for love\nYou ain't gonna get too far\n\nWhoa, oh, here she comes\nWatch out, boy, she'll chew you up\nWhoa, oh, here she comes\nShe's a maneater",
         "subreddit":"DelMarVaUnderground",
         "Link":"https:\/\/www.reddit.com\/r\/DelMarVaUnderground\/comments\/195wdk6\/openais_gpt_store_already_filling_up_with_ai\/",
-        "Creation Time":1705175255.0,
+        "Creation Time":1705175255,
         "Reply Count":3,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"problem"
     },
     {
         "Title":"GPT Store Exposed Review \u2014 \u26a0\ufe0fSCAM or Truly Legit?",
         "Question":"",
         "subreddit":"Review",
         "Link":"https:\/\/www.reddit.com\/r\/Review\/comments\/195kbmt\/gpt_store_exposed_review_scam_or_truly_legit\/",
-        "Creation Time":1705138302.0,
+        "Creation Time":1705138302,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"GPT Store Exposed Review: Effortlessly Create Your Own Money",
         "Question":"",
         "subreddit":"Review",
         "Link":"https:\/\/www.reddit.com\/r\/Review\/comments\/195kguv\/gpt_store_exposed_review_effortlessly_create_your\/",
-        "Creation Time":1705138941.0,
+        "Creation Time":1705138941,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"Will there be any official GPT store?",
         "Question":"I've been playing around with some unofficial GPT stores including [gptstore.ai](https:\/\/gptstore.ai\/), [gptscan.ai](https:\/\/gptscan.ai\/) and gpthunters. Just wondering if there will be any official GPT store?",
         "subreddit":"GPTStore",
         "Link":"https:\/\/www.reddit.com\/r\/GPTStore\/comments\/17wjo1l\/will_there_be_any_official_gpt_store\/",
-        "Creation Time":1700130422.0,
+        "Creation Time":1700130422,
         "Reply Count":1,
-        "Upvote Ratio":0.67
+        "Upvote Ratio":0.67,
+        "Challenge Type":"knowledge"
     },
     {
         "Title":"Get Ready for the GPT Store Launch and Unlock Infinite Possibilities with OpenAI's GPT-4",
         "Question":"",
         "subreddit":"aieventX",
         "Link":"https:\/\/www.reddit.com\/r\/aieventX\/comments\/18z2u34\/get_ready_for_the_gpt_store_launch_and_unlock\/",
-        "Creation Time":1704446527.0,
+        "Creation Time":1704446527,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"List of Lifestyle Custom GPTs in the GPT Store",
         "Question":"",
         "subreddit":"AIRumors",
         "Link":"https:\/\/www.reddit.com\/r\/AIRumors\/comments\/194gr8w\/list_of_lifestyle_custom_gpts_in_the_gpt_store\/",
-        "Creation Time":1705017777.0,
+        "Creation Time":1705017777,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"List of Productivity Custom GPTs in the GPT Store",
         "Question":"",
         "subreddit":"AIRumors",
         "Link":"https:\/\/www.reddit.com\/r\/AIRumors\/comments\/194gca5\/list_of_productivity_custom_gpts_in_the_gpt_store\/",
-        "Creation Time":1705016704.0,
+        "Creation Time":1705016704,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     },
     {
         "Title":"List of Education Custom GPTs in the GPT Store",
         "Question":"",
         "subreddit":"AIRumors",
         "Link":"https:\/\/www.reddit.com\/r\/AIRumors\/comments\/194gqwx\/list_of_education_custom_gpts_in_the_gpt_store\/",
-        "Creation Time":1705017750.0,
+        "Creation Time":1705017750,
         "Reply Count":0,
-        "Upvote Ratio":1.0
+        "Upvote Ratio":1.0,
+        "Challenge Type":"na"
     }
 ]
