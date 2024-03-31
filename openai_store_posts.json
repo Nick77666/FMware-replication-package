@@ -1,443 +1,516 @@
 [
     {
-        "Title":"The GPT Store search acts strange to me",
-        "Creation Time":"2024-01-13T05:27:41.698Z",
-        "View Count":516,
-        "Reply Count":24,
-        "Like Count":17,
-        "Link":"https:\/\/community.openai.com\/t\/the-gpt-store-search-acts-strange-to-me\/584965",
-        "Question":"<p>The GPT Store search acts strange or I don\u2019t know how to properly use it.<\/p>\n<p>If I type a partial word, sometimes it will find GPTs, sometimes it won\u2019t until you type in a full word.<br>\nSome of my GPTs that are not public appear in search results. But not all. How?<br>\nWhen I search for one of my GPTs that IS public, it always shows at top. I assume that is specific to each individual. In other words, I have no way to know where it appears in search results for other users, just that it is always <span class=\"hashtag-raw\">#1<\/span> for me.<br>\nShould we pack our GPT name and description with lots of relevant keywords to get it to show up more? Use generic GPT names instead of unique ones?<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
         "Title":"Still no access to GPT store 5 days later",
         "Creation Time":"2024-01-14T13:55:33.623Z",
-        "View Count":421,
+        "View Count":646,
         "Reply Count":2,
         "Like Count":1,
         "Link":"https:\/\/community.openai.com\/t\/still-no-access-to-gpt-store-5-days-later\/586360",
+        "Tags":[
+            "chatgpt",
+            "gpt-store",
+            "store-rollout"
+        ],
         "Question":"<p>Why cant Openai provide the criteria on their product rollouts. Id like statements like we will start rolling out to US customers today and we expect to have fully rolled this out within 1-2 weeks\/months\u2026 But no we get the usual communication black hole.<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "chatgpt",
-            "gpt-store",
-            "store-rollout"
-        ],
-        "Challenge Type":"problem"
-    },
-    {
-        "Title":"Is the gptstore.ai website official from OpenAI?",
-        "Creation Time":"2024-01-08T16:57:57.480Z",
-        "View Count":695,
-        "Reply Count":0,
-        "Like Count":1,
-        "Link":"https:\/\/community.openai.com\/t\/is-the-gptstore-ai-website-official-from-openai\/578776",
-        "Question":"<p>This site is working and quite popular but there seems to be something wrong with it. Is it official or not?<\/p>",
-        "Accepted Answer":"<p>I can confirm that gptstore.ai is <strong>NOT<\/strong> official.<\/p>",
-        "Tags":[
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"GPT Store Release and Verified Builder Criteria",
-        "Creation Time":"2023-12-20T03:29:18.927Z",
-        "View Count":1601,
-        "Reply Count":0,
-        "Like Count":3,
-        "Link":"https:\/\/community.openai.com\/t\/gpt-store-release-and-verified-builder-criteria\/565682",
-        "Question":"<p>Hi! I was wondering if anyone knew any updates about the GPT store. Also does anyone know what the criteria is to become a verified builder?<\/p>\n<p>Thanks!<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "gpt-builder",
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"Updates on Store changes, plans, etc. etc",
-        "Creation Time":"2024-01-27T21:53:33.106Z",
-        "View Count":122,
-        "Reply Count":4,
-        "Like Count":1,
-        "Link":"https:\/\/community.openai.com\/t\/updates-on-store-changes-plans-etc-etc\/604269",
-        "Question":"<p>Is anyone aware of any release log or any sort of information on the changes in the store such as:<\/p>\n<ul>\n<li>search relevance continual changes<\/li>\n<li>changes in \u2018chat\u2019 bubble display<\/li>\n<li>etc.<\/li>\n<\/ul>\n<p>Right now I\u2019m wondering how others are managing to gauge success of their apps, or understand how to continue to build without much information on how the store itself is being managed.<\/p>\n<p>Here is a simple question, how are other builders determining that people are using their gpt\u2019s other than themselves? Put simply how do you know if anyone is actually finding, and using your gpt. I\u2019m discounting other developers, friends, etc. etc., aka - people actually discovering gpt\u2019s\u2026<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "store-rollout"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"Profit Sharing Policy with OpenAI for Custom GPT-based Browser Extensions",
-        "Creation Time":"2023-12-12T15:58:02.573Z",
-        "View Count":1141,
-        "Reply Count":9,
-        "Like Count":6,
-        "Link":"https:\/\/community.openai.com\/t\/profit-sharing-policy-with-openai-for-custom-gpt-based-browser-extensions\/555667",
-        "Question":"<p>Hello Community,<\/p>\n<p>I\u2019m in the process of developing a web browser extension that integrates a custom GPT-model assistant, which I have designed using FastAPI to encapsulate the <em>business logic<\/em> on the server side. For this setup, I plan to require users to provide their own API keys as the only form of authentication.<\/p>\n<p>My question pertains to the financial aspect of this arrangement with OpenAI:<\/p>\n<ul>\n<li>Does OpenAI have a policy for sharing profits in scenarios where third-party applications like mine are used? i.e Will they provide x% of the revenue to the creator of the assistant_id generated by user_id?<\/li>\n<\/ul>\n<p>Best,<br>\nAndy<\/p>",
-        "Accepted Answer":"<aside class=\"quote no-group\" data-username=\"disco-dragon\" data-post=\"6\" data-topic=\"555667\">\n<div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/9de0a6\/48.png\" class=\"avatar\"> disco-dragon:<\/div>\n<blockquote>\n<p>90% for them 10% for me<\/p>\n<\/blockquote>\n<\/aside>\n<p>and that is exactly the point where it makes sense for you to capture all the value and pay the cost to OpenAI. That way the potential profit is a lot larger.<\/p>\n<p>But then again your approach is something they could consider as well. But to be honest I would be very surprised if they present their store that way. It\u2019s really out-of-the-box.<\/p>\n<p>Ultimately, using the API you can proceed with your project in a matter of a few days. Setting up the required processes is quite simple actually.<\/p>",
-        "Tags":[
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"If your subscription expires what happens to your custom chatgpt bots?",
-        "Creation Time":"2024-01-15T08:18:48.489Z",
-        "View Count":171,
-        "Reply Count":0,
-        "Like Count":2,
-        "Link":"https:\/\/community.openai.com\/t\/if-your-subscription-expires-what-happens-to-your-custom-chatgpt-bots\/587318",
-        "Question":"<p>Anyone know if you build a custom chatgpt and your subscription expires, what happens to your custom chatgpt?<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "chatgpt",
-            "gpt-4",
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"API Call to a specific customer-made GPT",
-        "Creation Time":"2024-01-28T15:18:08.781Z",
-        "View Count":58,
-        "Reply Count":0,
-        "Like Count":0,
-        "Link":"https:\/\/community.openai.com\/t\/api-call-to-a-specific-customer-made-gpt\/604942",
-        "Question":"<p>Hi,<br>\nI built some GPTs, and gave them a bunch of information, including some files upload (for example, with content for FAQ in a website).<br>\nNow, I want to do an API call to that specific GPT (for whatever reason - I want my employees to go to our website for the responses, and not go to the GPT store, so I can monitor usage).<br>\nIs there a way to do an API call to a specific GPT? have its model \/ ID and add it as an input in the API call?<br>\nFYI - I am not a developer and do not have coding experience (I am working off no-code \/ low-code bases, specifically here, using Webflow and Wized for the API calls).<br>\nThanks in advance!<br>\nDori<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"Feedback - Discoverability of GPTs Needs Improvement",
-        "Creation Time":"2024-01-13T19:38:28.339Z",
-        "View Count":239,
-        "Reply Count":0,
-        "Like Count":7,
-        "Link":"https:\/\/community.openai.com\/t\/feedback-discoverability-of-gpts-needs-improvement\/585652",
-        "Question":"<p>Hi OpenAI team,<\/p>\n<p>First off, congrats on the launch of the GPTs store. I think you guys did a great job simplifying what was originally intended in the mockups which is awesome.<\/p>\n<p>My one piece of feedback for the store is I think the discoverability of GPTs is lacking. What I mean by this specifically is currently, only the top 12 GPTs get shown but there are tons of great GPTs that most of us probably have no idea about unless they were directly shared with us. On the current implementation, they are essentially completely hidden which when monetization comes around, essentially is pointless for 99% of the store.<\/p>\n<p>As a suggestion, I would offer one of two things:<\/p>\n<ol>\n<li>\n<p>Simply show us all the GPTs on a different page per category. So for example, say I click on the writing category, I think it would be a simple improvement to have a \u201csee all\u201d button that shows all the GPTs in this category, instead of just 12. From there, you could filter through \u201cmost used\u201d, \u201cnew\u201d etc.<\/p>\n<\/li>\n<li>\n<p>Add recommendations for users. This is of course much harder technically, but would make for a great experience for users. Say something like \u201cSince you used this GPT, you might like this\u201d. This down the road would be awesome.<\/p>\n<\/li>\n<\/ol>\n<p>I love the GPTs store concept and I\u2019d hate for it to get stuck over something like this which seems like a bit of a shortcoming currently. Happy to provide more feedback if wanted.<\/p>\n<p>Thanks again for the great work!<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "chatgpt",
-            "plugin-development",
-            "gpts",
-            "gpt-store"
-        ],
-        "Challenge Type":"na"
-    },
-    {
-        "Title":"GPT Store: A Triumph or a Challenge?",
-        "Creation Time":"2024-01-15T05:02:24.142Z",
-        "View Count":142,
-        "Reply Count":0,
-        "Like Count":0,
-        "Link":"https:\/\/community.openai.com\/t\/gpt-store-a-triumph-or-a-challenge\/587138",
-        "Question":"<p>The official launch of the GPT Store has been announced, boasting an astonishing array of over 300,000 different GPTs.<\/p>\n<p>Is 300,000 a mark of remarkable achievement or a figure of failure?<\/p>\n<p>From an internal KPI perspective, this number is indeed impressive. However, from an external viewpoint, for both developers and users, it seems more like a catastrophe.<\/p>\n<p>Indeed, for humans, choosing between two options is already complex enough, let alone facing 300,000 alternatives. For developers, emerging victorious from a sea of 300,000 competitors is no small feat. In essence, to avoid being trampled in this crowd, it might be wiser to stay away.<\/p>\n<p>The shortest path often turns out to be the longest journey. What seems logical at first might be fraught with pitfalls.<\/p>\n<p>Simply applying the logic of mobile internet to AI doesn\u2019t cut it, not even for OpenAI.<\/p>\n<p>We need better approaches. The opportunity may lie in the hands of OpenAI, or perhaps with others.<\/p>\n<p>I believe the product managers at OpenAI are intelligent individuals, and I\u2019m not here to tell them how to do their jobs.<\/p>\n<p>Still, I have a feeling that GPT possesses vitality, but just like ChatGPT is not merely an app, it\u2019s an entity. The way we access GPT shouldn\u2019t just be through a Store; it too is an entity.<\/p>\n<p>Users don\u2019t want to search for GPTs; they want to engage in conversation, not search.<\/p>\n<p>Developers are looking for more than just prompt engineering; they desire to harness the capabilities of ChatGPT.<\/p>\n<p>In conclusion, I trust that OpenAI will find the right way to integrate these needs!<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"GPT Store still unavailable for me as a builder",
-        "Creation Time":"2024-01-24T08:48:22.657Z",
-        "View Count":257,
-        "Reply Count":2,
-        "Like Count":7,
-        "Link":"https:\/\/community.openai.com\/t\/gpt-store-still-unavailable-for-me-as-a-builder\/599586",
-        "Question":"<p>It\u2019s been quite some time since the GPT marketplace launch announcement.<\/p>\n<p>Yet, I still don\u2019t have access to the marketplace.<br>\n\u201cExplore\u201d button as before gets me to my GPTs and GPTs built by OpenAI.<\/p>\n<p>And looking around, it seems like I am the rare one with no access(<\/p>\n<p>I have been raving about GPTs and general and building them myself for quite some time. And  I am still locked out of the store.<\/p>\n<p>Maybe I am missing something?<br>\nChanging browsers, clearing cash, log-ins log-outs did not help.<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "gpt-store",
-            "store-rollout"
-        ],
-        "Challenge Type":"problem"
-    },
-    {
-        "Title":"Profile verified, GPT public, but still requires Plus to access",
-        "Creation Time":"2024-01-23T01:03:44.464Z",
-        "View Count":77,
-        "Reply Count":0,
-        "Like Count":1,
-        "Link":"https:\/\/community.openai.com\/t\/profile-verified-gpt-public-but-still-requires-plus-to-access\/597690",
-        "Question":"<p>SO, I verified my builder profile, and set the access of my GPT as accessible to everyone. Yet testing on anonymized browser or another browser still shows \u201cRequires ChatGPT Plus\u201d message. Tried to toggle back and forth, unpublish and republish GPT, change browsers, etc. - still the same error.<\/p>",
-        "Accepted Answer":"<p>Use of GPT-4 and use of custom GPTs within ChatGPT requires one to be a subscriber to ChatGPT plus.<\/p>\n<p>Your creation of a GPT link doesn\u2019t let you give out free ChatGPT Plus subscriptions to the world. <img src=\"https:\/\/emoji.discourse-cdn.com\/twitter\/slightly_smiling_face.png?v=12\" title=\":slightly_smiling_face:\" class=\"emoji\" alt=\":slightly_smiling_face:\" loading=\"lazy\" width=\"20\" height=\"20\"><\/p>",
-        "Tags":[
-            "chatgpt-store"
-        ],
-        "Challenge Type":"problem"
-    },
-    {
-        "Title":"Experiences with Adapting Plugins for Bing Chat\/Copilot?",
-        "Creation Time":"2024-01-24T18:34:18.060Z",
-        "View Count":141,
-        "Reply Count":2,
-        "Like Count":11,
-        "Link":"https:\/\/community.openai.com\/t\/experiences-with-adapting-plugins-for-bing-chat-copilot\/600325",
-        "Question":"<p>I began developing a plugin but shifted focus to creating a GPT for the OpenAI GPT store. Now, I\u2019m considering adapting this GPT for use in Bing Chat and Copilot. Has anyone here experienced a similar transition? I\u2019d love to hear about your journey, particularly any challenges or insights you encountered in making your plugin compatible with Bing Chat and Copilot.<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "plugin-development",
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"\u201cBetter Prompt\u201d Custom GPT",
-        "Creation Time":"2024-01-16T04:51:57.758Z",
-        "View Count":445,
-        "Reply Count":0,
-        "Like Count":3,
-        "Link":"https:\/\/community.openai.com\/t\/better-prompt-custom-gpt\/588659",
-        "Question":"<p>I\u2019ve created a custom GPT that uses information gained from peer-reviewed journal articles to improve user prompts.<\/p>\n<p>Are there any prompts you\u2019ve found to be especially helpful in ensuring your prompt generates the best output possible?<\/p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https:\/\/chat.openai.com\/g\/g-r4x5N0I4k-prompt-engineer-and-elevator\">\n  <header class=\"source\">\n      <img src=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/3X\/d\/5\/d5bf693dd40d319b3ee59f6d36a65adce12a8c31.png\" class=\"site-icon\" data-dominant-color=\"98BFB5\" width=\"32\" height=\"32\">\n\n      <a href=\"https:\/\/chat.openai.com\/g\/g-r4x5N0I4k-prompt-engineer-and-elevator\" target=\"_blank\" rel=\"noopener nofollow ugc\">ChatGPT<\/a>\n  <\/header>\n\n  <article class=\"onebox-body\">\n    <img width=\"500\" height=\"500\" src=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/9\/5\/c\/95c22d8f2e63e686d6cf680c0ab8786d7e64b2ab.png\" class=\"thumbnail onebox-avatar\" data-dominant-color=\"424751\">\n\n<h3><a href=\"https:\/\/chat.openai.com\/g\/g-r4x5N0I4k-prompt-engineer-and-elevator\" target=\"_blank\" rel=\"noopener nofollow ugc\">ChatGPT - Prompt Engineer and Elevator<\/a><\/h3>\n\n  <p>Sharpen and refine your queries to unlock the full potential of AI with enhanced precision and clarity.<\/p>\n\n\n  <\/article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  <\/div>\n\n  <div style=\"clear: both\"><\/div>\n<\/aside>\n\n<p><a href=\"https:\/\/chat.openai.com\/g\/g-r4x5N0I4k-prompt-engineer-and-elevator\" rel=\"noopener nofollow ugc\">Prompt Engineer and Elevator<\/a><\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "prompt",
-            "prompt-engineering",
-            "gpt-store",
-            "custom-gpts",
-            "prompting"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"My GPT with Over 5000 Chats Removed from GPT Store Without Explanation: 1.5 Months of Development and Promotion Wasted",
-        "Creation Time":"2024-01-12T18:59:34.650Z",
-        "View Count":2114,
-        "Reply Count":37,
-        "Like Count":85,
-        "Link":"https:\/\/community.openai.com\/t\/my-gpt-with-over-5000-chats-removed-from-gpt-store-without-explanation-1-5-months-of-development-and-promotion-wasted\/584560",
-        "Question":"<p><strong>UPDATE:<\/strong><br>\n<em>My \u2018Video Summarizer AI\u2019 has been reinstated in the GPT Store. Many thanks to the OpenAI team for the quick resolution of its issue, and to everyone who supported me and my GPT during such a difficult moment!<\/em><\/p>\n<hr>\n<hr>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8.png\" data-download-href=\"\/uploads\/short-url\/fRxD0EVvXYjGDiPoxU2WdFFtVW0.png?dl=1\" title=\"Screenshot 2024-01-12 at 02.07.47\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8_2_690x95.png\" alt=\"Screenshot 2024-01-12 at 02.07.47\" data-base62-sha1=\"fRxD0EVvXYjGDiPoxU2WdFFtVW0\" width=\"690\" height=\"95\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8_2_690x95.png, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8_2_1035x142.png 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8_2_1380x190.png 2x\" data-dominant-color=\"F5F5F5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">Screenshot 2024-01-12 at 02.07.47<\/span><span class=\"informations\">1394\u00d7192 25.6 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa.png\" data-download-href=\"\/uploads\/short-url\/hJq0WhdmkGNsa7k4Q4rsHcCEXzQ.png?dl=1\" title=\"Screenshot 2024-01-12 at 21.54.20\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa_2_602x500.png\" alt=\"Screenshot 2024-01-12 at 21.54.20\" data-base62-sha1=\"hJq0WhdmkGNsa7k4Q4rsHcCEXzQ\" width=\"602\" height=\"500\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa_2_602x500.png, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa_2_903x750.png 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa.png 2x\" data-dominant-color=\"F1F5F3\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">Screenshot 2024-01-12 at 21.54.20<\/span><span class=\"informations\">964\u00d7800 51.3 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf.jpeg\" data-download-href=\"\/uploads\/short-url\/vMaXZhHIhn3dqIRGI47kZfZAo5V.jpeg?dl=1\" title=\"Screenshot_2024_01_12_03_14_56_09_96b26121e545231a3c569311a54cda96\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf_2_225x500.jpeg\" alt=\"Screenshot_2024_01_12_03_14_56_09_96b26121e545231a3c569311a54cda96\" data-base62-sha1=\"vMaXZhHIhn3dqIRGI47kZfZAo5V\" width=\"225\" height=\"500\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf_2_225x500.jpeg, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf_2_337x750.jpeg 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf_2_450x1000.jpeg 2x\" data-dominant-color=\"EDEDED\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">Screenshot_2024_01_12_03_14_56_09_96b26121e545231a3c569311a54cda96<\/span><span class=\"informations\">720\u00d71600 174 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>\n<p>For the past one and a half months, I have dedicated myself to developing a GPT called \u201cVideo Summarizer AI\u201d [<a href=\"https:\/\/chat.openai.com\/g\/g-GvcYCKPIH-video-summarizer-ai\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">ChatGPT - Video Summarizer AI<\/a>]. The aim of this GPT was to enhance the learning experience by generating educational summaries from user-submitted videos.<\/p>\n<p>This GPT, with over 5000+ chats, received positive feedback from users, some of whom were highly enthusiastic. It secured the 10th position in the Education category. During this period, I personally handled backend development, testing, user interactions, and user experience improvements. Additionally, I invested my funds in marketing and advertising for this GPT.<\/p>\n<p>Yesterday, I was notified of its removal, without any clear explanation. The message vaguely suggested a potential violation of the Terms of Service or Usage Policies. Consequently, I meticulously reviewed these documents and amended any aspect that could potentially be in breach.<\/p>\n<p>Today, I received a second notice of removal, again without detailed reasoning, merely referencing the same documents I had already examined in depth. Even a lawyer friend of mine found no grounds for violation.<\/p>\n<p>When I received the second notice, I was outside and could only glimpse the message title on my phone, as the message wouldn\u2019t fully load. Later, at home, on my laptop, I discovered there was no detailed reason for the removal. Furthermore, I learned that reinstatement in the GPT Store was not an option, nor was there a way to appeal.<\/p>\n<p>My goal was to be a proactive developer, dedicating resources to development and advancing GPTs on the OpenAI GPT Store. This ambition is now unattainable if my projects are removed without specific justification.<\/p>\n<p>Dear Openai, if the decision is irreversible and not a technical error but a conscious choice, I implore you to enlighten me about any mistakes I may have made. I have earnestly sought clarity, even enlisting legal counsel for a thorough review, yet the reason for this decision remains elusive.<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "gpts",
-            "custom-gpt",
-            "gpt",
-            "gpt-store",
-            "custom-gpts"
-        ],
-        "Challenge Type":"problem"
-    },
-    {
-        "Title":"Future of the GPT store in limbo?",
-        "Creation Time":"2023-11-18T14:17:23.733Z",
-        "View Count":2100,
-        "Reply Count":21,
-        "Like Count":45,
-        "Link":"https:\/\/community.openai.com\/t\/future-of-the-gpt-store-in-limbo\/511668",
-        "Question":"<p>With the recent change in leadership, is anyone else worried about the future of the GPT store and possibility that monetization plans won\u2019t materialize?<\/p>\n<p>The value of spending time building GPTs doesn\u2019t seem as straightforward as it did 24 hours ago.<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "gpt-store",
-            "gpt-development"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"What do I need to do to get access to the GPT store?",
-        "Creation Time":"2024-01-18T22:55:36.745Z",
-        "View Count":449,
-        "Reply Count":4,
-        "Like Count":7,
-        "Link":"https:\/\/community.openai.com\/t\/what-do-i-need-to-do-to-get-access-to-the-gpt-store\/592818",
-        "Question":"<p>I am an OpenAI developer for more than 2 years and also an OpenAI Community Library builder. I built a couple of GPTs last month. Probably my account was created before more than 90% of users. I have GPT Plus and Team subscription from day 1. What do I need to do to get access to GPT store? It was released last week and I still don\u2019t have access. I always receive updates after everyone else. Even my friend created a new account and gained access to the GPT store. I lost the initial advantage of market opening, and I also lost my enthusiasm to build something for it. I don\u2019t think I\u2019m the only one who feels the same way\u2026<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "chatgpt",
-            "chatgpt-store"
-        ],
-        "Challenge Type":"problem"
-    },
-    {
-        "Title":"GPTstore Search Change - step back?",
-        "Creation Time":"2024-01-25T02:25:53.889Z",
-        "View Count":131,
-        "Reply Count":2,
-        "Like Count":6,
-        "Link":"https:\/\/community.openai.com\/t\/gptstore-search-change-step-back\/600782",
-        "Question":"<p>Did anyone notice the change to the relevance of the GPTstore search a few days ago? Appears to be a massive step backwards\u2026<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "store-rollout"
-        ],
-        "Challenge Type":"problem"
-    },
-    {
-        "Title":"GPT Store launch day speculation and guesses!",
-        "Creation Time":"2024-01-09T17:20:04.850Z",
-        "View Count":2257,
-        "Reply Count":27,
-        "Like Count":22,
-        "Link":"https:\/\/community.openai.com\/t\/gpt-store-launch-day-speculation-and-guesses\/579705",
-        "Question":"<p>It\u2019s Tuesday 12:16pm ET and the GPT store hasn\u2019t launched yet. When do you think Open AI will pull the trigger?<\/p>\n<p>My guess is a midweek launch on <strong>Wednesday 10 AM PT<\/strong>!<\/p>\n<p>What are your guesses?<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "chatgpt",
-            "plugin-development",
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"Request for Guidance on GPT Verification for Educational Use Case",
-        "Creation Time":"2023-11-12T01:50:46.288Z",
-        "View Count":310,
-        "Reply Count":0,
-        "Like Count":0,
-        "Link":"https:\/\/community.openai.com\/t\/request-for-guidance-on-gpt-verification-for-educational-use-case\/496123",
-        "Question":"<p>Dear Community,<\/p>\n<p>I hope this message finds you well. I am reaching out to seek your valuable guidance on a matter of great importance to me.<\/p>\n<p>As an individual with no prior coding experience, I have successfully created a  GPT model using GPT builder. This model is designed with a specific use case in mind - to assist students who are preparing for a particular examination. I believe this tool could be a game-changer in the educational landscape, providing much-needed support to our diligent students.<\/p>\n<p>With the anticipated launch of the GPT store at the end of this month, I am eager to feature my GPT model on this platform. However, I am unsure about the verification process for models created using the GPT builder.<\/p>\n<p>Could anyone kindly guide me on how to get my GPT model verified for inclusion in the GPT store? Any advice or direction in this regard would be greatly appreciated.<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "chatgpt",
-            "gpt-builder",
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"What are your hopes for the GPT Store?",
-        "Creation Time":"2023-12-08T08:46:02.410Z",
-        "View Count":2279,
-        "Reply Count":33,
-        "Like Count":53,
-        "Link":"https:\/\/community.openai.com\/t\/what-are-your-hopes-for-the-gpt-store\/549534",
-        "Question":"<p>What are you hoping to see when the GPT Store goes live?<\/p>\n<p>eg:<\/p>\n<blockquote>\n<ul>\n<li>A dynamic and engaging store, not just the same GPTs presented repeatedly, or in the same order.<\/li>\n<li>Increased protection of GPT instructions \/ uploaded files (Ideally 100% protection)<\/li>\n<li>Management of intentional copy-cat spammers.<\/li>\n<li>Usage statistics for GPT developers.<\/li>\n<li>GPT name management - Nothing stopping people copying the most popular GPT names.<\/li>\n<li>User selected store names (Not Visa card name).<\/li>\n<li>Ability to change name after the GPT was created.<\/li>\n<li>Measures to avoid issues like the recent disappearance of uploaded GPT files.<\/li>\n<li>Clear understanding of profit sharing<\/li>\n<li>Easy to navigate the store<\/li>\n<li>Removal of low effort GPT\u2019s that add no real value.<\/li>\n<li>GPTs can be used without rapidly depleting the users AI quota.<\/li>\n<\/ul>\n<\/blockquote>",
-        "Accepted Answer":null,
-        "Tags":[
-            "gpt-store"
-        ],
-        "Challenge Type":"knowledge"
-    },
-    {
-        "Title":"Welcome to GPTs Hunter: The Unofficial GPT Store",
-        "Creation Time":"2023-12-02T04:58:14.069Z",
-        "View Count":9609,
-        "Reply Count":7,
-        "Like Count":7,
-        "Link":"https:\/\/community.openai.com\/t\/welcome-to-gpts-hunter-the-unofficial-gpt-store\/538555",
-        "Question":"<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/f\/6\/3\/f6345b6bcb4a59a58f7b5f63cc03593374859188.jpeg\" data-download-href=\"\/uploads\/short-url\/z81DcFGAqQIWOGXfd7xbm14p8NO.jpeg?dl=1\" title=\"gptshunter\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/f\/6\/3\/f6345b6bcb4a59a58f7b5f63cc03593374859188_2_690x389.jpeg\" alt=\"gptshunter\" data-base62-sha1=\"z81DcFGAqQIWOGXfd7xbm14p8NO\" width=\"690\" height=\"389\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/f\/6\/3\/f6345b6bcb4a59a58f7b5f63cc03593374859188_2_690x389.jpeg, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/f\/6\/3\/f6345b6bcb4a59a58f7b5f63cc03593374859188_2_1035x583.jpeg 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/f\/6\/3\/f6345b6bcb4a59a58f7b5f63cc03593374859188.jpeg 2x\" data-dominant-color=\"F7F6F6\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">gptshunter<\/span><span class=\"informations\">1280\u00d7723 100 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>\n<p>Hello everyone! <img src=\"https:\/\/emoji.discourse-cdn.com\/twitter\/wave.png?v=12\" title=\":wave:\" class=\"emoji\" alt=\":wave:\" loading=\"lazy\" width=\"20\" height=\"20\"><\/p>\n<p>We\u2019re excited to invite you all to explore and contribute to our project, <a href=\"https:\/\/www.gptshunter.com\" rel=\"noopener nofollow ugc\">GPTs Hunter<\/a> - an unofficial GPT store. It\u2019s the first and biggest GPTs directory where the community can come together to share and discover the best GPTs out there.<\/p>\n<h3><a name=\"what-is-gpts-hunter-1\" class=\"anchor\" href=\"#what-is-gpts-hunter-1\"><\/a>What is GPTs Hunter?<\/h3>\n<p>GPTs Hunter is the first and largest database of its kind. We\u2019re on a mission to collect almost all GPTs shared in the public domain. It\u2019s a place where users can easily share, search, and find the best GPTs to use with ChatGPT.<\/p>\n<h3><a name=\"our-journey-so-far-2\" class=\"anchor\" href=\"#our-journey-so-far-2\"><\/a>Our Journey So Far<\/h3>\n<p>Previous post: <a href=\"https:\/\/www.reddit.com\/r\/indiehackers\/comments\/17qv0la\/i_built_an_ugly_but_working_site_to_share_and\/\" rel=\"noopener nofollow ugc\">I built an ugly but working site to share and discover custom GPTs<\/a><\/p>\n<p>Our first version was a bit basic and experienced some lag when dealing with a large number of GPTs. But we\u2019ve been hard at work, and I\u2019m thrilled to announce that a new version is now live!<\/p>\n<h3><a name=\"we-want-your-contributions-3\" class=\"anchor\" href=\"#we-want-your-contributions-3\"><\/a>We Want Your Contributions<\/h3>\n<p>We\u2019re constantly looking to grow and improve, and your contributions are invaluable to us. If you\u2019ve created or come across an interesting GPT, we encourage you to submit it to GPTs Hunter. Let\u2019s build a comprehensive resource together!<\/p>\n<p>Check out <a href=\"https:\/\/www.gptshunter.com\" rel=\"noopener nofollow ugc\">GPTs Hunter<\/a> and dive into the world of GPTs.<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "plugin-development",
-            "gpt-store"
-        ],
-        "Challenge Type":"na"
-    },
-    {
-        "Title":"Can not switch between different domains in builder profile",
-        "Creation Time":"2023-12-04T02:03:46.753Z",
-        "View Count":187,
-        "Reply Count":0,
-        "Like Count":1,
-        "Link":"https:\/\/community.openai.com\/t\/can-not-switch-between-different-domains-in-builder-profile\/541485",
-        "Question":"<p>Everytime I select a different domain in builder profile, it just stays the same.<\/p>\n<p>The bug exists since GPTs came out.<\/p>\n<p>Could you please fix it? <a class=\"mention\" href=\"\/u\/logankilpatrick\">@logankilpatrick<\/a><\/p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6.png\" data-download-href=\"\/uploads\/short-url\/qch9d9rBiDdhWkH0DOZktliAloy.png?dl=1\" title=\"\u622a\u5c4f2023-12-03 21.00.46\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6_2_690x323.png\" alt=\"\u622a\u5c4f2023-12-03 21.00.46\" data-base62-sha1=\"qch9d9rBiDdhWkH0DOZktliAloy\" width=\"690\" height=\"323\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6_2_690x323.png, https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6.png 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6.png 2x\" data-dominant-color=\"D2D2D2\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">\u622a\u5c4f2023-12-03 21.00.46<\/span><span class=\"informations\">874\u00d7410 29.8 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "plugin-development",
-            "chatgpt-plugin",
-            "gpt-store"
-        ],
-        "Challenge Type":"problem"
-    },
-    {
-        "Title":"Friendly Chat GPT! Great for having a friend you can always talk to!",
-        "Creation Time":"2024-01-15T02:48:08.308Z",
-        "View Count":141,
-        "Reply Count":0,
-        "Like Count":0,
-        "Link":"https:\/\/community.openai.com\/t\/friendly-chat-gpt-great-for-having-a-friend-you-can-always-talk-to\/587039",
-        "Question":"<p>Hey guys! So, I just made a pretty cool gpt! It feels like you are talking to friend! Really cool stuff: <a href=\"https:\/\/chat.openai.com\/g\/g-rbBEWcJaw-friendly-chat\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">ChatGPT - Friendly Chat<\/a><\/p>\n<p>Also, does anyone know why the publish to everyone on the store is no longer an option? One of my gpt was on the store, I tried turning into everyone with a link and then everyone back but the option was gone, so its not that I have too many gpts on the store. Anyways, I hope this gpt is useful for someone, its something quite fun to use in my humble opinion!<\/p>",
-        "Accepted Answer":null,
-        "Tags":[
-            "chatgpt",
-            "gpt",
-            "gpt-store"
-        ],
-        "Challenge Type":"na"
+        "Accepted Answer":null
     },
     {
         "Title":"About Apple App Store Rejections",
         "Creation Time":"2023-07-13T17:16:29.181Z",
-        "View Count":402,
+        "View Count":523,
         "Reply Count":0,
         "Like Count":1,
         "Link":"https:\/\/community.openai.com\/t\/about-apple-app-store-rejections\/298101",
-        "Question":"<p>Apple App Store review team now rejects your app directly in the description section of your app, if there is ChatGPT or OpenAI in the screenshots.<\/p>\n<p>In the past, we could write Powered by ChatGPT in the subtitle section. We can no longer write. I think OpenAI talked to Apple to ban this kind of thing after it released its app.<\/p>\n<p>This is very bad. As far as I understand, only OpenAI\u2019s ChatGPT is required on the iOS platform.<\/p>\n<p>Well, good luck.<\/p>",
-        "Accepted Answer":null,
         "Tags":[
             "apple-app-store"
         ],
-        "Challenge Type":"na"
+        "Question":"<p>Apple App Store review team now rejects your app directly in the description section of your app, if there is ChatGPT or OpenAI in the screenshots.<\/p>\n<p>In the past, we could write Powered by ChatGPT in the subtitle section. We can no longer write. I think OpenAI talked to Apple to ban this kind of thing after it released its app.<\/p>\n<p>This is very bad. As far as I understand, only OpenAI\u2019s ChatGPT is required on the iOS platform.<\/p>\n<p>Well, good luck.<\/p>",
+        "Accepted Answer":null
     },
     {
-        "Title":"Where to find GPT store, I can not see it",
-        "Creation Time":"2024-01-11T19:19:21.130Z",
-        "View Count":1606,
-        "Reply Count":10,
-        "Like Count":7,
-        "Link":"https:\/\/community.openai.com\/t\/where-to-find-gpt-store-i-can-not-see-it\/583202",
-        "Question":"<p>I cannot see the GPT store on <a href=\"http:\/\/chat.openai.com\" rel=\"noopener nofollow ugc\">chat.openai.com<\/a>. It still shows the old version, but it has some features like reporting and feedback. Does anyone know if this is a problem I have to contact Openai, or if the store is not yet ready for the EU?<\/p>\n<ul>\n<li>I also have plugin dev access<\/li>\n<\/ul>",
-        "Accepted Answer":"<p>First I take it that you are a ChatGPT Plus subscriber.<\/p>\n<p>Second, the update is occurring as a rollout; it does not happen for everyone at the same time.<\/p>\n<p>This popup appears when you have received the update.  So no need to ferret about looking for access to be hidden somewhere.<\/p>\n<p><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/c\/b\/1\/cb1f0b393dbc6cf6dac97c519c5ddf1fed80ccaa.png\" alt=\"Explore GPTs\" data-base62-sha1=\"sYTr8eB0QYe4No1oGBl0u2Hwoyu\" width=\"638\" height=\"116\"><\/p>",
+        "Title":"Feedback - Discoverability of GPTs Needs Improvement",
+        "Creation Time":"2024-01-13T19:38:28.339Z",
+        "View Count":764,
+        "Reply Count":3,
+        "Like Count":11,
+        "Link":"https:\/\/community.openai.com\/t\/feedback-discoverability-of-gpts-needs-improvement\/585652",
+        "Tags":[
+            "chatgpt",
+            "plugin-development",
+            "gpts",
+            "gpt-store"
+        ],
+        "Question":"<p>Hi OpenAI team,<\/p>\n<p>First off, congrats on the launch of the GPTs store. I think you guys did a great job simplifying what was originally intended in the mockups which is awesome.<\/p>\n<p>My one piece of feedback for the store is I think the discoverability of GPTs is lacking. What I mean by this specifically is currently, only the top 12 GPTs get shown but there are tons of great GPTs that most of us probably have no idea about unless they were directly shared with us. On the current implementation, they are essentially completely hidden which when monetization comes around, essentially is pointless for 99% of the store.<\/p>\n<p>As a suggestion, I would offer one of two things:<\/p>\n<ol>\n<li>\n<p>Simply show us all the GPTs on a different page per category. So for example, say I click on the writing category, I think it would be a simple improvement to have a \u201csee all\u201d button that shows all the GPTs in this category, instead of just 12. From there, you could filter through \u201cmost used\u201d, \u201cnew\u201d etc.<\/p>\n<\/li>\n<li>\n<p>Add recommendations for users. This is of course much harder technically, but would make for a great experience for users. Say something like \u201cSince you used this GPT, you might like this\u201d. This down the road would be awesome.<\/p>\n<\/li>\n<\/ol>\n<p>I love the GPTs store concept and I\u2019d hate for it to get stuck over something like this which seems like a bit of a shortcoming currently. Happy to provide more feedback if wanted.<\/p>\n<p>Thanks again for the great work!<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"GPT Store's New Feature: Link Your Social Media",
+        "Creation Time":"2024-02-23T10:48:09.576Z",
+        "View Count":984,
+        "Reply Count":0,
+        "Like Count":17,
+        "Link":"https:\/\/community.openai.com\/t\/gpt-stores-new-feature-link-your-social-media\/650124",
+        "Tags":[
+            "gpts",
+            "custom-gpts",
+            "gptstore"
+        ],
+        "Question":"<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/c\/d\/a\/cda14407baf47743e93a3b1d0a81724926631345.jpeg\" data-download-href=\"\/uploads\/short-url\/tl5ohHL4TpB7aJ4cMzBqBtimmIR.jpeg?dl=1\" title=\"1111\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/c\/d\/a\/cda14407baf47743e93a3b1d0a81724926631345_2_596x500.jpeg\" alt=\"1111\" data-base62-sha1=\"tl5ohHL4TpB7aJ4cMzBqBtimmIR\" width=\"596\" height=\"500\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/c\/d\/a\/cda14407baf47743e93a3b1d0a81724926631345_2_596x500.jpeg, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/c\/d\/a\/cda14407baf47743e93a3b1d0a81724926631345_2_894x750.jpeg 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/c\/d\/a\/cda14407baf47743e93a3b1d0a81724926631345.jpeg 2x\" data-dominant-color=\"FAFAFA\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">1111<\/span><span class=\"informations\">985\u00d7825 78.3 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>\n<p>I think this is a great feature of GPTs. Through the profile, it should be possible to identify official brands, nice update<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Anyone w\/ pricing experience for Custom GPT listing on GPT Store?",
+        "Creation Time":"2024-03-06T17:33:49.857Z",
+        "View Count":175,
+        "Reply Count":0,
+        "Like Count":0,
+        "Link":"https:\/\/community.openai.com\/t\/anyone-w-pricing-experience-for-custom-gpt-listing-on-gpt-store\/669529",
+        "Tags":[
+            "gpt-store",
+            "marketplace"
+        ],
+        "Question":"<p>Hello!<\/p>\n<p>I\u2019m creating a GPT using a custom dataset that\u2019s pretty large (like 5 GB) that I want to update daily. I cannot find any information on pricing. I know finding and querying a custom GPT requires a Chat GPT Plus sub, but I don\u2019t see if how much it would cost \/ tokens needed for other users to query that dataset.<\/p>\n<p>Can anyone explain this to me? Thanks,<\/p>\n<p>Micah<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"GPT Store still unavailable for me as a builder",
+        "Creation Time":"2024-01-24T08:48:22.657Z",
+        "View Count":720,
+        "Reply Count":2,
+        "Like Count":9,
+        "Link":"https:\/\/community.openai.com\/t\/gpt-store-still-unavailable-for-me-as-a-builder\/599586",
+        "Tags":[
+            "gpt-store",
+            "store-rollout"
+        ],
+        "Question":"<p>It\u2019s been quite some time since the GPT marketplace launch announcement.<\/p>\n<p>Yet, I still don\u2019t have access to the marketplace.<br>\n\u201cExplore\u201d button as before gets me to my GPTs and GPTs built by OpenAI.<\/p>\n<p>And looking around, it seems like I am the rare one with no access(<\/p>\n<p>I have been raving about GPTs and general and building them myself for quite some time. And  I am still locked out of the store.<\/p>\n<p>Maybe I am missing something?<br>\nChanging browsers, clearing cash, log-ins log-outs did not help.<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"GPT Store: A Triumph or a Challenge?",
+        "Creation Time":"2024-01-15T05:02:24.142Z",
+        "View Count":314,
+        "Reply Count":0,
+        "Like Count":0,
+        "Link":"https:\/\/community.openai.com\/t\/gpt-store-a-triumph-or-a-challenge\/587138",
         "Tags":[
             "gpt-store"
         ],
-        "Challenge Type":"problem"
+        "Question":"<p>The official launch of the GPT Store has been announced, boasting an astonishing array of over 300,000 different GPTs.<\/p>\n<p>Is 300,000 a mark of remarkable achievement or a figure of failure?<\/p>\n<p>From an internal KPI perspective, this number is indeed impressive. However, from an external viewpoint, for both developers and users, it seems more like a catastrophe.<\/p>\n<p>Indeed, for humans, choosing between two options is already complex enough, let alone facing 300,000 alternatives. For developers, emerging victorious from a sea of 300,000 competitors is no small feat. In essence, to avoid being trampled in this crowd, it might be wiser to stay away.<\/p>\n<p>The shortest path often turns out to be the longest journey. What seems logical at first might be fraught with pitfalls.<\/p>\n<p>Simply applying the logic of mobile internet to AI doesn\u2019t cut it, not even for OpenAI.<\/p>\n<p>We need better approaches. The opportunity may lie in the hands of OpenAI, or perhaps with others.<\/p>\n<p>I believe the product managers at OpenAI are intelligent individuals, and I\u2019m not here to tell them how to do their jobs.<\/p>\n<p>Still, I have a feeling that GPT possesses vitality, but just like ChatGPT is not merely an app, it\u2019s an entity. The way we access GPT shouldn\u2019t just be through a Store; it too is an entity.<\/p>\n<p>Users don\u2019t want to search for GPTs; they want to engage in conversation, not search.<\/p>\n<p>Developers are looking for more than just prompt engineering; they desire to harness the capabilities of ChatGPT.<\/p>\n<p>In conclusion, I trust that OpenAI will find the right way to integrate these needs!<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"My GPT with Over 5000 Chats Removed from GPT Store Without Explanation: 1.5 Months of Development and Promotion Wasted",
+        "Creation Time":"2024-01-12T18:59:34.650Z",
+        "View Count":3277,
+        "Reply Count":37,
+        "Like Count":89,
+        "Link":"https:\/\/community.openai.com\/t\/my-gpt-with-over-5000-chats-removed-from-gpt-store-without-explanation-1-5-months-of-development-and-promotion-wasted\/584560",
+        "Tags":[
+            "gpts",
+            "custom-gpt",
+            "gpt",
+            "custom-gpts",
+            "gpt-store"
+        ],
+        "Question":"<p><strong>UPDATE:<\/strong><br>\n<em>My \u2018Video Summarizer AI\u2019 has been reinstated in the GPT Store. Many thanks to the OpenAI team for the quick resolution of its issue, and to everyone who supported me and my GPT during such a difficult moment!<\/em><\/p>\n<hr>\n<hr>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8.png\" data-download-href=\"\/uploads\/short-url\/fRxD0EVvXYjGDiPoxU2WdFFtVW0.png?dl=1\" title=\"Screenshot 2024-01-12 at 02.07.47\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8_2_690x95.png\" alt=\"Screenshot 2024-01-12 at 02.07.47\" data-base62-sha1=\"fRxD0EVvXYjGDiPoxU2WdFFtVW0\" width=\"690\" height=\"95\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8_2_690x95.png, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8_2_1035x142.png 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/f\/2\/6f2e090392402e6fcd9ef3dcf148afa2768821b8_2_1380x190.png 2x\" data-dominant-color=\"F5F5F5\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">Screenshot 2024-01-12 at 02.07.47<\/span><span class=\"informations\">1394\u00d7192 25.6 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa.png\" data-download-href=\"\/uploads\/short-url\/hJq0WhdmkGNsa7k4Q4rsHcCEXzQ.png?dl=1\" title=\"Screenshot 2024-01-12 at 21.54.20\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa_2_602x500.png\" alt=\"Screenshot 2024-01-12 at 21.54.20\" data-base62-sha1=\"hJq0WhdmkGNsa7k4Q4rsHcCEXzQ\" width=\"602\" height=\"500\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa_2_602x500.png, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa_2_903x750.png 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/7\/c\/4\/7c4752b0325f5bae529ab58825962187d57785fa.png 2x\" data-dominant-color=\"F1F5F3\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">Screenshot 2024-01-12 at 21.54.20<\/span><span class=\"informations\">964\u00d7800 51.3 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf.jpeg\" data-download-href=\"\/uploads\/short-url\/vMaXZhHIhn3dqIRGI47kZfZAo5V.jpeg?dl=1\" title=\"Screenshot_2024_01_12_03_14_56_09_96b26121e545231a3c569311a54cda96\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf_2_225x500.jpeg\" alt=\"Screenshot_2024_01_12_03_14_56_09_96b26121e545231a3c569311a54cda96\" data-base62-sha1=\"vMaXZhHIhn3dqIRGI47kZfZAo5V\" width=\"225\" height=\"500\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf_2_225x500.jpeg, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf_2_337x750.jpeg 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/d\/e\/b\/deb58ccde12f143628795058d26337dbf3ae9edf_2_450x1000.jpeg 2x\" data-dominant-color=\"EDEDED\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">Screenshot_2024_01_12_03_14_56_09_96b26121e545231a3c569311a54cda96<\/span><span class=\"informations\">720\u00d71600 174 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>\n<p>For the past one and a half months, I have dedicated myself to developing a GPT called \u201cVideo Summarizer AI\u201d [<a href=\"https:\/\/chat.openai.com\/g\/g-GvcYCKPIH-video-summarizer-ai\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">ChatGPT - Video Summarizer AI<\/a>]. The aim of this GPT was to enhance the learning experience by generating educational summaries from user-submitted videos.<\/p>\n<p>This GPT, with over 5000+ chats, received positive feedback from users, some of whom were highly enthusiastic. It secured the 10th position in the Education category. During this period, I personally handled backend development, testing, user interactions, and user experience improvements. Additionally, I invested my funds in marketing and advertising for this GPT.<\/p>\n<p>Yesterday, I was notified of its removal, without any clear explanation. The message vaguely suggested a potential violation of the Terms of Service or Usage Policies. Consequently, I meticulously reviewed these documents and amended any aspect that could potentially be in breach.<\/p>\n<p>Today, I received a second notice of removal, again without detailed reasoning, merely referencing the same documents I had already examined in depth. Even a lawyer friend of mine found no grounds for violation.<\/p>\n<p>When I received the second notice, I was outside and could only glimpse the message title on my phone, as the message wouldn\u2019t fully load. Later, at home, on my laptop, I discovered there was no detailed reason for the removal. Furthermore, I learned that reinstatement in the GPT Store was not an option, nor was there a way to appeal.<\/p>\n<p>My goal was to be a proactive developer, dedicating resources to development and advancing GPTs on the OpenAI GPT Store. This ambition is now unattainable if my projects are removed without specific justification.<\/p>\n<p>Dear Openai, if the decision is irreversible and not a technical error but a conscious choice, I implore you to enlighten me about any mistakes I may have made. I have earnestly sought clarity, even enlisting legal counsel for a thorough review, yet the reason for this decision remains elusive.<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Daily back up of GPT Store's trending data",
+        "Creation Time":"2024-01-31T05:10:29.291Z",
+        "View Count":210,
+        "Reply Count":0,
+        "Like Count":1,
+        "Link":"https:\/\/community.openai.com\/t\/daily-back-up-of-gpt-stores-trending-data\/608375",
+        "Tags":[
+            "chatgpt",
+            "gptstore"
+        ],
+        "Question":"<p><a href=\"https:\/\/github.com\/AINativeLab\/gptstore-data-backup\" rel=\"noopener nofollow ugc\">https:\/\/github.com\/AINativeLab\/gptstore-data-backup<\/a><\/p>\n<p>We\u2019ve launched a project that scrapes and archives data from the official GPT Store every day.<\/p>\n<p>Looking for specific data? Let us know your needs by opening an issue.<\/p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/a\/f\/4\/af4dd35a92a5e3a8cd7605cb0a2994fc548ba3c7.png\" data-download-href=\"\/uploads\/short-url\/p0Oita7kefKCejihSTCbPwzeGWj.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/a\/f\/4\/af4dd35a92a5e3a8cd7605cb0a2994fc548ba3c7_2_457x500.png\" alt=\"image\" data-base62-sha1=\"p0Oita7kefKCejihSTCbPwzeGWj\" width=\"457\" height=\"500\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/a\/f\/4\/af4dd35a92a5e3a8cd7605cb0a2994fc548ba3c7_2_457x500.png, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/a\/f\/4\/af4dd35a92a5e3a8cd7605cb0a2994fc548ba3c7_2_685x750.png 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/a\/f\/4\/af4dd35a92a5e3a8cd7605cb0a2994fc548ba3c7_2_914x1000.png 2x\" data-dominant-color=\"F8F8F8\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">image<\/span><span class=\"informations\">1480\u00d71616 237 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"GPT Store Release and Verified Builder Criteria",
+        "Creation Time":"2023-12-20T03:29:18.927Z",
+        "View Count":1880,
+        "Reply Count":0,
+        "Like Count":3,
+        "Link":"https:\/\/community.openai.com\/t\/gpt-store-release-and-verified-builder-criteria\/565682",
+        "Tags":[
+            "gpt-builder",
+            "gpt-store"
+        ],
+        "Question":"<p>Hi! I was wondering if anyone knew any updates about the GPT store. Also does anyone know what the criteria is to become a verified builder?<\/p>\n<p>Thanks!<\/p>",
+        "Accepted Answer":null
     },
     {
         "Title":"Getting 404 error when trying to publish my GPT to the store",
         "Creation Time":"2023-11-19T04:42:28.363Z",
-        "View Count":491,
+        "View Count":684,
         "Reply Count":8,
         "Like Count":6,
         "Link":"https:\/\/community.openai.com\/t\/getting-404-error-when-trying-to-publish-my-gpt-to-the-store\/512552",
-        "Question":"<p>I\u2019ve built my first GPT and want to publish it to the store. I\u2019ve made it public, verified my domain, submitted a link to it in the GPT store and got a Submit successful response. The pop-up said that my GPT will be listed within 5 to 10 minutes and gave me a store URL for my GPT. However the store link returns 404 error and it\u2019s been many hours since I\u2019ve submitted it. I\u2019ve tried resubmitting it multiple times and get the same 404 error and the store doesn\u2019t index my GPT as well.<\/p>\n<p>Am i doing something wrong?<\/p>",
-        "Accepted Answer":null,
         "Tags":[
             "gpt-4",
             "mygpts",
             "gpt-store"
         ],
-        "Challenge Type":"problem"
+        "Question":"<p>I\u2019ve built my first GPT and want to publish it to the store. I\u2019ve made it public, verified my domain, submitted a link to it in the GPT store and got a Submit successful response. The pop-up said that my GPT will be listed within 5 to 10 minutes and gave me a store URL for my GPT. However the store link returns 404 error and it\u2019s been many hours since I\u2019ve submitted it. I\u2019ve tried resubmitting it multiple times and get the same 404 error and the store doesn\u2019t index my GPT as well.<\/p>\n<p>Am i doing something wrong?<\/p>",
+        "Accepted Answer":null
     },
     {
-        "Title":"App Removed from GPT Store",
-        "Creation Time":"2024-01-11T19:06:33.542Z",
-        "View Count":206,
-        "Reply Count":2,
-        "Like Count":0,
-        "Link":"https:\/\/community.openai.com\/t\/app-removed-from-gpt-store\/583194",
-        "Question":"<p>Had my app removed from the GPT Store without any notice - after 700+ chats. No chance for me to make changes or alterations. Anyone else experience this? How do you appeal?<\/p>\n<p>This was my app: <a href=\"https:\/\/chat.openai.com\/g\/g-FjiRmCEVx-virtual-sweetheart\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">ChatGPT - Virtual Sweetheart<\/a><\/p>",
-        "Accepted Answer":null,
+        "Title":"The GPT store is live today!",
+        "Creation Time":"2024-01-10T17:23:45.113Z",
+        "View Count":7862,
+        "Reply Count":19,
+        "Like Count":80,
+        "Link":"https:\/\/community.openai.com\/t\/the-gpt-store-is-live-today\/581170",
         "Tags":[
             "chatgpt",
+            "in-the-news",
+            "store-rollout"
+        ],
+        "Question":"<p>The OpenAI blog has been updated!<\/p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https:\/\/openai.com\/blog\/introducing-the-gpt-store\">\n  <header class=\"source\">\n\n      <a href=\"https:\/\/openai.com\/blog\/introducing-the-gpt-store\" target=\"_blank\" rel=\"noopener\">openai.com<\/a>\n  <\/header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:690\/387;\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/3\/e\/2\/3e2e26c4be26675d0e2ef62fec6a4b17c7198d75_2_690x387.png\" class=\"thumbnail\" data-dominant-color=\"EAEAEA\" width=\"690\" height=\"387\"><\/div>\n\n<h3><a href=\"https:\/\/openai.com\/blog\/introducing-the-gpt-store\" target=\"_blank\" rel=\"noopener\">Introducing the GPT Store<\/a><\/h3>\n\n  <p>We\u2019re launching the GPT Store to help you find useful and popular custom versions of ChatGPT.<\/p>\n\n\n  <\/article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  <\/div>\n\n  <div style=\"clear: both\"><\/div>\n<\/aside>\n\n<p>Summary by ChatGPT-4:<\/p>\n<p><strong>Summary of the Blog Post<\/strong>:<\/p>\n<ul>\n<li><strong>Introduction of GPT Store<\/strong>: Two months after announcing GPTs, OpenAI is launching the GPT Store for ChatGPT Plus, Team, and Enterprise users. This store allows users to access over 3 million custom ChatGPT versions created by users and shared for public use.<\/li>\n<li><strong>Store Features<\/strong>: The store showcases a diverse range of GPTs developed by partners and the community. It includes a leaderboard with categories like DALL\u00b7E, writing, research, programming, education, and lifestyle. New featured GPTs will be highlighted weekly, including tools for trail recommendations, academic paper search, coding tutorials, design tools, book recommendations, and math and science tutoring.<\/li>\n<li><strong>GPT Submission Process<\/strong>: Users can build their own GPTs without coding skills and share them in the store. This requires saving the GPT for everyone and verifying the Builder Profile. GPTs must comply with usage policies and brand guidelines, and they undergo a review process for adherence to policies.<\/li>\n<li><strong>Revenue Program for Builders<\/strong>: A revenue program for GPT builders is planned, starting in the US. Builders will earn based on user engagement with their GPTs, with details to be provided later.<\/li>\n<li><strong>Team and Enterprise Features<\/strong>: The new ChatGPT Team plan offers access to a private section of the GPT Store with secure GPT publishing. Enhanced admin controls for Enterprise customers are also mentioned, including management of internal and external GPTs. Conversations with GPTs are not used to improve models in Team and Enterprise plans.<\/li>\n<\/ul>\n<p>This summary captures the key developments and features of the new GPT Store, emphasizing its scope, user engagement, and compliance aspects.<\/p>\n<hr>\n<p>Looking forward to everybody\u2019s first experiences!<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Where to find GPT store, I can not see it",
+        "Creation Time":"2024-01-11T19:19:21.130Z",
+        "View Count":3145,
+        "Reply Count":10,
+        "Like Count":10,
+        "Link":"https:\/\/community.openai.com\/t\/where-to-find-gpt-store-i-can-not-see-it\/583202",
+        "Tags":[
+            "gpt-store",
+            "store-rollout"
+        ],
+        "Question":"<p>I cannot see the GPT store on <a href=\"http:\/\/chat.openai.com\" rel=\"noopener nofollow ugc\">chat.openai.com<\/a>. It still shows the old version, but it has some features like reporting and feedback. Does anyone know if this is a problem I have to contact Openai, or if the store is not yet ready for the EU?<\/p>\n<ul>\n<li>I also have plugin dev access<\/li>\n<\/ul>",
+        "Accepted Answer":"<p>First I take it that you are a ChatGPT Plus subscriber.<\/p>\n<p>Second, the update is occurring as a rollout; it does not happen for everyone at the same time.<\/p>\n<p>This popup appears when you have received the update.  So no need to ferret about looking for access to be hidden somewhere.<\/p>\n<p><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/c\/b\/1\/cb1f0b393dbc6cf6dac97c519c5ddf1fed80ccaa.png\" alt=\"Explore GPTs\" data-base62-sha1=\"sYTr8eB0QYe4No1oGBl0u2Hwoyu\" width=\"638\" height=\"116\"><\/p>"
+    },
+    {
+        "Title":"Making your custom GPT's output most consistant",
+        "Creation Time":"2024-03-25T08:21:00.432Z",
+        "View Count":112,
+        "Reply Count":1,
+        "Like Count":1,
+        "Link":"https:\/\/community.openai.com\/t\/making-your-custom-gpts-output-most-consistant\/696404",
+        "Tags":[
+            "gptstore"
+        ],
+        "Question":"<p>Hi Guys!<\/p>\n<p>I love developing customized GPTs, and I\u2019ve successfully built a collection of design tool GPTs that have been well-received. Despite their success, users frequently report problems, particularly with my Mood Board Creator GPT, which on occasion fails to produce images\u2014a critical function. I\u2019ve addressed this by fine-tuning in the edit-create section, but the problem persists. How can I prevent this issue from recurring?<\/p>\n<p>Thanks!<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Request for Guidance on GPT Verification for Educational Use Case",
+        "Creation Time":"2023-11-12T01:50:46.288Z",
+        "View Count":499,
+        "Reply Count":0,
+        "Like Count":0,
+        "Link":"https:\/\/community.openai.com\/t\/request-for-guidance-on-gpt-verification-for-educational-use-case\/496123",
+        "Tags":[
+            "chatgpt",
+            "gpt-builder",
             "gpt-store"
         ],
-        "Challenge Type":"problem"
+        "Question":"<p>Dear Community,<\/p>\n<p>I hope this message finds you well. I am reaching out to seek your valuable guidance on a matter of great importance to me.<\/p>\n<p>As an individual with no prior coding experience, I have successfully created a  GPT model using GPT builder. This model is designed with a specific use case in mind - to assist students who are preparing for a particular examination. I believe this tool could be a game-changer in the educational landscape, providing much-needed support to our diligent students.<\/p>\n<p>With the anticipated launch of the GPT store at the end of this month, I am eager to feature my GPT model on this platform. However, I am unsure about the verification process for models created using the GPT builder.<\/p>\n<p>Could anyone kindly guide me on how to get my GPT model verified for inclusion in the GPT store? Any advice or direction in this regard would be greatly appreciated.<\/p>",
+        "Accepted Answer":null
     },
     {
         "Title":"What does \"Global View\" feature do in \"GPT Store\"?",
         "Creation Time":"2024-01-11T09:24:29.536Z",
-        "View Count":859,
+        "View Count":1926,
         "Reply Count":3,
         "Like Count":7,
         "Link":"https:\/\/community.openai.com\/t\/what-does-global-view-feature-do-in-gpt-store\/582262",
-        "Question":"<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9.jpeg\" data-download-href=\"\/uploads\/short-url\/e9a6Lqstn4FUrCXmWlMCog244s1.jpeg?dl=1\" title=\"Screenshot 2024-01-11 at 11.53.38\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9_2_690x464.jpeg\" alt=\"Screenshot 2024-01-11 at 11.53.38\" data-base62-sha1=\"e9a6Lqstn4FUrCXmWlMCog244s1\" width=\"690\" height=\"464\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9_2_690x464.jpeg, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9_2_1035x696.jpeg 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9_2_1380x928.jpeg 2x\" data-dominant-color=\"F6F6F6\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">Screenshot 2024-01-11 at 11.53.38<\/span><span class=\"informations\">2416\u00d71628 238 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>\n<p>I\u2019ve noticed that when \u201cGlobal View\u201d in the GPT Store is set to \u201cOff,\u201d it hides many GPTs from the category lists. Initially, I thought it filtered GPTs by language, but then I realized it also filters out GPTs that have names and descriptions in the user\u2019s language, which disproved my hypothesis.<\/p>\n<p>I\u2019m wondering, what does this feature do, and what is its purpose? If someone has knowledge about it, could you please share your insights or hypotheses and make it more clear what this feature does? It would be greatly appreciated if someone from the OpenAI staff could provide information about this feature and its intended use.<\/p>\n<p>CC: <a class=\"mention\" href=\"\/u\/eric43\">@eric43<\/a><br>\nI saw in another thread [<a href=\"https:\/\/community.openai.com\/t\/the-gpt-store-is-live-today\/581170\/\" class=\"inline-onebox\">The GPT store is live today!<\/a>] that you are also interested in what this feature does, so I tagged you to follow this topic.<\/p>",
-        "Accepted Answer":null,
         "Tags":[
             "gpts",
             "bug",
             "gpt",
             "gpt-store"
         ],
-        "Challenge Type":"knowledge"
+        "Question":"<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9.jpeg\" data-download-href=\"\/uploads\/short-url\/e9a6Lqstn4FUrCXmWlMCog244s1.jpeg?dl=1\" title=\"Screenshot 2024-01-11 at 11.53.38\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9_2_690x464.jpeg\" alt=\"Screenshot 2024-01-11 at 11.53.38\" data-base62-sha1=\"e9a6Lqstn4FUrCXmWlMCog244s1\" width=\"690\" height=\"464\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9_2_690x464.jpeg, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9_2_1035x696.jpeg 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/6\/3\/2\/6327993ba8ab0f7fe48a9a6b1af747ddb9693dd9_2_1380x928.jpeg 2x\" data-dominant-color=\"F6F6F6\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">Screenshot 2024-01-11 at 11.53.38<\/span><span class=\"informations\">2416\u00d71628 238 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>\n<p>I\u2019ve noticed that when \u201cGlobal View\u201d in the GPT Store is set to \u201cOff,\u201d it hides many GPTs from the category lists. Initially, I thought it filtered GPTs by language, but then I realized it also filters out GPTs that have names and descriptions in the user\u2019s language, which disproved my hypothesis.<\/p>\n<p>I\u2019m wondering, what does this feature do, and what is its purpose? If someone has knowledge about it, could you please share your insights or hypotheses and make it more clear what this feature does? It would be greatly appreciated if someone from the OpenAI staff could provide information about this feature and its intended use.<\/p>\n<p>CC: <a class=\"mention\" href=\"\/u\/eric43\">@eric43<\/a><br>\nI saw in another thread [<a href=\"https:\/\/community.openai.com\/t\/the-gpt-store-is-live-today\/581170\/\" class=\"inline-onebox\">The GPT store is live today!<\/a>] that you are also interested in what this feature does, so I tagged you to follow this topic.<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"What do I need to do to get access to the GPT store?",
+        "Creation Time":"2024-01-18T22:55:36.745Z",
+        "View Count":1146,
+        "Reply Count":6,
+        "Like Count":11,
+        "Link":"https:\/\/community.openai.com\/t\/what-do-i-need-to-do-to-get-access-to-the-gpt-store\/592818",
+        "Tags":[
+            "chatgpt",
+            "store-rollout",
+            "chatgpt-store"
+        ],
+        "Question":"<p>I am an OpenAI developer for more than 2 years and also an OpenAI Community Library builder. I built a couple of GPTs last month. Probably my account was created before more than 90% of users. I have GPT Plus and Team subscription from day 1. What do I need to do to get access to GPT store? It was released last week and I still don\u2019t have access. I always receive updates after everyone else. Even my friend created a new account and gained access to the GPT store. I lost the initial advantage of market opening, and I also lost my enthusiasm to build something for it. I don\u2019t think I\u2019m the only one who feels the same way\u2026<\/p>",
+        "Accepted Answer":"<p>You just need to wait. It\u2019s a staged roll-out and it just hasn\u2019t hit your account yet.<\/p>"
+    },
+    {
+        "Title":"When will GPT Store be launched?",
+        "Creation Time":"2023-11-30T22:50:12.547Z",
+        "View Count":1994,
+        "Reply Count":3,
+        "Like Count":10,
+        "Link":"https:\/\/community.openai.com\/t\/when-will-gpt-store-be-launched\/536475",
+        "Tags":[
+            "chatgpt",
+            "gpts",
+            "store-rollout"
+        ],
+        "Question":"<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https:\/\/openai.com\/blog\/introducing-gpts\">\n  <header class=\"source\">\n\n      <a href=\"https:\/\/openai.com\/blog\/introducing-gpts\" target=\"_blank\" rel=\"noopener nofollow ugc\">openai.com<\/a>\n  <\/header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:690\/387;\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/3X\/5\/d\/5dad629172110b99a9e1fa43884389adc3a8e331_2_690x387.png\" class=\"thumbnail\" data-dominant-color=\"CFD5C3\" width=\"690\" height=\"387\"><\/div>\n\n<h3><a href=\"https:\/\/openai.com\/blog\/introducing-gpts\" target=\"_blank\" rel=\"noopener nofollow ugc\">Introducing GPTs<\/a><\/h3>\n\n  <p>You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.<\/p>\n\n\n  <\/article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  <\/div>\n\n  <div style=\"clear: both\"><\/div>\n<\/aside>\n<p>\nThis blog says \u201cLater this month, we\u2019re launching the GPT Store, featuring creations by verified builders.\u201d<\/p>",
+        "Accepted Answer":"<p>The GPT store was launched today, it will roll out to all GPT+ subscribers.<\/p>"
+    },
+    {
+        "Title":"Is the gptstore.ai website official from OpenAI?",
+        "Creation Time":"2024-01-08T16:57:57.480Z",
+        "View Count":1050,
+        "Reply Count":0,
+        "Like Count":1,
+        "Link":"https:\/\/community.openai.com\/t\/is-the-gptstore-ai-website-official-from-openai\/578776",
+        "Tags":[
+            "gpt-store"
+        ],
+        "Question":"<p>This site is working and quite popular but there seems to be something wrong with it. Is it official or not?<\/p>",
+        "Accepted Answer":"<p>I can confirm that gptstore.ai is <strong>NOT<\/strong> official.<\/p>"
+    },
+    {
+        "Title":"What's up with GPT Stores - does it exist?",
+        "Creation Time":"2024-02-25T13:15:31.073Z",
+        "View Count":164,
+        "Reply Count":0,
+        "Like Count":0,
+        "Link":"https:\/\/community.openai.com\/t\/whats-up-with-gpt-stores-does-it-exist\/653604",
+        "Tags":[
+            "gpt-store"
+        ],
+        "Question":"<p>Sorry, I\u2019m confused. I have two GPTs and wanted to understand how the store works. But I can\u2019t find it, nor can I find a way to put it. Does it exist?  If so:<br>\n***  what is a public URL to get there?<br>\n***  I have a builders account, I hope but it is unclear after I did the update under Settings.<br>\n*** Is it that Open AI doesn\u2019t want to compete with their own partners who are building stores?<br>\nCan someone help get my arms around this?<br>\nThanks in advance<br>\n.<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"My GPT is not appearing at the top of all search results for the word \"video\"",
+        "Creation Time":"2024-02-13T11:48:10.352Z",
+        "View Count":250,
+        "Reply Count":3,
+        "Like Count":2,
+        "Link":"https:\/\/community.openai.com\/t\/my-gpt-is-not-appearing-at-the-top-of-all-search-results-for-the-word-video\/624560",
+        "Tags":[
+            "gpts",
+            "custom-gpt",
+            "gpt",
+            "gpt-store"
+        ],
+        "Question":"<p>I was informed by my user that my GPT \u2018Video Summarizer\u2019 no longer appears in the search results when the search query is \u2018video\u2019. Here is the link to my GPT:<\/p>\n<p>Additionally, my user provided me with a screenshot indicating the difficulty they encountered in finding my GPT in the search. Previously, my \u2018Video Summarizer\u2019 GPT was in the first position for this search, but it is no longer displayed, rendering it unfindable by users:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/9\/7\/4\/974f239cdcec573da6ac0a59e261a508b08780bc.jpeg\" data-download-href=\"\/uploads\/short-url\/lAxEtnrTexDBistz2UstdtK9v2c.jpeg?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/9\/7\/4\/974f239cdcec573da6ac0a59e261a508b08780bc_2_230x500.jpeg\" alt=\"image\" data-base62-sha1=\"lAxEtnrTexDBistz2UstdtK9v2c\" width=\"230\" height=\"500\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/9\/7\/4\/974f239cdcec573da6ac0a59e261a508b08780bc_2_230x500.jpeg, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/9\/7\/4\/974f239cdcec573da6ac0a59e261a508b08780bc_2_345x750.jpeg 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/9\/7\/4\/974f239cdcec573da6ac0a59e261a508b08780bc_2_460x1000.jpeg 2x\" data-dominant-color=\"EBECED\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">image<\/span><span class=\"informations\">591\u00d71280 81.9 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>\n<p>Why did this happen? My GPT is among the most popular in the GPT Store, with more than 50,000 chats, yet it is hidden from GPT Store search results. It appears to be a bug. I kindly request the OpenAI team to address this issue.<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"App Removed from GPT Store",
+        "Creation Time":"2024-01-11T19:06:33.542Z",
+        "View Count":363,
+        "Reply Count":2,
+        "Like Count":0,
+        "Link":"https:\/\/community.openai.com\/t\/app-removed-from-gpt-store\/583194",
+        "Tags":[
+            "chatgpt",
+            "gpt-store"
+        ],
+        "Question":"<p>Had my app removed from the GPT Store without any notice - after 700+ chats. No chance for me to make changes or alterations. Anyone else experience this? How do you appeal?<\/p>\n<p>This was my app: <a href=\"https:\/\/chat.openai.com\/g\/g-FjiRmCEVx-virtual-sweetheart\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">ChatGPT - Virtual Sweetheart<\/a><\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Any stats on GPT Store? And total GPTs made?",
+        "Creation Time":"2024-03-01T00:16:38.753Z",
+        "View Count":192,
+        "Reply Count":0,
+        "Like Count":1,
+        "Link":"https:\/\/community.openai.com\/t\/any-stats-on-gpt-store-and-total-gpts-made\/660989",
+        "Tags":[
+            "gptstore"
+        ],
+        "Question":"<p>I am wondering where I can find stats on GPTs and how many have been made, how much they\u2019ve been used, etc. I found <a href=\"https:\/\/community.openai.com\/t\/gpts-stats-numbers-traffic-categories\/598412\/2\">this thread<\/a> but it didn\u2019t have any stats.<\/p>\n<p>I am curious to know how much appetite there is to create GPTs and even more importantly to use GPTs.<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Profit Sharing Policy with OpenAI for Custom GPT-based Browser Extensions",
+        "Creation Time":"2023-12-12T15:58:02.573Z",
+        "View Count":1665,
+        "Reply Count":9,
+        "Like Count":6,
+        "Link":"https:\/\/community.openai.com\/t\/profit-sharing-policy-with-openai-for-custom-gpt-based-browser-extensions\/555667",
+        "Tags":[
+            "gpt-store"
+        ],
+        "Question":"<p>Hello Community,<\/p>\n<p>I\u2019m in the process of developing a web browser extension that integrates a custom GPT-model assistant, which I have designed using FastAPI to encapsulate the <em>business logic<\/em> on the server side. For this setup, I plan to require users to provide their own API keys as the only form of authentication.<\/p>\n<p>My question pertains to the financial aspect of this arrangement with OpenAI:<\/p>\n<ul>\n<li>Does OpenAI have a policy for sharing profits in scenarios where third-party applications like mine are used? i.e Will they provide x% of the revenue to the creator of the assistant_id generated by user_id?<\/li>\n<\/ul>\n<p>Best,<br>\nAndy<\/p>",
+        "Accepted Answer":"<aside class=\"quote no-group\" data-username=\"disco-dragon\" data-post=\"6\" data-topic=\"555667\">\n<div class=\"title\">\n<div class=\"quote-controls\"><\/div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https:\/\/avatars.discourse-cdn.com\/v4\/letter\/d\/9de0a6\/48.png\" class=\"avatar\"> disco-dragon:<\/div>\n<blockquote>\n<p>90% for them 10% for me<\/p>\n<\/blockquote>\n<\/aside>\n<p>and that is exactly the point where it makes sense for you to capture all the value and pay the cost to OpenAI. That way the potential profit is a lot larger.<\/p>\n<p>But then again your approach is something they could consider as well. But to be honest I would be very surprised if they present their store that way. It\u2019s really out-of-the-box.<\/p>\n<p>Ultimately, using the API you can proceed with your project in a matter of a few days. Setting up the required processes is quite simple actually.<\/p>"
+    },
+    {
+        "Title":"Profile verified, GPT public, but still requires Plus to access",
+        "Creation Time":"2024-01-23T01:03:44.464Z",
+        "View Count":252,
+        "Reply Count":0,
+        "Like Count":1,
+        "Link":"https:\/\/community.openai.com\/t\/profile-verified-gpt-public-but-still-requires-plus-to-access\/597690",
+        "Tags":[
+            "chatgpt-store"
+        ],
+        "Question":"<p>SO, I verified my builder profile, and set the access of my GPT as accessible to everyone. Yet testing on anonymized browser or another browser still shows \u201cRequires ChatGPT Plus\u201d message. Tried to toggle back and forth, unpublish and republish GPT, change browsers, etc. - still the same error.<\/p>",
+        "Accepted Answer":"<p>Use of GPT-4 and use of custom GPTs within ChatGPT requires one to be a subscriber to ChatGPT plus.<\/p>\n<p>Your creation of a GPT link doesn\u2019t let you give out free ChatGPT Plus subscriptions to the world. <img src=\"https:\/\/emoji.discourse-cdn.com\/twitter\/slightly_smiling_face.png?v=12\" title=\":slightly_smiling_face:\" class=\"emoji\" alt=\":slightly_smiling_face:\" loading=\"lazy\" width=\"20\" height=\"20\"><\/p>"
+    },
+    {
+        "Title":"Future of the GPT store in limbo?",
+        "Creation Time":"2023-11-18T14:17:23.733Z",
+        "View Count":2564,
+        "Reply Count":21,
+        "Like Count":45,
+        "Link":"https:\/\/community.openai.com\/t\/future-of-the-gpt-store-in-limbo\/511668",
+        "Tags":[
+            "gpt-store",
+            "gpt-development"
+        ],
+        "Question":"<p>With the recent change in leadership, is anyone else worried about the future of the GPT store and possibility that monetization plans won\u2019t materialize?<\/p>\n<p>The value of spending time building GPTs doesn\u2019t seem as straightforward as it did 24 hours ago.<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"GPTs Now Have Ratings and Direct Feedback for the Creator",
+        "Creation Time":"2024-02-22T20:56:26.130Z",
+        "View Count":323,
+        "Reply Count":0,
+        "Like Count":3,
+        "Link":"https:\/\/community.openai.com\/t\/gpts-now-have-ratings-and-direct-feedback-for-the-creator\/648986",
+        "Tags":[
+            "gpts",
+            "gpt-store"
+        ],
+        "Question":"<aside class=\"onebox twitterstatus\" data-onebox-src=\"https:\/\/twitter.com\/OpenAI\/status\/1760744928844599572?s=20\">\n  <header class=\"source\">\n\n      <a href=\"https:\/\/twitter.com\/OpenAI\/status\/1760744928844599572?s=20\" target=\"_blank\" rel=\"noopener nofollow ugc\">twitter.com<\/a>\n  <\/header>\n\n  <article class=\"onebox-body\">\n    <img src=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/3X\/7\/c\/7c808fd35e0c2d5957fae1d186d1c0ae6ee8d359.jpeg\" class=\"thumbnail onebox-avatar\" data-dominant-color=\"CFCFCF\" width=\"48\" height=\"48\">\n<h4><a href=\"https:\/\/twitter.com\/OpenAI\/status\/1760744928844599572?s=20\" target=\"_blank\" rel=\"noopener nofollow ugc\">OpenAI<\/a><\/h4>\n<div class=\"twitter-screen-name\"><a href=\"https:\/\/twitter.com\/OpenAI\/status\/1760744928844599572?s=20\" target=\"_blank\" rel=\"noopener nofollow ugc\">@OpenAI<\/a><\/div>\n\n<div class=\"tweet\">\n    <span class=\"is-reply\">\n      <svg class=\"fa d-icon d-icon-reply svg-icon svg-string\"><use href=\"#reply\"><\/use><\/svg>\n    <\/span>\n  <span class=\"tweet-description\">GPTs \u2018About\u2019 section can now include:\n\n\u2219 Builder social profiles\n\u2219 Ratings\n\u2219 Categories\n\u2219 # of conversations\n\u2219 Conversation starters\n\u2219 Other GPTs by the builder<div class=\"tweet-images\">\n  <div class=\"aspect-image-full-size\" style=\"--aspect-ratio:1688\/1078;\">\n    <video class=\"tweet-video\" playsinline=\"\" loop=\"\" muted=\"\" autoplay=\"\" width=\"695\" height=\"443\" poster=\"https:\/\/pbs.twimg.com\/tweet_video_thumb\/GG9sHk_WIAAdtlc.jpg\">\n      <source src=\"https:\/\/video.twimg.com\/tweet_video\/GG9sHk_WIAAdtlc.mp4\" type=\"video\/mp4\">\n    <\/video>\n  <\/div>\n<\/div><\/span>\n<\/div>\n\n<div class=\"date\">\n  <a href=\"https:\/\/twitter.com\/OpenAI\/status\/1760744928844599572?s=20\" class=\"timestamp\" target=\"_blank\" rel=\"noopener nofollow ugc\">7:14 PM - 22 Feb 2024<\/a>\n\n    <span class=\"like\">\n      <svg viewBox=\"0 0 512 512\" width=\"14px\" height=\"16px\" aria-hidden=\"true\">\n        <path d=\"M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z\"><\/path>\n      <\/svg>\n      190\n    <\/span>\n\n    <span class=\"retweet\">\n      <svg viewBox=\"0 0 640 512\" width=\"14px\" height=\"16px\" aria-hidden=\"true\">\n        <path d=\"M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z\"><\/path>\n      <\/svg>\n      30\n    <\/span>\n<\/div>\n\n  <\/article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  <\/div>\n\n  <div style=\"clear: both\"><\/div>\n<\/aside>\n\n<p>The ratings are stars out of Five. You can also now see other GPTs made by that creator.<\/p>\n<p>These are some nice improvements!<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"API Call to a specific customer-made GPT",
+        "Creation Time":"2024-01-28T15:18:08.781Z",
+        "View Count":351,
+        "Reply Count":0,
+        "Like Count":0,
+        "Link":"https:\/\/community.openai.com\/t\/api-call-to-a-specific-customer-made-gpt\/604942",
+        "Tags":[
+            "gpt-store"
+        ],
+        "Question":"<p>Hi,<br>\nI built some GPTs, and gave them a bunch of information, including some files upload (for example, with content for FAQ in a website).<br>\nNow, I want to do an API call to that specific GPT (for whatever reason - I want my employees to go to our website for the responses, and not go to the GPT store, so I can monitor usage).<br>\nIs there a way to do an API call to a specific GPT? have its model \/ ID and add it as an input in the API call?<br>\nFYI - I am not a developer and do not have coding experience (I am working off no-code \/ low-code bases, specifically here, using Webflow and Wized for the API calls).<br>\nThanks in advance!<br>\nDori<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"What are your hopes for the GPT Store?",
+        "Creation Time":"2023-12-08T08:46:02.410Z",
+        "View Count":2832,
+        "Reply Count":34,
+        "Like Count":56,
+        "Link":"https:\/\/community.openai.com\/t\/what-are-your-hopes-for-the-gpt-store\/549534",
+        "Tags":[
+            "gpt-store"
+        ],
+        "Question":"<p>What are you hoping to see when the GPT Store goes live?<\/p>\n<p>eg:<\/p>\n<blockquote>\n<ul>\n<li>A dynamic and engaging store, not just the same GPTs presented repeatedly, or in the same order.<\/li>\n<li>Increased protection of GPT instructions \/ uploaded files (Ideally 100% protection)<\/li>\n<li>Management of intentional copy-cat spammers.<\/li>\n<li>Usage statistics for GPT developers.<\/li>\n<li>GPT name management - Nothing stopping people copying the most popular GPT names.<\/li>\n<li>User selected store names (Not Visa card name).<\/li>\n<li>Ability to change name after the GPT was created.<\/li>\n<li>Measures to avoid issues like the recent disappearance of uploaded GPT files.<\/li>\n<li>Clear understanding of profit sharing<\/li>\n<li>Easy to navigate the store<\/li>\n<li>Removal of low effort GPT\u2019s that add no real value.<\/li>\n<li>GPTs can be used without rapidly depleting the users AI quota.<\/li>\n<\/ul>\n<\/blockquote>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Can not switch between different domains in builder profile",
+        "Creation Time":"2023-12-04T02:03:46.753Z",
+        "View Count":324,
+        "Reply Count":0,
+        "Like Count":1,
+        "Link":"https:\/\/community.openai.com\/t\/can-not-switch-between-different-domains-in-builder-profile\/541485",
+        "Tags":[
+            "plugin-development",
+            "chatgpt-plugin",
+            "gpt-store"
+        ],
+        "Question":"<p>Everytime I select a different domain in builder profile, it just stays the same.<\/p>\n<p>The bug exists since GPTs came out.<\/p>\n<p>Could you please fix it? <a class=\"mention\" href=\"\/u\/logankilpatrick\">@logankilpatrick<\/a><\/p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6.png\" data-download-href=\"\/uploads\/short-url\/qch9d9rBiDdhWkH0DOZktliAloy.png?dl=1\" title=\"\u622a\u5c4f2023-12-03 21.00.46\" rel=\"noopener nofollow ugc\"><img src=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6_2_690x323.png\" alt=\"\u622a\u5c4f2023-12-03 21.00.46\" data-base62-sha1=\"qch9d9rBiDdhWkH0DOZktliAloy\" width=\"690\" height=\"323\" srcset=\"https:\/\/global.discourse-cdn.com\/openai1\/optimized\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6_2_690x323.png, https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6.png 1.5x, https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/b\/7\/9\/b79bc965f15d6acc2c10ba7f4b5e479957a3b0e6.png 2x\" data-dominant-color=\"D2D2D2\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"><\/use><\/svg><span class=\"filename\">\u622a\u5c4f2023-12-03 21.00.46<\/span><span class=\"informations\">874\u00d7410 29.8 KB<\/span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"><\/use><\/svg><\/div><\/a><\/div><\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"\u201cBetter Prompt\u201d Custom GPT",
+        "Creation Time":"2024-01-16T04:51:57.758Z",
+        "View Count":1295,
+        "Reply Count":0,
+        "Like Count":3,
+        "Link":"https:\/\/community.openai.com\/t\/better-prompt-custom-gpt\/588659",
+        "Tags":[
+            "prompt",
+            "prompt-engineering",
+            "custom-gpts",
+            "gpt-store",
+            "prompting"
+        ],
+        "Question":"<p>I\u2019ve created a custom GPT that uses information gained from peer-reviewed journal articles to improve user prompts.<\/p>\n<p>Are there any prompts you\u2019ve found to be especially helpful in ensuring your prompt generates the best output possible?<\/p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https:\/\/chat.openai.com\/g\/g-r4x5N0I4k-prompt-engineer-and-elevator\">\n  <header class=\"source\">\n      <img src=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/3X\/d\/5\/d5bf693dd40d319b3ee59f6d36a65adce12a8c31.png\" class=\"site-icon\" data-dominant-color=\"98BFB5\" width=\"32\" height=\"32\">\n\n      <a href=\"https:\/\/chat.openai.com\/g\/g-r4x5N0I4k-prompt-engineer-and-elevator\" target=\"_blank\" rel=\"noopener nofollow ugc\">ChatGPT<\/a>\n  <\/header>\n\n  <article class=\"onebox-body\">\n    <img width=\"500\" height=\"500\" src=\"https:\/\/global.discourse-cdn.com\/openai1\/original\/4X\/9\/5\/c\/95c22d8f2e63e686d6cf680c0ab8786d7e64b2ab.png\" class=\"thumbnail onebox-avatar\" data-dominant-color=\"424751\">\n\n<h3><a href=\"https:\/\/chat.openai.com\/g\/g-r4x5N0I4k-prompt-engineer-and-elevator\" target=\"_blank\" rel=\"noopener nofollow ugc\">ChatGPT - Prompt Engineer and Elevator<\/a><\/h3>\n\n  <p>Sharpen and refine your queries to unlock the full potential of AI with enhanced precision and clarity.<\/p>\n\n\n  <\/article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  <\/div>\n\n  <div style=\"clear: both\"><\/div>\n<\/aside>\n\n<p><a href=\"https:\/\/chat.openai.com\/g\/g-r4x5N0I4k-prompt-engineer-and-elevator\" rel=\"noopener nofollow ugc\">Prompt Engineer and Elevator<\/a><\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"GPT Store launch day speculation and guesses!",
+        "Creation Time":"2024-01-09T17:20:04.850Z",
+        "View Count":2735,
+        "Reply Count":27,
+        "Like Count":22,
+        "Link":"https:\/\/community.openai.com\/t\/gpt-store-launch-day-speculation-and-guesses\/579705",
+        "Tags":[
+            "chatgpt",
+            "plugin-development",
+            "gpt-store"
+        ],
+        "Question":"<p>It\u2019s Tuesday 12:16pm ET and the GPT store hasn\u2019t launched yet. When do you think Open AI will pull the trigger?<\/p>\n<p>My guess is a midweek launch on <strong>Wednesday 10 AM PT<\/strong>!<\/p>\n<p>What are your guesses?<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Updates on Store changes, plans, etc. etc",
+        "Creation Time":"2024-01-27T21:53:33.106Z",
+        "View Count":531,
+        "Reply Count":4,
+        "Like Count":1,
+        "Link":"https:\/\/community.openai.com\/t\/updates-on-store-changes-plans-etc-etc\/604269",
+        "Tags":[
+            "store-rollout"
+        ],
+        "Question":"<p>Is anyone aware of any release log or any sort of information on the changes in the store such as:<\/p>\n<ul>\n<li>search relevance continual changes<\/li>\n<li>changes in \u2018chat\u2019 bubble display<\/li>\n<li>etc.<\/li>\n<\/ul>\n<p>Right now I\u2019m wondering how others are managing to gauge success of their apps, or understand how to continue to build without much information on how the store itself is being managed.<\/p>\n<p>Here is a simple question, how are other builders determining that people are using their gpt\u2019s other than themselves? Put simply how do you know if anyone is actually finding, and using your gpt. I\u2019m discounting other developers, friends, etc. etc., aka - people actually discovering gpt\u2019s\u2026<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"The GPT Store search acts strange to me",
+        "Creation Time":"2024-01-13T05:27:41.698Z",
+        "View Count":846,
+        "Reply Count":24,
+        "Like Count":17,
+        "Link":"https:\/\/community.openai.com\/t\/the-gpt-store-search-acts-strange-to-me\/584965",
+        "Tags":[
+            "gpt-store"
+        ],
+        "Question":"<p>The GPT Store search acts strange or I don\u2019t know how to properly use it.<\/p>\n<p>If I type a partial word, sometimes it will find GPTs, sometimes it won\u2019t until you type in a full word.<br>\nSome of my GPTs that are not public appear in search results. But not all. How?<br>\nWhen I search for one of my GPTs that IS public, it always shows at top. I assume that is specific to each individual. In other words, I have no way to know where it appears in search results for other users, just that it is always <span class=\"hashtag-raw\">#1<\/span> for me.<br>\nShould we pack our GPT name and description with lots of relevant keywords to get it to show up more? Use generic GPT names instead of unique ones?<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"Experiences with Adapting Plugins for Bing Chat\/Copilot?",
+        "Creation Time":"2024-01-24T18:34:18.060Z",
+        "View Count":439,
+        "Reply Count":2,
+        "Like Count":11,
+        "Link":"https:\/\/community.openai.com\/t\/experiences-with-adapting-plugins-for-bing-chat-copilot\/600325",
+        "Tags":[
+            "plugin-development",
+            "gpt-store"
+        ],
+        "Question":"<p>I began developing a plugin but shifted focus to creating a GPT for the OpenAI GPT store. Now, I\u2019m considering adapting this GPT for use in Bing Chat and Copilot. Has anyone here experienced a similar transition? I\u2019d love to hear about your journey, particularly any challenges or insights you encountered in making your plugin compatible with Bing Chat and Copilot.<\/p>",
+        "Accepted Answer":null
+    },
+    {
+        "Title":"If your subscription expires what happens to your custom chatgpt bots?",
+        "Creation Time":"2024-01-15T08:18:48.489Z",
+        "View Count":361,
+        "Reply Count":0,
+        "Like Count":2,
+        "Link":"https:\/\/community.openai.com\/t\/if-your-subscription-expires-what-happens-to-your-custom-chatgpt-bots\/587318",
+        "Tags":[
+            "chatgpt",
+            "gpt-4",
+            "gpt-store"
+        ],
+        "Question":"<p>Anyone know if you build a custom chatgpt and your subscription expires, what happens to your custom chatgpt?<\/p>",
+        "Accepted Answer":null
     }
 ]
