@@ -45,7 +45,7 @@ soup = BeautifulSoup(html_content, 'html.parser')
 # Find all links containing the keyword "GPT"
 links_with_gpt_keyword = []
 for link in soup.find_all('a'):
-    if 'GPT' in link.get_text():
+    if 'gpt' in link.get_text().lower():
         links_with_gpt_keyword.append((link.get_text(), link.get('href')))
 
 # For each GitHub link containing "GPT", parse its README.md content and extract GitHub linkages
