@@ -47,6 +47,8 @@ links_with_gpt_keyword = []
 for link in soup.find_all('a'):
     if 'gpt' in link.get_text().lower():
         links_with_gpt_keyword.append((link.get_text(), link.get('href')))
+    elif 'agent' in link.get_text().lower():
+        links_with_gpt_keyword.append((link.get_text(), link.get('href')))
 
 # For each GitHub link containing "GPT", parse its README.md content and extract GitHub linkages
 app_repo_links = set()
