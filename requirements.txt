@@ -1,4 +1,6 @@
 beautifulsoup4
+huggingface_hub
+ipywidgets
 markdown
 pandas
 praw
