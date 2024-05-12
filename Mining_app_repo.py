@@ -1,7 +1,7 @@
 import requests
 import markdown
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse, urljoin
+from urllib.parse import urlparse
 
 # Function to fetch and parse README.md content from a GitHub repo URL
 def parse_readme_from_url(repo_url):
