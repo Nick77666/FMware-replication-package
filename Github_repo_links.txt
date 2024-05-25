@@ -457,7 +457,7 @@ https://github.com/aggregate-intellect/practical-llms
 https://github.com/luijait/darkgpt
 https://github.com/thudm/webglm
 https://github.com/Microsoft/nni
-https://github.com/Stability-AI/StableLM#stablevicuna
+https://github.com/Stability-AI/StableLM
 https://github.com/ryuseisan/auto-chatgpt
 https://github.com/knowledgecanvas/knowledge
 https://github.com/platelminto/chatgpt-conversation
@@ -499,7 +499,7 @@ https://github.com/pointnetwork/point-alpaca
 https://github.com/intel/neural-compressor
 https://github.com/enricoros/nextjs-chatgpt-app
 https://github.com/entropy-research/Devon
-https://github.com/tatsu-lab/stanford_alpaca#fine-tuning
+https://github.com/tatsu-lab/stanford_alpaca
 https://github.com/Infini-AI-Lab/TriForce
 https://github.com/lyogavin/Anima
 https://github.com/chazzjimel/midjourney_turbo
@@ -616,7 +616,7 @@ https://github.com/xenodium/chatgpt-shell
 https://github.com/Tencent/Forward
 https://github.com/evanthebouncy/larc_gpt4
 https://github.com/huggingface/accelerate
-https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8
+https://github.com/prompt-engineering/prompt-patterns
 https://github.com/MisterJimson/chatgpt_api_dart
 https://github.com/embraceagi/langgpt
 https://github.com/weaigc/gradio-chatbot
@@ -1219,7 +1219,7 @@ https://github.com/sunlemuria/open_source_chatgpt_list
 https://github.com/Zhengqbbb/cz-git
 https://github.com/manyoso/haltt4llm
 https://github.com/ZIB-IOL/PERP
-https://github.com/lightaime/camel#data-hosted-on-hugging-face
+https://github.com/lightaime/camel
 https://github.com/keras-team/keras
 https://github.com/lucasmccabe/emailGPT
 https://github.com/samterfa/openai
@@ -1656,7 +1656,7 @@ https://github.com/CurryTang/Graph-LLM
 https://github.com/microsoft/JARVIS
 https://github.com/37iOS/iChatGPT
 https://github.com/jerryjliu/llama_index
-https://github.com/RUCAIBox/LLMSurvey#planning-for-complex-task-solving
+https://github.com/RUCAIBox/LLMSurvey
 https://github.com/openai/openai-quickstart-python
 https://github.com/purton-tech/bionicgpt
 https://github.com/theokanning/openai-java
@@ -1985,7 +1985,7 @@ https://github.com/CrystalEye42/eval-safety
 https://github.com/mpociot/chatgpt-vscode
 https://github.com/ebhy/budgetml
 https://github.com/windmaple/awesome-AutoML
-https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93
+https://github.com/xcanwin/keepchatgpt
 https://github.com/jtmuller5/ai-twitter-history
 https://github.com/tcapelle/termgpt
 https://github.com/openai-translator/bob-plugin-openai-translator
@@ -2368,8 +2368,8 @@ https://github.com/AntonOsika/CLI-Co-Pilot
 https://github.com/husanr/wechat_gpt_laf
 https://github.com/refcell/run-wild
 https://github.com/marcominerva/chatgptnet
-https://github.com/LianjiaTech/BELLE#-belle-be-large-language-model-engine-1
-https://github.com/openai/chatgpt-retrieval-plugin#supabase
+https://github.com/LianjiaTech/BELLE
+https://github.com/openai/chatgpt-retrieval-plugin
 https://github.com/OpenDevin/OpenDevin
 https://github.com/ymcui/Chinese-LLaMA-Alpaca
 https://github.com/arc53/docsgpt
@@ -2393,7 +2393,7 @@ https://github.com/ray-project/llmperf-leaderboard
 https://github.com/py499372727/AgentSims
 https://github.com/EthicalML/awesome-production-machine-learning
 https://github.com/intelligentnode/intellinode
-https://github.com/tw93/pake#popular-packages
+https://github.com/tw93/pake
 https://github.com/mahseema/connect-chatgpt-to-internet
 https://github.com/zurawiki/gptcommit
 https://github.com/pionxzh/chatgpt-exporter
@@ -2411,7 +2411,7 @@ https://github.com/jmorganca/ollama
 https://github.com/xiongsiheng/TG-LLM
 https://github.com/jina-ai/langchain-serve
 https://github.com/lutzroeder/netron
-https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys#large-language-models-as-zero-shot-conversational-recommenders
+https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys
 https://github.com/0xacx/chatgpt-shell-cli
 https://github.com/IST-DASLab/sparsegpt
 https://github.com/promptslab/awesome-prompt-engineering
@@ -2445,7 +2445,7 @@ https://github.com/lifeiteng/vall-e
 https://github.com/timinar/BabyLlama
 https://github.com/ServiceNow/PromptMix-EMNLP-2023
 https://github.com/lobehub/lobe-chat
-https://github.com/OpenLMLab/MOSS#数据
+https://github.com/OpenLMLab/MOSS
 https://github.com/THUDM/ChatGLM3
 https://github.com/madawei2699/mygptreader
 https://github.com/okgodoit/openai-api-dotnet
@@ -2526,7 +2526,7 @@ https://github.com/cluebenchmark/superclue
 https://github.com/samuraigpt/privategpt
 https://github.com/VITA-Group/essential_sparsity
 https://github.com/whoiskatrin/chart-gpt
-https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd
+https://github.com/xcanwin/keepchatgpt
 https://github.com/hesse/gitgpt
 https://github.com/IST-DASLab/gptq
 https://github.com/jucasoliveira/terminalgpt

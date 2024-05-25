@@ -168,7 +168,7 @@ https://github.com/iejmac/gptreview
 https://github.com/deep-diver/llm-as-chatbot
 https://github.com/aggregate-intellect/practical-llms
 https://github.com/thudm/webglm
-https://github.com/Stability-AI/StableLM#stablevicuna
+https://github.com/Stability-AI/StableLM
 https://github.com/RUCAIBox/LLMRank
 https://github.com/lich99/ChatGLM-finetune-LoRA
 https://github.com/microsoft/TaskMatrix
@@ -181,7 +181,7 @@ https://github.com/xtekky/chatgpt-clone
 https://github.com/timkmecl/chatgpt-api-wrapper
 https://github.com/pointnetwork/point-alpaca
 https://github.com/entropy-research/Devon
-https://github.com/tatsu-lab/stanford_alpaca#fine-tuning
+https://github.com/tatsu-lab/stanford_alpaca
 https://github.com/lyogavin/Anima
 https://github.com/chathub-dev/chathub
 https://github.com/lm-sys/FastChat
@@ -428,7 +428,7 @@ https://github.com/neuml/txtai
 https://github.com/deskbtm/nitmgpt
 https://github.com/OpenNLPLab/TransnormerLLM
 https://github.com/manyoso/haltt4llm
-https://github.com/lightaime/camel#data-hosted-on-hugging-face
+https://github.com/lightaime/camel
 https://github.com/Gary3410/TaPA
 https://github.com/teknium1/GPTeacher
 https://github.com/yuchenlin/SwiftSage
@@ -589,7 +589,7 @@ https://github.com/Shawn-Inspur/Yuan-1.0
 https://github.com/CurryTang/Graph-LLM
 https://github.com/microsoft/JARVIS
 https://github.com/37iOS/iChatGPT
-https://github.com/RUCAIBox/LLMSurvey#planning-for-complex-task-solving
+https://github.com/RUCAIBox/LLMSurvey
 https://github.com/allenai/natural-instructions
 https://github.com/SafeAILab/EAGLE
 https://github.com/sullivan-sean/chat-langchainjs
@@ -828,8 +828,8 @@ https://github.com/chanchimin/ChatEval
 https://github.com/AntonOsika/CLI-Co-Pilot
 https://github.com/husanr/wechat_gpt_laf
 https://github.com/marcominerva/chatgptnet
-https://github.com/LianjiaTech/BELLE#-belle-be-large-language-model-engine-1
-https://github.com/openai/chatgpt-retrieval-plugin#supabase
+https://github.com/LianjiaTech/BELLE
+https://github.com/openai/chatgpt-retrieval-plugin
 https://github.com/ymcui/Chinese-LLaMA-Alpaca
 https://github.com/notmahi/clip-fields
 https://github.com/noahshinn024/reflexion
@@ -846,7 +846,7 @@ https://github.com/smol-ai/developer
 https://github.com/TigerResearch/TigerBot
 https://github.com/lifeiteng/vall-e
 https://github.com/lobehub/lobe-chat
-https://github.com/OpenLMLab/MOSS#数据
+https://github.com/OpenLMLab/MOSS
 https://github.com/THUDM/ChatGLM3
 https://github.com/madawei2699/mygptreader
 https://github.com/huangwl18/language-planner

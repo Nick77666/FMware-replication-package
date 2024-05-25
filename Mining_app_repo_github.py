@@ -59,8 +59,9 @@ for title, github_link in links_with_gpt_keyword:
     print(f"Awesome List: {title}\nGitHub Link: {github_link}\n")
     for link in github_links:
         if len(link.split('/')) == 5:
+            link = link.split('#')[0]
             app_repo_links.add(link)
 
-with open('app_repo_links.txt', 'w') as f:
+with open('Github_repo_links.txt', 'w') as f:
     for link in app_repo_links:
         f.write(link + '\n')
