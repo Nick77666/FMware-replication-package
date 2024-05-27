@@ -114,7 +114,7 @@ https://github.com/yoheinakajima/babyagi
 https://github.com/deep-diver/llm-as-chatbot
 https://github.com/luijait/darkgpt
 https://github.com/thudm/webglm
-https://github.com/Stability-AI/StableLM#stablevicuna
+https://github.com/Stability-AI/StableLM
 https://github.com/RUCAIBox/LLMRank
 https://github.com/lich99/ChatGLM-finetune-LoRA
 https://github.com/microsoft/TaskMatrix
@@ -125,7 +125,7 @@ https://github.com/pan-x-c/EE-LLM
 https://github.com/k4l1sh/alexa-gpt
 https://github.com/cpacker/MemGPT
 https://github.com/wpeace-hch/wpechatgpt
-https://github.com/tatsu-lab/stanford_alpaca#fine-tuning
+https://github.com/tatsu-lab/stanford_alpaca
 https://github.com/Infini-AI-Lab/TriForce
 https://github.com/htqin/ir-qlora
 https://github.com/lm-sys/FastChat
@@ -298,7 +298,7 @@ https://github.com/huggingface/instruction-tuned-sd
 https://github.com/linexjlin/gpts
 https://github.com/neuml/txtai
 https://github.com/deskbtm/nitmgpt
-https://github.com/lightaime/camel#data-hosted-on-hugging-face
+https://github.com/lightaime/camel
 https://github.com/teknium1/GPTeacher
 https://github.com/yuchenlin/SwiftSage
 https://github.com/THUDM/AgentBench
@@ -597,7 +597,7 @@ https://github.com/ridgerchu/spikegpt
 https://github.com/hiyouga/FastEdit
 https://github.com/husanr/wechat_gpt_laf
 https://github.com/marcominerva/chatgptnet
-https://github.com/LianjiaTech/BELLE#-belle-be-large-language-model-engine-1
+https://github.com/LianjiaTech/BELLE
 https://github.com/ymcui/Chinese-LLaMA-Alpaca
 https://github.com/notmahi/clip-fields
 https://github.com/WLiK/LLM4Rec
@@ -619,7 +619,7 @@ https://github.com/TigerResearch/TigerBot
 https://github.com/lifeiteng/vall-e
 https://github.com/timinar/BabyLlama
 https://github.com/lobehub/lobe-chat
-https://github.com/OpenLMLab/MOSS#数据
+https://github.com/OpenLMLab/MOSS
 https://github.com/THUDM/ChatGLM3
 https://github.com/madawei2699/mygptreader
 https://github.com/huangwl18/language-planner
